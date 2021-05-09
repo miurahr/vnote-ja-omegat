@@ -1,9 +1,1393 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_unknown" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_unknown" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>%1 Bytes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052857Z" creationid="miurahr" creationdate="20210509T050124Z">
+        <seg>%1バイト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%1/%2 Items</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045610Z" creationid="miurahr" creationdate="20210509T045610Z">
+        <seg>%1/%2アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045338Z" creationid="miurahr" creationdate="20210509T045338Z">
+        <seg>戻る(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050452Z" creationid="miurahr" creationdate="20210509T050452Z">
+        <seg>ブラウズ(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Case sensitive</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050251Z" creationid="miurahr" creationdate="20210509T050251Z">
+        <seg>大文字と小文字を区別(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Delete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050144Z" creationid="miurahr" creationdate="20210509T050144Z">
+        <seg>削除(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Forward</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045347Z" creationid="miurahr" creationdate="20210509T045347Z">
+        <seg>進む(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Incremental search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050255Z" creationid="miurahr" creationdate="20210509T050255Z">
+        <seg>インクリメンタル検索(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Open</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050142Z" creationid="miurahr" creationdate="20210509T050136Z">
+        <seg>開く(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050153Z" creationid="miurahr" creationdate="20210509T050153Z">
+        <seg>設定(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045350Z" creationid="miurahr" creationdate="20210509T045350Z">
+        <seg>再読み込み(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Whole word only</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050253Z" creationid="miurahr" creationdate="20210509T050253Z">
+        <seg>単語全体のみ(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;x1/&gt; file(s) exported</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045854Z" creationid="miurahr" creationdate="20210509T045854Z">
+        <seg>&lt;x1/&gt; file(s) exported</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A notebook with configuration files to track its content</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052529Z" creationid="miurahr" creationdate="20210509T045331Z">
+        <seg>コンテンツを追跡するための構成ファイルを備えたノートブック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aborting.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050110Z" creationid="miurahr" creationdate="20210509T050110Z">
+        <seg>中止します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045400Z" creationid="miurahr" creationdate="20210509T045400Z">
+        <seg>追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Dictionary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052934Z" creationid="miurahr" creationdate="20210509T045643Z">
+        <seg>辞書を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Table-Of-Contents</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050005Z" creationid="miurahr" creationdate="20210509T050005Z">
+        <seg>目次を追加する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add outline panel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045948Z" creationid="miurahr" creationdate="20210509T045948Z">
+        <seg>アウトライン・パネルの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045837Z" creationid="miurahr" creationdate="20210509T045837Z">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alt text:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T051744Z" creationid="miurahr" creationdate="20210509T051744Z">
+        <seg>Altテキスト:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045358Z" creationid="miurahr" creationdate="20210509T045358Z">
+        <seg>外観</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Asked to stop.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052821Z" creationid="miurahr" creationdate="20210509T050105Z">
+        <seg>止めるように言われました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Save</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045620Z" creationid="miurahr" creationdate="20210509T045620Z">
+        <seg>自動保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto save policy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045615Z" creationid="miurahr" creationdate="20210509T045615Z">
+        <seg>自動保存ポリシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto save policy:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045630Z" creationid="miurahr" creationdate="20210509T045630Z">
+        <seg>自動保存ポリシー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Backup File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045628Z" creationid="miurahr" creationdate="20210509T045628Z">
+        <seg>バックアップファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045823Z" creationid="miurahr" creationdate="20210509T045823Z">
+        <seg>ブラウズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Built-in VNoteX notebook configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052552Z" creationid="miurahr" creationdate="20210509T045333Z">
+        <seg>内蔵のVNoteXノートブック設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bundle Notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052524Z" creationid="miurahr" creationdate="20210509T045330Z">
+        <seg>ノートブックのバンドル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancelling the export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045900Z" creationid="miurahr" creationdate="20210509T045900Z">
+        <seg>エクスポートをキャンセルしています</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050330Z" creationid="miurahr" creationdate="20210509T050330Z">
+        <seg>クリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Complete page</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045917Z" creationid="miurahr" creationdate="20210509T045917Z">
+        <seg>完全なページ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cop&amp;y Path</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050208Z" creationid="miurahr" creationdate="20210509T050208Z">
+        <seg>パスをコピー(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copied path: %1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050225Z" creationid="miurahr" creationdate="20210509T050225Z">
+        <seg>コピーされたファイルパス: %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy Content</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045849Z" creationid="miurahr" creationdate="20210509T045849Z">
+        <seg>コンテンツをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy exported file content</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045851Z" creationid="miurahr" creationdate="20210509T045851Z">
+        <seg>Copy exported file content</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Critical</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052519Z" creationid="miurahr" creationdate="20210509T045328Z">
+        <seg>クリティカル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Buffer (%1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045714Z" creationid="miurahr" creationdate="20210509T045714Z">
+        <seg>現在のバッファ(%1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Folder (%1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045728Z" creationid="miurahr" creationdate="20210509T045728Z">
+        <seg>現在のフォルダ(%1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Note (%1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045725Z" creationid="miurahr" creationdate="20210509T045725Z">
+        <seg>現在のノート(%1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Notebook (%1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045730Z" creationid="miurahr" creationdate="20210509T045730Z">
+        <seg>現在のノートブック(%1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045746Z" creationid="miurahr" creationdate="20210509T045746Z">
+        <seg>カスタム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050400Z" creationid="miurahr" creationdate="20210509T050356Z">
+        <seg>既定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default dictionary used for spell check</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052930Z" creationid="miurahr" creationdate="20210509T045640Z">
+        <seg>スペルチェックに使用するデフォルト辞書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Desktop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050410Z" creationid="miurahr" creationdate="20210509T050410Z">
+        <seg>デスクトップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable version control</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052620Z" creationid="miurahr" creationdate="20210509T045335Z">
+        <seg>バージョン管理を無効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not ask again</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045607Z" creationid="miurahr" creationdate="20210509T045607Z">
+        <seg>今後、再確認しない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050013Z" creationid="miurahr" creationdate="20210509T050013Z">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dummy Version Control</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052624Z" creationid="miurahr" creationdate="20210509T045334Z">
+        <seg>ダミーのバージョン管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045656Z" creationid="miurahr" creationdate="20210509T045656Z">
+        <seg>エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Embed images</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045914Z" creationid="miurahr" creationdate="20210509T045914Z">
+        <seg>画像の埋め込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Embed styles</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045939Z" creationid="miurahr" creationdate="20210509T045911Z">
+        <seg>スタイルの埋め込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit F&amp;ull Screen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050339Z" creationid="miurahr" creationdate="20210509T050339Z">
+        <seg>Exit F&amp;ull Screen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045658Z" creationid="miurahr" creationdate="20210509T045658Z">
+        <seg>エキスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export attachments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052905Z" creationid="miurahr" creationdate="20210509T045844Z">
+        <seg>添付ファイルのエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export the whole page along with images which may change the links structure</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052902Z" creationid="miurahr" creationdate="20210509T045919Z">
+        <seg>リンク構造を変更する可能性のある画像と共にページ全体をエクスポートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F&amp;ull Screen</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050337Z" creationid="miurahr" creationdate="20210509T050337Z">
+        <seg>F&amp;ull Screen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to add file (%1) as node (%2).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052205Z" creationid="miurahr" creationdate="20210509T052205Z">
+        <seg>ファイル (%1) をノード(%2)として追加できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to add folder (%1) as node (%2).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052137Z" creationid="miurahr" creationdate="20210509T052137Z">
+        <seg>フォルダ (%1) をノード(%2)として追加できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to add folder (%1) as node under (%2).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052107Z" creationid="miurahr" creationdate="20210509T051852Z">
+        <seg>フォルダ (%1) を、 (%2) 配下のノードに追加できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to create output folder %1.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052735Z" creationid="miurahr" creationdate="20210509T050034Z">
+        <seg>出力フォルダ%1の作成に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to export file (%1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052751Z" creationid="miurahr" creationdate="20210509T050102Z">
+        <seg>ファイル(%1)のエクスポートに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to rename attachment (%1) to (%2).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045516Z" creationid="miurahr" creationdate="20210509T045516Z">
+        <seg>添付ファイル(%1)の(%2)への名前変更に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to save folder (%1) in (%2) (%3).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050336Z" creationid="miurahr" creationdate="20210509T050336Z">
+        <seg>Failed to save folder (%1) in (%2) (%3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File (%1) conflicts with built-in file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052307Z" creationid="miurahr" creationdate="20210509T052307Z">
+        <seg>フォルダ (%1) は、ビルトインファイルと干渉します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File (%1) does not exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052256Z" creationid="miurahr" creationdate="20210509T052256Z">
+        <seg>ファイル (%1) は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File (%1) exported to (%2)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052749Z" creationid="miurahr" creationdate="20210509T050051Z">
+        <seg>ファイル(%1)を(%2)にエクスポートしました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File name:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045420Z" creationid="miurahr" creationdate="20210509T045420Z">
+        <seg>ファイル名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find &amp;Next</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050234Z" creationid="miurahr" creationdate="20210509T050234Z">
+        <seg>次を検索(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find &amp;Previous</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050237Z" creationid="miurahr" creationdate="20210509T050237Z">
+        <seg>前を検索(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find And Replace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050228Z" creationid="miurahr" creationdate="20210509T050228Z">
+        <seg>検索/置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050230Z" creationid="miurahr" creationdate="20210509T050230Z">
+        <seg>検索:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Folder (%1) conflicts with built-in folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052242Z" creationid="miurahr" creationdate="20210509T052242Z">
+        <seg>フォルダ (%1) は、ビルトインフォルダと干渉します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Folder (%1) does not exist.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052223Z" creationid="miurahr" creationdate="20210509T052223Z">
+        <seg>フォルダ (%1) は存在しません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Folder name:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045428Z" creationid="miurahr" creationdate="20210509T045428Z">
+        <seg>フォルダ名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050257Z" creationid="miurahr" creationdate="20210509T050257Z">
+        <seg>フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Format %1 is not supported to export as HTML.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052804Z" creationid="miurahr" creationdate="20210509T050104Z">
+        <seg>フォーマット %1 はHTMLとしてエクスポートできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Format %1 is not supported to export as Markdown.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052745Z" creationid="miurahr" creationdate="20210509T050035Z">
+        <seg>フォーマット%1はMarkdownとしてエクスポートできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Format %1 is not supported to export as PDF.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052722Z" creationid="miurahr" creationdate="20210509T050113Z">
+        <seg>フォーマット %1 はPDFとしてエクスポートできません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045751Z" creationid="miurahr" creationdate="20210509T045751Z">
+        <seg>フォーマット:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050450Z" creationid="miurahr" creationdate="20210509T050450Z">
+        <seg>From:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050445Z" creationid="miurahr" creationdate="20210509T050445Z">
+        <seg>一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HTML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045743Z" creationid="miurahr" creationdate="20210509T045743Z">
+        <seg>HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Icon size of the editor tool bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045635Z" creationid="miurahr" creationdate="20210509T045635Z">
+        <seg>Icon size of the editor tool bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Icon size of the main window tool bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052635Z" creationid="miurahr" creationdate="20210509T045356Z">
+        <seg>メインウィンドウツールバーのアイコンサイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Images (*.png *.xpm *.jpg *.bmp *.gif *.svg *.webp);;All (*.*)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T051806Z" creationid="miurahr" creationdate="20210509T051806Z">
+        <seg>画像(*.png*.xpm*.jpg*.bmp*.gif*.svg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T051831Z" creationid="miurahr" creationdate="20210509T051831Z">
+        <seg>フォルダをインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import Legacy Notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052331Z" creationid="miurahr" creationdate="20210509T052331Z">
+        <seg>レガシーノートブックをインポートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import folder into (%1).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T051823Z" creationid="miurahr" creationdate="20210509T051823Z">
+        <seg>フォルダを (%1) へインポートする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045325Z" creationid="miurahr" creationdate="20210509T045315Z">
+        <seg>情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Interface language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050352Z" creationid="miurahr" creationdate="20210509T050352Z">
+        <seg>インタフェースの言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Landscape</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050032Z" creationid="miurahr" creationdate="20210509T050032Z">
+        <seg>横長書式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050402Z" creationid="miurahr" creationdate="20210509T050357Z">
+        <seg>言語:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local Notebook Backend</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052531Z" creationid="miurahr" creationdate="20210509T045331Z">
+        <seg>ローカルノートブックバックエンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local file system</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052534Z" creationid="miurahr" creationdate="20210509T045332Z">
+        <seg>ローカルファイルシステム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052727Z" creationid="miurahr" creationdate="20210509T050115Z">
+        <seg>場所:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main tool bar icon size:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052637Z" creationid="miurahr" creationdate="20210509T045357Z">
+        <seg>メインツールバーアイコンのサイズ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Markdown</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045559Z" creationid="miurahr" creationdate="20210509T045559Z">
+        <seg>Markdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mime HTML format</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045923Z" creationid="miurahr" creationdate="20210509T045923Z">
+        <seg>Mime HTML format</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minimize to system tray</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050421Z" creationid="miurahr" creationdate="20210509T050421Z">
+        <seg>システムトレイに最小化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minimize to system tray when closed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050443Z" creationid="miurahr" creationdate="20210509T050443Z">
+        <seg>VNoteを閉じた後、システムトレイに最小化する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name conflicts with existing folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052830Z" creationid="miurahr" creationdate="20210509T050336Z">
+        <seg>名前が既存のフォルダと重複しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050117Z" creationid="miurahr" creationdate="20210509T050117Z">
+        <seg>名前:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Attachment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045415Z" creationid="miurahr" creationdate="20210509T045415Z">
+        <seg>新規添付ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045403Z" creationid="miurahr" creationdate="20210509T045403Z">
+        <seg>新規ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045423Z" creationid="miurahr" creationdate="20210509T045423Z">
+        <seg>新規フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045618Z" creationid="miurahr" creationdate="20210509T045618Z">
+        <seg>なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once imported, the legacy notebook could no longer be recognized by legacy VNote!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052412Z" creationid="miurahr" creationdate="20210509T052412Z">
+        <seg>一度インポートを実行すると、レガシーノートブックは、レガシーVnoteから認識されなくなります!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045846Z" creationid="miurahr" creationdate="20210509T045846Z">
+        <seg>ディレクトリを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045431Z" creationid="miurahr" creationdate="20210509T045431Z">
+        <seg>フォルダを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenGL ES</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050410Z" creationid="miurahr" creationdate="20210509T050410Z">
+        <seg>OpenGL ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenGL implementation used to render application</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050404Z" creationid="miurahr" creationdate="20210509T050404Z">
+        <seg>OpenGL implementation used to render application</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OpenGL:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050416Z" creationid="miurahr" creationdate="20210509T050416Z">
+        <seg>OpenGL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Others</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045601Z" creationid="miurahr" creationdate="20210509T045601Z">
+        <seg>Others</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output directory:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045832Z" creationid="miurahr" creationdate="20210509T045832Z">
+        <seg>出力ディレクトリ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PDF</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045744Z" creationid="miurahr" creationdate="20210509T045744Z">
+        <seg>PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page layout:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045955Z" creationid="miurahr" creationdate="20210509T045955Z">
+        <seg>ページレイアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please download Hunspell's dictionaries, put them under (%1) and restart VNote.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T053000Z" creationid="miurahr" creationdate="20210509T045644Z">
+        <seg>Hunspellの辞書をダウンロードして(%1)の下に置き、VNoteを再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please make sure the new VNote already meets all your needs before continue.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052451Z" creationid="miurahr" creationdate="20210509T052451Z">
+        <seg>続行する前に、新しいVNoteがすべてのニーズを満たしていることを確認してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please select one directory to continue.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T053020Z" creationid="miurahr" creationdate="20210509T045557Z">
+        <seg>続行するディレクトリを1つ選択してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please specify a name for the folder.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052829Z" creationid="miurahr" creationdate="20210509T050335Z">
+        <seg>フォルダの名前を指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please specify a valid folder to import.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T051854Z" creationid="miurahr" creationdate="20210509T051851Z">
+        <seg>インポートする適切なフォルダを指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please specify a valid root folder to import.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052708Z" creationid="miurahr" creationdate="20210509T052708Z">
+        <seg>インポートする有効なルートフォルダを指定してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please specify a valid wkhtmltopdf executable file (%1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045904Z" creationid="miurahr" creationdate="20210509T045904Z">
+        <seg>Please specify a valid wkhtmltopdf executable file (%1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please try another name again.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045553Z" creationid="miurahr" creationdate="20210509T045553Z">
+        <seg>別の名前を選択して再実施してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Portrait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050031Z" creationid="miurahr" creationdate="20210509T050031Z">
+        <seg>縦長書式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Process sub-folders</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052921Z" creationid="miurahr" creationdate="20210509T045841Z">
+        <seg>サブフォルダを処理する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050333Z" creationid="miurahr" creationdate="20210509T050125Z">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Question</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T053012Z" creationid="miurahr" creationdate="20210509T044202Z">
+        <seg>質問</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Re&amp;gular expression</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050254Z" creationid="miurahr" creationdate="20210509T050254Z">
+        <seg>正規表現(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rendering style:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045817Z" creationid="miurahr" creationdate="20210509T045812Z">
+        <seg>レンダリングスタイル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050245Z" creationid="miurahr" creationdate="20210509T050245Z">
+        <seg>置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050250Z" creationid="miurahr" creationdate="20210509T050250Z">
+        <seg>すべて置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace And Find</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050248Z" creationid="miurahr" creationdate="20210509T050248Z">
+        <seg>検索と置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050239Z" creationid="miurahr" creationdate="20210509T050239Z">
+        <seg>置換(&amp;R):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scaling width:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T051746Z" creationid="miurahr" creationdate="20210509T051746Z">
+        <seg>スケール幅:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050231Z" creationid="miurahr" creationdate="20210509T050231Z">
+        <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050310Z" creationid="miurahr" creationdate="20210509T050310Z">
+        <seg>すべて置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Export Output Directory</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052516Z" creationid="miurahr" creationdate="20210509T052516Z">
+        <seg>エクスポート出力ディレクトリの選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Files As Attachments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045401Z" creationid="miurahr" creationdate="20210509T045401Z">
+        <seg>添付するファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Image To Insert</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T051759Z" creationid="miurahr" creationdate="20210509T051759Z">
+        <seg>挿入する画像を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Notebook Root Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050305Z" creationid="miurahr" creationdate="20210509T050305Z">
+        <seg>ノートブックルートフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select files:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050323Z" creationid="miurahr" creationdate="20210509T050307Z">
+        <seg>ファイルを選択:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select wkhtmltopdf Executable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050016Z" creationid="miurahr" creationdate="20210509T050016Z">
+        <seg>wkhtmltopdfの実行ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045949Z" creationid="miurahr" creationdate="20210509T045949Z">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Size:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050121Z" creationid="miurahr" creationdate="20210509T050121Z">
+        <seg>サイズ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skip binary file (%1)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050139Z" creationid="miurahr" creationdate="20210509T050134Z">
+        <seg>バイナリファイル (%1) をスキップします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skipped buffer (%1) without file base.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052732Z" creationid="miurahr" creationdate="20210509T050034Z">
+        <seg>ファイルベースのないバッファ(%1)をスキップしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Software</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050414Z" creationid="miurahr" creationdate="20210509T050414Z">
+        <seg>ソフトウエア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045704Z" creationid="miurahr" creationdate="20210509T045704Z">
+        <seg>ソース</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Source:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045736Z" creationid="miurahr" creationdate="20210509T045736Z">
+        <seg>ソース:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spell check dictionary:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T053007Z" creationid="miurahr" creationdate="20210509T045646Z">
+        <seg>スペルチェック辞書:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Syntax highlighting style:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052927Z" creationid="miurahr" creationdate="20210509T045820Z">
+        <seg>構文強調表示スタイル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>System title bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052629Z" creationid="miurahr" creationdate="20210509T045351Z">
+        <seg>システムタイトルバー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045740Z" creationid="miurahr" creationdate="20210509T045740Z">
+        <seg>ターゲット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045600Z" creationid="miurahr" creationdate="20210509T045600Z">
+        <seg>Text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This operation is irreversible.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052426Z" creationid="miurahr" creationdate="20210509T052426Z">
+        <seg>この処理は不可逆です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050454Z" creationid="miurahr" creationdate="20210509T050454Z">
+        <seg>タイトル：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tool bar icon size:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045638Z" creationid="miurahr" creationdate="20210509T045638Z">
+        <seg>ツールバーのアイコンサイズ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unknown target format %1.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050057Z" creationid="miurahr" creationdate="20210509T050048Z">
+        <seg>不明なターゲットフォーマット %1 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use system title bar</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052632Z" creationid="miurahr" creationdate="20210509T045354Z">
+        <seg>システムタイトルバーを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use transparent background</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045759Z" creationid="miurahr" creationdate="20210509T045759Z">
+        <seg>透明な背景を使用する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use wkhtmltopdf</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050009Z" creationid="miurahr" creationdate="20210509T050009Z">
+        <seg>wkhtmltopdfを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VNote uses [Hunspell](http://hunspell.github.io/) for spell check.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052952Z" creationid="miurahr" creationdate="20210509T045643Z">
+        <seg>VNoteはスペルチェックには[Hunspell](http://hunspell.github.io/)を使用します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VNoteX Notebook Configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052545Z" creationid="miurahr" creationdate="20210509T045333Z">
+        <seg>VNoteXノートブック設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045327Z" creationid="miurahr" creationdate="20210509T045327Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome to VNoteX and the new VNote!</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052507Z" creationid="miurahr" creationdate="20210509T052507Z">
+        <seg>VNoteXと新しいVNoteへようこそ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wkhtmltopdf arguments:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050028Z" creationid="miurahr" creationdate="20210509T050028Z">
+        <seg>wkhtmltopdf の引数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wkhtmltopdf path:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T050019Z" creationid="miurahr" creationdate="20210509T050019Z">
+        <seg>wkhtmltopdf パス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\1, \2 for back reference in regular expression</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052849Z" creationid="miurahr" creationdate="20210509T050241Z">
+        <seg>正規表現の後方参照用に \1, \2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>notebook_%1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T052755Z" creationid="miurahr" creationdate="20210509T050103Z">
+        <seg>ノートブック_%1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vnote_exports</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T045737Z" creationid="miurahr" creationdate="20210509T045737Z">
+        <seg>vnote_exports</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

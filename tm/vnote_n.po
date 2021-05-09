@@ -1,0 +1,6907 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-09 13:50+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.0\n"
+
+#: QObject%231
+msgid "All magic words:"
+msgstr "全てのマジックワード:"
+
+#: QObject%232
+msgctxt "QObject#2"
+msgid "Information"
+msgstr "情報"
+
+#: QObject%233
+msgid "Please re-open current opened tabs to make it work."
+msgstr "現在のタブを再開すると機能させることができます。"
+
+#: QObject%234
+msgid "Illegal name. Please try again:"
+msgstr " 不正な名前。再実施してください："
+
+#: QObject%235
+msgid "Name already exists. Please try again:"
+msgstr "名前は既に使われています。再実施してください："
+
+#: QObject%236
+msgid "Insert_Image_HERE"
+msgstr "Insert_Image_HERE"
+
+#: QObject%237
+msgctxt "QObject#7"
+msgid "Insert Link"
+msgstr "リンクの挿入。"
+
+#: QObject%238
+msgid "No match found"
+msgstr "一致するものが見つかりません"
+
+#: QObject%239
+msgid "Match found: %1 of %2"
+msgstr "%2中%1この一致が見つかりました"
+
+#: QObject%2310
+msgctxt "QObject#10"
+msgid "Replace %1 %2"
+msgstr "%1  %2を置換"
+
+#: QObject%2311
+msgctxt "QObject#11"
+msgid "occurences"
+msgstr "検索結果"
+
+#: QObject%2312
+msgctxt "QObject#12"
+msgid "occurence"
+msgstr "検索結果"
+
+#: QObject%2313
+msgid "Set base font point size %1"
+msgstr "基本フォントサイズを %1 ポイントに設定"
+
+#: QObject%2314
+msgid "PlainText"
+msgstr "平文"
+
+#: QObject%2315
+msgid "Html"
+msgstr "Html"
+
+#: QObject%2316
+msgid "Invalid"
+msgstr "不正な"
+
+#: QWebEnginePage%231
+msgid "Save &Page"
+msgstr "ページを保存(&P)"
+
+#: QWebEnginePage%232
+msgid "&Back"
+msgstr "戻る(&B)"
+
+#: QWebEnginePage%233
+msgid "&Forward"
+msgstr "勧む(&F)"
+
+#: QWebEnginePage%234
+msgid "&Reload"
+msgstr "再読み込み(&R)"
+
+#: VAttachmentList%231
+msgid "Add"
+msgstr "追加"
+
+#: VAttachmentList%232
+msgctxt "VAttachmentList#2"
+msgid "Clear"
+msgstr "クリア"
+
+#: VAttachmentList%233
+msgctxt "VAttachmentList#3"
+msgid "Warning"
+msgstr "警告"
+
+#: VAttachmentList%234
+msgid "Are you sure to clear attachments of note <span style=\"%1\">%2</span>?"
+msgstr "ほんとうにノート<span style=\"%1\">%2</span>の添付を削除してよいですか？"
+
+#: VAttachmentList%235
+msgid ""
+"<span style=\"%1\">WARNING</span>: VNote will delete all the files in "
+"directory <span style=\"%2\">%3</span>.Deleted files could be found in the "
+"recycle bin of this note.<br>The operation is IRREVERSIBLE!"
+msgstr ""
+"<span style=\"%1\">警告</span>:VNoteは、ディレクトリ<span style=\"%2\""
+">%3</span>内のすべてのファイルを削除します。削除したファイルはこのノートのゴミ箱にいきます。<br>操作は取消できません！"
+
+#: VAttachmentList%236
+msgid "Fail to clear attachments of note <span style=\"%1\">%2</span>."
+msgstr "ノートの添付の削除に失敗<span style=\"%1\">%2</span>"
+
+#: VAttachmentList%237
+msgid ""
+"Please check the attachments folder and maintain the configuration file "
+"manually."
+msgstr "添付フォルダーをチェックして、設定ファイルの調整を手動でおこなってください。"
+
+#: VAttachmentList%238
+msgctxt "VAttachmentList#8"
+msgid "Open Folder"
+msgstr "フォルダを開く"
+
+#: VAttachmentList%239
+msgctxt "VAttachmentList#9"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: VAttachmentList%2310
+msgid "Files"
+msgstr "ファイル"
+
+#: VAttachmentList%2311
+msgid "File"
+msgstr "ファイル"
+
+#: VAttachmentList%2312
+msgid "Select Files As Attachments"
+msgstr "添付するファイルを選択"
+
+#: VAttachmentList%2313
+msgctxt "VAttachmentList#13"
+msgid "Fail to add attachment %1 for note <span style=\"%2\">%3</span>."
+msgstr "ノート<span style=\"%2\">%3</span>の添付ファイル%1を追加できません。"
+
+#: VAttachmentList%2314
+msgid "%1 %2 added as attachments"
+msgstr "%1 %2 は添付ファイルとして追加されました"
+
+#: VAttachmentList%2315
+msgctxt "VAttachmentList#15"
+msgid "files"
+msgstr "ファイル"
+
+#: VAttachmentList%2316
+msgctxt "VAttachmentList#16"
+msgid "file"
+msgstr "ファイル"
+
+#: VAttachmentList%2317
+msgctxt "VAttachmentList#17"
+msgid "&Open"
+msgstr "開く(&O)"
+
+#: VAttachmentList%2318
+msgid "Open current attachment file"
+msgstr "現在の添付ファイルを開く"
+
+#: VAttachmentList%2319
+msgctxt "VAttachmentList#19"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#: VAttachmentList%2320
+msgid "Delete selected attachments"
+msgstr "選択した添付ファイルを削除する"
+
+#: VAttachmentList%2321
+msgctxt "VAttachmentList#21"
+msgid "&Sort"
+msgstr "整列(&S)"
+
+#: VAttachmentList%2322
+msgid "Sort attachments manually"
+msgstr "添付ファイルを手動で整列"
+
+#: VAttachmentList%2323
+msgctxt "VAttachmentList#23"
+msgid "Copy File Path"
+msgstr "ファイルパスをコピー"
+
+#: VAttachmentList%2324
+msgctxt "VAttachmentList#24"
+msgid "&Info (Rename)\t%1"
+msgstr "情報(名前変更)(&I)          %1"
+
+#: VAttachmentList%2325
+msgid "View and edit current attachment's information"
+msgstr "添付ファイル情報の閲覧と編集"
+
+#: VAttachmentList%2326
+msgid ""
+"Are you sure to delete these attachments of note <span style=\"%1\""
+">%2</span>?"
+msgstr "ほんとうにノート<span style=\"%1\">%2</span>のこれらの添付を削除してよいですか？"
+
+#: VAttachmentList%2327
+msgctxt "VAttachmentList#27"
+msgid ""
+"Deleted files could be found in the recycle bin of this note.<br>Click \""
+"Cancel\" to leave them untouched."
+msgstr "削除したファイルはこのノートのゴミ箱にいきます。<br>\"キャンセル\"をクリックすると、そのままにします。"
+
+#: VAttachmentList%2328
+msgid "Confirm Deleting Attachments"
+msgstr "削除する添付ファイルの確認"
+
+#: VAttachmentList%2329
+msgid "Fail to delete attachments of note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>の添付の削除に失敗しました。"
+
+#: VAttachmentList%2330
+msgid "Sort Attachments"
+msgstr "添付の整列"
+
+#: VAttachmentList%2331
+msgid ""
+"Sort attachments of note <span style=\"%1\">%2</span> in the configuration "
+"file."
+msgstr "構成ファイル内のノート<span style=\"%1\">%2</span>の添付ファイルをソートします。"
+
+#: VAttachmentList%2332
+msgctxt "VAttachmentList#32"
+msgid "Name"
+msgstr "名前"
+
+#: VAttachmentList%2333
+msgid "Fail to sort attachments of note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>の添付のソートに失敗しました。"
+
+#: VAttachmentList%2334
+msgid "Rename Attachment"
+msgstr "添付ファイルの名前を変更"
+
+#: VAttachmentList%2335
+msgid "Fail to rename attachment <span style=\"%1\">%2</span>."
+msgstr "添付ファイル<span style=\"%1\">%2</span>の名前変更に失敗しました。"
+
+#: VAttachmentList%2336
+msgid ""
+"VNote detects that these attachments of note <span style=\"%1\">%2</span> "
+"are missing in disk. Would you like to remove them from the note?"
+msgstr ""
+"VNoteは、ノート <span style=\"%1\""
+">%2</span>の添付ファイルがディスク上に無いことにきづきました。ノートからこれらを削除しますか？"
+
+#: VAttachmentList%2337
+msgctxt "VAttachmentList#37"
+msgid "Click \"Cancel\" to leave them untouched."
+msgstr "\"キャンセル\"をクリックすると、そのままにします。"
+
+#: VAttachmentList%2338
+msgid "Attachment Information"
+msgstr "添付ファイル情報"
+
+#: VAttachmentList%2339
+msgid "Rename attachment (%1):"
+msgstr "添付ファイルの名前変更(%1):"
+
+#: VAttachmentList%2340
+msgid "Attachment file path copied %1"
+msgstr "添付ファイルパスがコピーされました%1"
+
+#: VCaptain%231
+msgid "NavigationMode"
+msgstr "ナビゲーションモード"
+
+#: VCart%231
+msgctxt "VCart#1"
+msgid "Clear"
+msgstr "クリア"
+
+#: VCart%232
+msgctxt "VCart#2"
+msgid "Warning"
+msgstr "警告"
+
+#: VCart%233
+msgid "Are you sure to clear Cart?"
+msgstr "カートをクリアしますか?"
+
+#: VCart%234
+msgctxt "VCart#4"
+msgid "&Open"
+msgstr "開く(&O)"
+
+#: VCart%235
+msgctxt "VCart#5"
+msgid "Open selected notes"
+msgstr "選択されたノートを開く"
+
+#: VCart%236
+msgctxt "VCart#6"
+msgid "&Locate To Folder"
+msgstr "フォルダへ移動(&L)"
+
+#: VCart%237
+msgctxt "VCart#7"
+msgid "Locate the folder of current note"
+msgstr "現在のノートのフォルダを指定します。"
+
+#: VCart%238
+msgctxt "VCart#8"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#: VCart%239
+msgid "Delete selected items from Cart"
+msgstr "カートから選択したアイテムを削除"
+
+#: VCart%2310
+msgctxt "VCart#10"
+msgid "&Sort"
+msgstr "整列(&S)"
+
+#: VCart%2311
+msgid "Sort items in Cart"
+msgstr "カートのアイテムをソート"
+
+#: VCart%2312
+msgid "Sort Cart"
+msgstr "カートのソート"
+
+#: VCart%2313
+msgid "Sort items in Cart."
+msgstr "カートのアイテムをソートする。"
+
+#: VCart%2314
+msgctxt "VCart#14"
+msgid "Name"
+msgstr "名前"
+
+#: VCart%2315
+msgctxt "VCart#15"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: VCart%2316
+msgctxt "VCart#16"
+msgid "Items"
+msgstr "項目"
+
+#: VCart%2317
+msgctxt "VCart#17"
+msgid "Item"
+msgstr "項目"
+
+#: VConfirmDeletionDialog%231
+msgid "Do not ask for confirmation again"
+msgstr "今後、再確認しない。"
+
+#: VConfirmDeletionDialog%232
+msgid "%1/%2 Items"
+msgstr "%1/%2アイテム"
+
+#: VCopyTextAsHtmlDialog%231
+msgid "Text:"
+msgstr "テキスト:"
+
+#: VCopyTextAsHtmlDialog%232
+msgid "HTML:"
+msgstr "HTML:"
+
+#: VCopyTextAsHtmlDialog%233
+msgid "Converting text to HTML ..."
+msgstr "テキストをHTMlに変換..."
+
+#: VCopyTextAsHtmlDialog%234
+msgid "Copy Text As HTML (%1)"
+msgstr "テキストをHTMlとしてコピー(%1)"
+
+#: VCopyTextAsHtmlDialog%235
+msgid "HTML has been copied. Will be closed in 3 seconds."
+msgstr "HTMLがコピーされました。3秒以内に閉じます。"
+
+#: VDeleteNotebookDialog%231
+msgid "Are you sure to delete notebook <span style=\"%1\">%2</span>?"
+msgstr "ほんとうにノートブック <span style=\"%1\">%2</span>を削除してよいですか?"
+
+#: VDeleteNotebookDialog%232
+msgid "Delete files from disk"
+msgstr "ディスクからファイルを削除"
+
+#: VDeleteNotebookDialog%233
+msgid ""
+"When checked, VNote will delete all files (including Recycle Bin) of this "
+"notebook from disk"
+msgstr "チェックすると、VNoteは、ノートブックの(ゴミ箱を含め)全てのファイルをディスクから削除します。"
+
+#: VDeleteNotebookDialog%234
+msgid "VNote won't delete files in directory <span style=\"%1\">%2</span>."
+msgstr "VNoteは、ディレクトリ <span style=\"%1\">%2</span>のファイル削除をしません。"
+
+#: VDeleteNotebookDialog%235
+msgid ""
+"<span style=\"%1\">WARNING</span>: VNote may delete <b>ANY</b> files in "
+"directory <span style=\"%2\">%3</span> and directory <span style=\"%2\""
+">%4</span>!<br>VNote will try to delete all the root folders within this "
+"notebook one by one.<br>It may be UNRECOVERABLE!"
+msgstr ""
+"<span style=\"%1\">WARNING</span>: VNoteはディレクトリ<span style=\"%2\""
+">%3</span>およびディレクトリ<span style=\"%2\">%4</span>の<b>あらゆる</b>ファイルを削除します。<br>VNo"
+"teはこのノートブック内のすべてのルートフォルダを一つずつ削除しようとします<br>復旧はできません!"
+
+#: VDirInfoDialog%231
+msgctxt "VDirInfoDialog#1"
+msgid "Folder &name:"
+msgstr "フォルダ名(&N):"
+
+#: VDirInfoDialog%232
+msgctxt "VDirInfoDialog#2"
+msgid "Created time:"
+msgstr "作成日時:"
+
+#: VDirInfoDialog%233
+msgctxt "VDirInfoDialog#3"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name (case-insensitive) <span style=\"%2\""
+">%3</span> already exists. Please choose another name."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前(大文字と小文字を区別しない)<span style=\"%2\""
+">%3</span>は既に存在しています。別の名前を選択してください。"
+
+#: VDirInfoDialog%234
+msgctxt "VDirInfoDialog#4"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name <span style=\"%2\">%3</span> "
+"contains illegal characters (after magic word evaluation)."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前<span style=\"%2\""
+">%3</span>には、不正な文字が含まれています(マジックワード評価の後)。"
+
+#: VDirectory%231
+msgctxt "VDirectory#1"
+msgid "Fail to open folder %1."
+msgstr "フォルダ%1を開くことができません。"
+
+#: VDirectory%232
+msgid "%1 already exists in directory %2."
+msgstr "%1はすでにディレクトリ%2に存在します。"
+
+#: VDirectory%233
+msgid "Fail to create folder in %1."
+msgstr "%1にフォルダを作成できません。"
+
+#: VDirectory%234
+msgid "Fail to write configuration of folder %1."
+msgstr "フォルダ%1の構成を書き込めません。"
+
+#: VDirectory%235
+msgid "Fail to delete the directory %1."
+msgstr "ディレクトリ%1の削除に失敗しました。"
+
+#: VDirectory%236
+msgid "Fail to remove the folder from the folder configuration."
+msgstr "フォルダの設定からフォルダを削除できません。"
+
+#: VDirectory%237
+msgctxt "VDirectory#7"
+msgid "Fail to open target folder."
+msgstr "ターゲットフォルダを開くことができません。"
+
+#: VDirectory%238
+msgctxt "VDirectory#8"
+msgid "cut"
+msgstr "切り取り"
+
+#: VDirectory%239
+msgctxt "VDirectory#9"
+msgid "copy"
+msgstr "コピー"
+
+#: VDirectory%2310
+msgid "Fail to %1 the folder."
+msgstr "フォルダの%1に失敗しました。"
+
+#: VDirectory%2311
+msgid "Fail to add the folder to target folder's configuration."
+msgstr "フォルダをターゲットフォルダの設定に追加できません。"
+
+#: VDirectory%2312
+msgid "Skip file %1."
+msgstr "ファイル%1をスキップします。"
+
+#: VDirectory%2313
+msgid "Skip folder %1."
+msgstr "フォルダ%1をスキップします。"
+
+#: VDirectoryTree%231
+msgctxt "VDirectoryTree#1"
+msgid "Warning"
+msgstr "警告"
+
+#: VDirectoryTree%232
+msgid "Fail to open notebook <span style=\"%1\">%2</span>."
+msgstr "ノートブック<span style=\"%1\">%2</span>を開くことができません。"
+
+#: VDirectoryTree%233
+msgid ""
+"Please check if the notebook's root folder <span style=\"%1\">%2</span> "
+"exists."
+msgstr "ノートブックのルートフォルダ<span style=\"%1\">%2</span>が存在するかどうかを確認してください。"
+
+#: VDirectoryTree%234
+msgid "Fail to open folder <span style=\"%1\">%2</span>."
+msgstr "フォルダ<span style=\"%1\">%2</span>を開くことができません。"
+
+#: VDirectoryTree%235
+msgid "Please check if directory <span style=\"%1\">%2</span> exists."
+msgstr "ディレクトリ<span style=\"%1\">%2</span>が存在するかどうかを確認してください。"
+
+#: VDirectoryTree%236
+msgid "New &Root Folder"
+msgstr "新しいルートフォルダ(&R)"
+
+#: VDirectoryTree%237
+msgctxt "VDirectoryTree#7"
+msgid "Create a root folder in current notebook"
+msgstr "現在のノートブックにルートフォルダを作成する"
+
+#: VDirectoryTree%238
+msgctxt "VDirectoryTree#8"
+msgid "&Sort"
+msgstr "整列(&S)"
+
+#: VDirectoryTree%239
+msgid "Sort folders in this folder/notebook manually"
+msgstr "このフォルダ/ノートブック内のフォルダを手動で並べ替える"
+
+#: VDirectoryTree%2310
+msgid "New &Note"
+msgstr "新規ノート(&N)"
+
+#: VDirectoryTree%2311
+msgid "Create a note in selected folder"
+msgstr "選択したフォルダでノートを作成する"
+
+#. (obsolete)
+#: VDirectoryTree%2312
+msgid "New &Subfolder"
+msgstr "新規フォルダ(&S)"
+
+#: VDirectoryTree%2313
+msgid "Create a subfolder"
+msgstr "フォルダを作成する"
+
+#: VDirectoryTree%2314
+msgctxt "VDirectoryTree#14"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#: VDirectoryTree%2315
+msgid "Delete selected folder"
+msgstr "選択したフォルダを削除"
+
+#: VDirectoryTree%2316
+msgctxt "VDirectoryTree#16"
+msgid "&Copy\t%1"
+msgstr "コピー(%1)(&P)"
+
+#: VDirectoryTree%2317
+msgid "Copy selected folders"
+msgstr "選択したフォルダをコピーする"
+
+#: VDirectoryTree%2318
+msgctxt "VDirectoryTree#18"
+msgid "C&ut\t%1"
+msgstr "%1を切り取り(&u)"
+
+#: VDirectoryTree%2319
+msgid "Cut selected folders"
+msgstr "選択したフォルダを切り取り"
+
+#: VDirectoryTree%2320
+msgctxt "VDirectoryTree#20"
+msgid "&Paste\t%1"
+msgstr "貼り付け(%1)(&P)"
+
+#: VDirectoryTree%2321
+msgid "Paste folders in this folder"
+msgstr "フォルダ内のフォルダを貼り付ける"
+
+#: VDirectoryTree%2322
+msgctxt "VDirectoryTree#22"
+msgid "Reload From Disk"
+msgstr "ディスクから再ロード"
+
+#: VDirectoryTree%2323
+msgid "Reload the content of this folder (or notebook) from disk"
+msgstr "このフォルダ(またはノートブック)の内容をディスクから再ロードします。"
+
+#. (obsolete)
+#: VDirectoryTree%2324
+msgid "&Open Folder Location"
+msgstr "フォルダの場所を開く(&O)"
+
+#: VDirectoryTree%2325
+msgid "New Si&bling Folder"
+msgstr ""
+
+#: VDirectoryTree%2326
+msgid "Create a folder in the same parent folder"
+msgstr ""
+
+#: VDirectoryTree%2327
+msgid "New Sub&folder"
+msgstr ""
+
+#: VDirectoryTree%2328
+msgid "Open Folder &Location"
+msgstr ""
+
+#: VDirectoryTree%2329
+msgctxt "VDirectoryTree#29"
+msgid "Explore this folder in operating system"
+msgstr "オペレーティング・システムでこのフォルダを表示します。"
+
+#: VDirectoryTree%2330
+msgctxt "VDirectoryTree#30"
+msgid "Pin To History"
+msgstr "履歴に固定"
+
+#: VDirectoryTree%2331
+msgid "Pin selected folder to History"
+msgstr "選択したフォルダを履歴にピンで固定"
+
+#: VDirectoryTree%2332
+msgctxt "VDirectoryTree#32"
+msgid "&Info (Rename)\t%1"
+msgstr "情報(名前変更)(&I)          %1"
+
+#: VDirectoryTree%2333
+msgctxt "VDirectoryTree#33"
+msgid "View and edit current folder's information"
+msgstr "現在のフォルダの情報を表示および編集する"
+
+#: VDirectoryTree%2334
+msgid "Create a subfolder in <span style=\"%1\">%2</span>."
+msgstr "<span style=\"%1\">%2</span>にサブフォルダを作成します。"
+
+#: VDirectoryTree%2335
+msgid "Create Folder"
+msgstr "フォルダを作成"
+
+#: VDirectoryTree%2336
+msgid "Fail to create subfolder <span style=\"%1\">%2</span>."
+msgstr "サブフォルダ<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VDirectoryTree%2337
+msgid "Create a root folder in notebook <span style=\"%1\">%2</span>."
+msgstr "ノートブック<span style=\"%1\">%2</span>にルートフォルダを作成します。"
+
+#: VDirectoryTree%2338
+msgid "Create Root Folder"
+msgstr "ルートフォルダを作成"
+
+#: VDirectoryTree%2339
+msgid "Fail to create root folder <span style=\"%1\">%2</span>."
+msgstr "ルートフォルダ<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VDirectoryTree%2340
+msgid "Are you sure to delete folder <span style=\"%1\">%2</span>?"
+msgstr "フォルダ<span style=\"%1\">%2</span>を削除してもよろしいですか?"
+
+#: VDirectoryTree%2341
+msgid ""
+"<span style=\"%1\">WARNING</span>: VNote will delete the whole directory <"
+"span style=\"%2\">%3</span>.Deleted files could be found in the recycle bin "
+"of this folder.<br>The operation is IRREVERSIBLE!"
+msgstr ""
+"<span style=\"%1\">警告</span>:VNoteは、ディレクトリ<span style=\"%2\""
+">%3</span>内のすべてのファイルを削除します。削除したファイルはこのフォルダのゴミ箱にいきます。<br>操作は取消できません！"
+
+#: VDirectoryTree%2342
+msgid ""
+"Fail to delete folder <span style=\"%1\">%2</span>.<br>Please check <span "
+"style=\"%1\">%3</span> and manually delete it."
+msgstr ""
+"フォルダ<span style=\"%1\">%2</span>を削除できません。<br><span style=\"%1\""
+">%3</span>を確認して、手動で削除してください。"
+
+#: VDirectoryTree%2343
+msgctxt "VDirectoryTree#43"
+msgid "%1 %2 deleted"
+msgstr "%1%2が削除されました"
+
+#: VDirectoryTree%2344
+msgid "folders"
+msgstr "フォルダ"
+
+#: VDirectoryTree%2345
+msgid "folder"
+msgstr "フォルダ"
+
+#: VDirectoryTree%2346
+msgid "Folder Information"
+msgstr "フォルダ情報"
+
+#: VDirectoryTree%2347
+msgid "Fail to rename folder <span style=\"%1\">%2</span>."
+msgstr "フォルダ<span style=\"%1\">%2</span>の名前変更に失敗しました。"
+
+#: VDirectoryTree%2348
+msgid "Are you sure to reload folder <span style=\"%1\">%2</span>?"
+msgstr "フォルダ<span style=\"%1\">%2</span>を再ロードしますか?"
+
+#: VDirectoryTree%2349
+msgid "Folder %1 reloaded from disk"
+msgstr "フォルダ%1がディスクから再ロードされました"
+
+#: VDirectoryTree%2350
+msgid "Are you sure to reload notebook <span style=\"%1\">%2</span>?"
+msgstr "ノートブック<span style=\"%1\">%2</span>を再ロードしますか?"
+
+#: VDirectoryTree%2351
+msgid "Notebook %1 reloaded from disk"
+msgstr "ノートブック%1がディスクから再ロードされました"
+
+#: VDirectoryTree%2352
+msgctxt "VDirectoryTree#52"
+msgid "Information"
+msgstr "情報"
+
+#: VDirectoryTree%2353
+msgid "VNote will close all the related notes before reload."
+msgstr "VNoteは、リロードする前に関連するすべてのノートを閉じます。"
+
+#: VDirectoryTree%2354
+msgid "Please check if path <span style=\"%1\">%2</span> exists."
+msgstr "パス<span style=\"%1\">%2</span>が存在するかどうかを確認してください。"
+
+#: VDirectoryTree%2355
+msgctxt "VDirectoryTree#55"
+msgid "%1 %2 %3"
+msgstr "%1 %2 %3"
+
+#: VDirectoryTree%2356
+msgctxt "VDirectoryTree#56"
+msgid "cut"
+msgstr "切り取り"
+
+#: VDirectoryTree%2357
+msgctxt "VDirectoryTree#57"
+msgid "copied"
+msgstr "コピーされた"
+
+#: VDirectoryTree%2358
+msgid "Fail to paste folder <span style=\"%1\">%2</span>."
+msgstr "フォルダ<span style=\"%1\">%2</span>の貼り付けに失敗しました。"
+
+#: VDirectoryTree%2359
+msgid "VNote could not find this folder in any notebook."
+msgstr "このフォルダにはノートブックが見つかりませんでした。"
+
+#: VDirectoryTree%2360
+msgid "Fail to copy folder <span style=\"%1\">%2</span>."
+msgstr "フォルダ<span style=\"%1\">%2</span>のコピーに失敗しました。"
+
+#: VDirectoryTree%2361
+msgctxt "VDirectoryTree#61"
+msgid "%1 %2 pasted"
+msgstr "%1  %2貼り付けられました"
+
+#: VDirectoryTree%2362
+msgid "Sort Folders"
+msgstr "フォルダの並べ替え"
+
+#: VDirectoryTree%2363
+msgid ""
+"Sort folders in %1 <span style=\"%2\">%3</span> in the configuration file."
+msgstr "構成ファイル内の%1<span style=\"%2\">%3</span>のフォルダをソートします。"
+
+#: VDirectoryTree%2364
+msgid "notebook"
+msgstr "ノートブック"
+
+#: VDirectoryTree%2365
+msgctxt "VDirectoryTree#65"
+msgid "Name"
+msgstr "名前"
+
+#: VDirectoryTree%2366
+msgctxt "VDirectoryTree#66"
+msgid "Created Time"
+msgstr "作成日時間"
+
+#: VDirectoryTree%2367
+msgid "Fail to sort folders in %1 <span style=\"%2\">%3</span>."
+msgstr "%1<span style=\"%2\">%3</span>内のフォルダを並べ替えることができません。"
+
+#: VDirectoryTree%2368
+msgid "1 folder pinned to History"
+msgstr "履歴に固定された1フォルダ"
+
+#: VDirectoryTree%2369
+msgid "Please drop it on a folder item."
+msgstr "フォルダにドラッグ&&ドロップしてください。"
+
+#: VEdit%231
+msgctxt "VEdit#1"
+msgid "Insert Link"
+msgstr "リンクの挿入。"
+
+#: VEdit%232
+msgid "Found no match"
+msgstr "一致するものが見つかりません"
+
+#: VEdit%233
+msgid "Found %1 %2"
+msgstr "%1  %2が見つかりました"
+
+#: VEdit%234
+msgid "matches"
+msgstr "一致"
+
+#: VEdit%235
+msgid "match"
+msgstr "一致"
+
+#: VEdit%236
+msgctxt "VEdit#6"
+msgid "Replace %1 %2"
+msgstr "%1  %2を置換"
+
+#: VEdit%237
+msgctxt "VEdit#7"
+msgid "occurences"
+msgstr "検索結果"
+
+#: VEdit%238
+msgctxt "VEdit#8"
+msgid "occurence"
+msgstr "検索結果"
+
+#: VEdit%239
+msgctxt "VEdit#9"
+msgid "&Save Changes And Read"
+msgstr "変更を保存して読み込み(&S)"
+
+#: VEdit%2310
+msgctxt "VEdit#10"
+msgid "Save changes and exit edit mode"
+msgstr "変更を保存して編集モードを終了する"
+
+#: VEdit%2311
+msgctxt "VEdit#11"
+msgid "&Discard Changes And Read"
+msgstr "変更を破棄して読み込み(&D)"
+
+#: VEdit%2312
+msgctxt "VEdit#12"
+msgid "Discard changes and exit edit mode"
+msgstr "変更を破棄して編集モードを終了する"
+
+#: VEdit%2313
+msgctxt "VEdit#13"
+msgid "&Edit"
+msgstr "編集(&E)"
+
+#: VEdit%2314
+msgctxt "VEdit#14"
+msgid "Edit current note"
+msgstr "現在のノートを編集"
+
+#: VEditArea%231
+msgid "ActivateTab1"
+msgstr "ActivateTab1"
+
+#: VEditArea%232
+msgid "ActivateTab2"
+msgstr "ActivateTab2"
+
+#: VEditArea%233
+msgid "ActivateTab3"
+msgstr "ActivateTab3"
+
+#: VEditArea%234
+msgid "ActivateTab4"
+msgstr "ActivateTab4"
+
+#: VEditArea%235
+msgid "ActivateTab5"
+msgstr "ActivateTab5"
+
+#: VEditArea%236
+msgid "ActivateTab6"
+msgstr "ActivateTab6"
+
+#: VEditArea%237
+msgid "ActivateTab7"
+msgstr "ActivateTab7"
+
+#: VEditArea%238
+msgid "ActivateTab8"
+msgstr "ActivateTab8"
+
+#: VEditArea%239
+msgid "ActivateTab9"
+msgstr "ActivateTab9"
+
+#: VEditArea%2310
+msgid "AlternateTab"
+msgstr "AlternateTab"
+
+#: VEditArea%2311
+msgid "OpenedFileList"
+msgstr "OpenedFileList"
+
+#: VEditArea%2312
+msgid "ActivateSplitLeft"
+msgstr "ActivateSplitLeft"
+
+#: VEditArea%2313
+msgid "ActivateSplitRight"
+msgstr "ActivateSplitRight"
+
+#: VEditArea%2314
+msgid "MoveTabSplitLeft"
+msgstr "MoveTabSplitLeft"
+
+#: VEditArea%2315
+msgid "MoveTabSplitRight"
+msgstr "MoveTabSplitRight"
+
+#: VEditArea%2316
+msgid "ActivateNextTab"
+msgstr "ActivateNextTab"
+
+#: VEditArea%2317
+msgid "ActivatePreviousTab"
+msgstr "ActivatePreviousTab"
+
+#: VEditArea%2318
+msgid "VerticalSplit"
+msgstr "VerticalSplit"
+
+#: VEditArea%2319
+msgid "RemoveSplit"
+msgstr "RemoveSplit"
+
+#: VEditArea%2320
+msgid "MaximizeSplit"
+msgstr "MaximizeSplit"
+
+#: VEditArea%2321
+msgid "DistributeSplits"
+msgstr "DistributeSplits"
+
+#: VEditArea%2322
+msgid "MagicWord"
+msgstr "MagicWord"
+
+#: VEditArea%2323
+msgid "ApplySnippet"
+msgstr "ApplySnippet"
+
+#: VEditArea%2324
+msgid "LivePreview"
+msgstr "LivePreview"
+
+#: VEditArea%2325
+msgid "ExpandLivePreview"
+msgstr "ExpandLivePreview"
+
+#: VEditArea%2326
+msgid "ParseAndPaste"
+msgstr "ParseAndPaste"
+
+#: VEditSnippetDialog%231
+msgctxt "VEditSnippetDialog#1"
+msgid "None"
+msgstr "なし"
+
+#: VEditSnippetDialog%232
+msgid "String in the content to mark the cursor position"
+msgstr "カーソル位置をマークするコンテンツ内の文字列"
+
+#: VEditSnippetDialog%233
+msgid "String in the content to be replaced with selected text"
+msgstr "選択されたテキストで置換されるコンテンツの文字列"
+
+#: VEditSnippetDialog%234
+msgid "Auto indent"
+msgstr "自動インデント"
+
+#: VEditSnippetDialog%235
+msgid "Auto indent the content according to the first line"
+msgstr "最初の行に従ってコンテンツを自動インデントします。"
+
+#: VEditSnippetDialog%236
+msgid "Snippet &name:"
+msgstr "スニペット名:"
+
+#: VEditSnippetDialog%237
+msgid "Snippet &type:"
+msgstr "スニペットタイプ(&T):"
+
+#: VEditSnippetDialog%238
+msgid "Shortc&ut:"
+msgstr "ショートカット(&U):"
+
+#: VEditSnippetDialog%239
+msgid "Cursor &mark:"
+msgstr "カーソルマーク(&M):"
+
+#: VEditSnippetDialog%2310
+msgid "&Selection mark:"
+msgstr "選択マーク(&S):"
+
+#: VEditSnippetDialog%2311
+msgid "&Content:"
+msgstr "コンテンツ(&C):"
+
+#: VEditSnippetDialog%2312
+msgctxt "VEditSnippetDialog#12"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name (case-insensitive) <span style=\"%2\""
+">%3</span> already exists. Please choose another name."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前(大文字と小文字を区別しない)<span style=\"%2\""
+">%3</span>は既に存在しています。別の名前を選択してください。"
+
+#: VEditSnippetDialog%2313
+msgctxt "VEditSnippetDialog#13"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name <span style=\"%2\">%3</span> "
+"contains illegal characters (after magic word evaluation)."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前<span style=\"%2\""
+">%3</span>には、不正な文字が含まれています(マジックワード評価の後)。"
+
+#: VEditSnippetDialog%2314
+msgid ""
+"<span style=\"%1\">WARNING</span>: Cursor mark <span style=\"%2\">%3</span> "
+"occurs more than once in the content (after magic word evaluation). Please "
+"choose another mark."
+msgstr ""
+"<span style=\"%1\">警告</span>:カーソル・マーク<span style=\"%2\""
+">%3</span>は、(マジック・ワード評価後)コンテンツ内で複数回発生します。別のマークを選んでください。"
+
+#: VEditSnippetDialog%2315
+msgid ""
+"<span style=\"%1\">WARNING</span>: Cursor mark <span style=\"%2\">%3</span> "
+"conflicts with selection mark. Please choose another mark."
+msgstr ""
+"<span style=\"%1\">警告</span>:カーソル・マーク<span style=\"%2\""
+">%3</span>は選択マークと競合します。別のマークを選んでください。"
+
+#: VEditTab%231
+msgctxt "VEditTab#1"
+msgid "Information"
+msgstr "情報"
+
+#: VEditTab%232
+msgid "Note <span style=\"%1\">%2</span> has been modified by another program."
+msgstr "ノート<span style=\"%1\">%2</span>が他のプログラムから変更されました。"
+
+#: VEditTab%233
+msgid "Do you want to reload it?"
+msgstr "再ロードしますか？"
+
+#: VEditTab%234
+msgctxt "VEditTab#4"
+msgid "Warning"
+msgstr "警告"
+
+#: VEditTab%235
+msgid "Fail to reload note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>を再ロードできません。"
+
+#: VEditTab%236
+msgctxt "VEditTab#6"
+msgid "Please check if file %1 exists."
+msgstr "ファイル%1が存在するかどうかを確認してください。"
+
+#: VEditWindow%231
+msgid "Opened Notes List"
+msgstr "開いているノート一覧"
+
+#: VEditWindow%232
+msgid "Menu"
+msgstr "メニュー"
+
+#: VEditWindow%233
+msgid "Remove Split"
+msgstr "分割終了"
+
+#: VEditWindow%234
+msgid "Remove current split window"
+msgstr "現在の分割ウインドウを削除する"
+
+#: VEditWindow%235
+msgctxt "VEditWindow#5"
+msgid "&Recycle Bin"
+msgstr "ごみ箱(&R)"
+
+#: VEditWindow%236
+msgid "Open the recycle bin of this note"
+msgstr "このノートのゴミ箱を開く"
+
+#: VEditWindow%237
+msgid "Open Note Location"
+msgstr "ノートの場所を開く"
+
+#: VEditWindow%238
+msgctxt "VEditWindow#8"
+msgid "Explore the folder containing this note in operating system"
+msgstr "オペレーティング・システムでこのノートのあるフォルダを表示します。"
+
+#: VEditWindow%239
+msgctxt "VEditWindow#9"
+msgid "Reload From Disk"
+msgstr "ディスクから再ロード"
+
+#: VEditWindow%2310
+msgid "Reload the content of this note from disk"
+msgstr "このノートの内容をディスクから再ロードします。"
+
+#: VEditWindow%2311
+msgctxt "VEditWindow#11"
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+#: VEditWindow%2312
+msgid "Add this note to Cart for further processing"
+msgstr "このノートをカートに追加して、さらに処理を行います。"
+
+#: VEditWindow%2313
+msgid "1 note added to Cart"
+msgstr "カートに追加された1ノート"
+
+#: VEditWindow%2314
+msgctxt "VEditWindow#14"
+msgid "Pin To History"
+msgstr "履歴に固定"
+
+#: VEditWindow%2315
+msgid "Pin this note to History"
+msgstr "このノートを履歴にピンで固定する"
+
+#: VEditWindow%2316
+msgid "1 note pinned to History"
+msgstr "履歴に固定された1ノート"
+
+#: VEditWindow%2317
+msgctxt "VEditWindow#17"
+msgid "Set As Quick Access"
+msgstr "クイックアクセスとして設定する"
+
+#: VEditWindow%2318
+msgid "Set this note as quick access"
+msgstr "このノートをクイックアクセスに設定します。"
+
+#: VEditWindow%2319
+msgctxt "VEditWindow#19"
+msgid "Quick access: %1"
+msgstr "クイックアクセス:%1"
+
+#: VEditWindow%2320
+msgctxt "VEditWindow#20"
+msgid "Note Info"
+msgstr "ノート情報"
+
+#: VEditWindow%2321
+msgid "View and edit information of the note"
+msgstr "ノートの情報を表示および編集する"
+
+#: VEditWindow%2322
+msgid "Locate To Folder"
+msgstr "フォルダを指定"
+
+#: VEditWindow%2323
+msgctxt "VEditWindow#23"
+msgid "Locate the folder of current note"
+msgstr "現在のノートのフォルダを指定します。"
+
+#: VEditWindow%2324
+msgid "Move One Split Left"
+msgstr "Move One Split Left"
+
+#: VEditWindow%2325
+msgid "Move current tab to the split on the left"
+msgstr "現在のタブを左側の分割ウインドウへ移動する"
+
+#: VEditWindow%2326
+msgid "Move One Split Right"
+msgstr "Move One Split Right"
+
+#: VEditWindow%2327
+msgid "Move current tab to the split on the right"
+msgstr "現在のタブを右側の分割ウインドウへ移動する"
+
+#: VEditWindow%2328
+msgid "Close Tab"
+msgstr "タブを閉じる"
+
+#: VEditWindow%2329
+msgid "Close current note tab"
+msgstr "現在のノートタブを閉じる"
+
+#: VEditWindow%2330
+msgid "Close Other Tabs"
+msgstr "その他のタブを閉じる"
+
+#: VEditWindow%2331
+msgid "Close all other note tabs"
+msgstr "他のすべてのノートタブを閉じる"
+
+#: VEditWindow%2332
+msgid "Close Tabs To The Right"
+msgstr "右側のタブを閉じる"
+
+#: VEditWindow%2333
+msgid "Close all the note tabs to the right of current tab"
+msgstr "現在のタブの右側の全てのノートを閉じる。"
+
+#: VEditWindow%2334
+msgid "Close All Tabs"
+msgstr "すべてのタブを閉じる"
+
+#: VEditWindow%2335
+msgid "Close all the note tabs"
+msgstr "すべてのノートタブを閉じる"
+
+#: VEditWindow%2336
+msgctxt "VEditWindow#36"
+msgid "Split"
+msgstr "分割"
+
+#: VEditWindow%2337
+msgid "Split current window vertically"
+msgstr "現在のウィンドウを縦に分割"
+
+#: VEditWindow%2338
+msgid "Maximize Split"
+msgstr "分割の最大化"
+
+#: VEditWindow%2339
+msgid "Maximize current split window"
+msgstr "現在の分割ウィンドウを最大化する"
+
+#: VEditWindow%2340
+msgid "Distribute Splits"
+msgstr "分割を整列する"
+
+#: VEditWindow%2341
+msgid "Distribute all the split windows evenly"
+msgstr "全ての分割ウインドウを平等に整列する。"
+
+#: VExplorer%231
+msgid "Directory"
+msgstr "ディレクトリ"
+
+#: VExplorer%232
+msgid "Open"
+msgstr "開く"
+
+#: VExplorer%233
+msgid "Select Root Directory To Explore"
+msgstr "エクスプローラのルートディレクトリを選択"
+
+#: VExplorer%234
+msgid "Up"
+msgstr "上"
+
+#: VExplorer%235
+msgid "Open Directory Location"
+msgstr "ディレクトリの場所を開く"
+
+#: VExplorer%236
+msgid "Star"
+msgstr "スターをつける"
+
+#: VExplorer%237
+msgid "Path of the root directory to explore"
+msgstr "探索するルートディレクトリのパス"
+
+#: VExplorer%238
+msgid "Root path to explore"
+msgstr "探索するルートパス"
+
+#: VExplorer%239
+msgid "Image Folder"
+msgstr "画像フォルダ"
+
+#: VExplorer%2310
+msgctxt "VExplorer#10"
+msgid "Use global configuration (%1)"
+msgstr "グローバル構成を使用(%1)"
+
+#: VExplorer%2311
+msgid ""
+"Set the path of the image folder to store images of files within the root "
+"directory.\n"
+"If absolute path is used, VNote will not manage those images.(empty to use "
+"global configuration)"
+msgstr ""
+"画像フォルダのパスを設定して、ルートディレクトリ内のファイルの画像を保存します。\n"
+"絶対パスを使用した場合、VNoteはそれらのイメージを管理しません(グローバル構成を使用するには空にします)。"
+
+#: VExplorer%2312
+msgid "New File"
+msgstr "新規ファイル"
+
+#: VExplorer%2313
+msgid "New Folder"
+msgstr "新規フォルダ"
+
+#: VExplorer%2314
+msgctxt "VExplorer#14"
+msgid "Warning"
+msgstr "警告"
+
+#: VExplorer%2315
+msgid "Fail to open directory <span style=\"%1\">%2</span>."
+msgstr "ディレクトリ<span style=\"%1\">%2</span>を開くことができません。"
+
+#: VExplorer%2316
+msgid "Please check if the directory exists."
+msgstr "ディレクトリが存在するかどうかを確認してください。"
+
+#: VExplorer%2317
+msgid "Unstar"
+msgstr "スターをはずす"
+
+#: VExplorer%2318
+msgid "Set As Root"
+msgstr "ルートに設定"
+
+#: VExplorer%2319
+msgid "Set current folder as the root directory to explore"
+msgstr "現在のフォルダを探索するルートディレクトリに設定する"
+
+#: VExplorer%2320
+msgid "Open Folder Location"
+msgstr "フォルダの場所を開く"
+
+#: VExplorer%2321
+msgctxt "VExplorer#21"
+msgid "Explore this folder in operating system"
+msgstr "オペレーティング・システムでこのフォルダを表示します。"
+
+#: VExplorer%2322
+msgctxt "VExplorer#22"
+msgid "&Info (Rename)\t%1"
+msgstr "情報(名前変更)(&I)          %1"
+
+#: VExplorer%2323
+msgctxt "VExplorer#23"
+msgid "View and edit current folder's information"
+msgstr "現在のフォルダの情報を表示および編集する"
+
+#: VExplorer%2324
+msgid "Open In Read Mode"
+msgstr "読み取りモードで開く"
+
+#: VExplorer%2325
+msgid "Open selected files in read mode"
+msgstr "選択したファイルを読み取りモードで開く"
+
+#: VExplorer%2326
+msgid "Open In Edit Mode"
+msgstr "編集モードで開く"
+
+#: VExplorer%2327
+msgid "Open selected files in edit mode"
+msgstr "選択したファイルを編集モードで開く"
+
+#: VExplorer%2328
+msgid "Open File Location"
+msgstr "ファイルの場所を開く"
+
+#: VExplorer%2329
+msgid "Explore the folder containing this file in operating system"
+msgstr "オペレーティング・システムでこのファイルのあるフォルダを表示します。"
+
+#: VExplorer%2330
+msgctxt "VExplorer#30"
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+#: VExplorer%2331
+msgid "Add selected files to Cart for further processing"
+msgstr "後続処理のために、選択したフィアルをカートに追加します"
+
+#: VExplorer%2332
+msgctxt "VExplorer#32"
+msgid "%1 %2 added to Cart"
+msgstr "%1カートに%2が追加されました"
+
+#: VExplorer%2333
+msgctxt "VExplorer#33"
+msgid "files"
+msgstr "ファイル"
+
+#: VExplorer%2334
+msgctxt "VExplorer#34"
+msgid "file"
+msgstr "ファイル"
+
+#: VExplorer%2335
+msgctxt "VExplorer#35"
+msgid "Pin To History"
+msgstr "履歴に固定"
+
+#: VExplorer%2336
+msgid "Pin selected files to History"
+msgstr "選択したファイルを履歴にピンで固定"
+
+#: VExplorer%2337
+msgctxt "VExplorer#37"
+msgid "%1 %2 pinned to History"
+msgstr "%1 %2は履歴に固定されています"
+
+#: VExplorer%2338
+msgid "View and edit current file's information"
+msgstr "現在のファイルの情報を表示および編集する"
+
+#: VExplorer%2339
+msgid "File name (%1):"
+msgstr "ファイル名(%1):"
+
+#: VExplorer%2340
+msgid "Fail to create file <span style=\"%1\">%2</span>."
+msgstr "ファイル<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VExplorer%2341
+msgid "Folder name (%1):"
+msgstr "フォルダ名(%1):"
+
+#: VExplorer%2342
+msgid "Fail to create folder <span style=\"%1\">%2</span>."
+msgstr "フォルダ<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VExplorer%2343
+msgid "File Information"
+msgstr "ファイル情報"
+
+#: VExplorer%2344
+msgid "Rename file (%1):"
+msgstr "ファイル名の変更(%1):"
+
+#: VExplorer%2345
+msgid "Fail to rename file <span style=\"%1\">%2</span>."
+msgstr "ファイル<span style=\"%1\">%2</span>の名前変更に失敗しました。"
+
+#: VExportDialog%231
+msgid "Choose notes to export"
+msgstr "エクスポートするノートを選択"
+
+#: VExportDialog%232
+msgid "Choose target format to export as"
+msgstr "エクスポートするターゲット・フォーマットを選択します。"
+
+#: VExportDialog%233
+msgid "Choose converter to render Markdown"
+msgstr "Markdownをレンダリングするコンバーターを選択"
+
+#: VExportDialog%234
+msgid "Choose rendering background color for Markdown"
+msgstr "Markdownの背景色のレンダリングを選択してください"
+
+#: VExportDialog%235
+msgid "Choose rendering style for Markdown"
+msgstr "Markdownのレンダリングスタイルを選択してください"
+
+#: VExportDialog%236
+msgid "Choose rendering code block style for Markdown"
+msgstr "Markdownのレンダリングコードブロックスタイルを選択してください"
+
+#: VExportDialog%237
+msgctxt "VExportDialog#7"
+msgid "&Browse"
+msgstr "ブラウズ(&B)"
+
+#: VExportDialog%238
+msgctxt "VExportDialog#8"
+msgid "Information"
+msgstr "情報"
+
+#: VExportDialog%239
+msgctxt "VExportDialog#9"
+msgid "Advanced Settings"
+msgstr "詳細設定"
+
+#: VExportDialog%2310
+msgctxt "VExportDialog#10"
+msgid "Output logs will be shown here"
+msgstr "出力ログが表示されます。"
+
+#: VExportDialog%2311
+msgctxt "VExportDialog#11"
+msgid "Export"
+msgstr "エキスポート"
+
+#: VExportDialog%2312
+msgid "Open Directory"
+msgstr "ディレクトリを開く"
+
+#: VExportDialog%2313
+msgid "Open output directory"
+msgstr "出力ディレクトリを開く"
+
+#: VExportDialog%2314
+msgid "Copy Content"
+msgstr "コンテンツをコピー"
+
+#: VExportDialog%2315
+msgid "Copy the content of the exported file"
+msgstr "エクスポートされたファイルの内容をコピーする"
+
+#: VExportDialog%2316
+msgid "Cancelling the export..."
+msgstr "エクスポートをキャンセルしています..."
+
+#: VExportDialog%2317
+msgid "Copied content of file %1"
+msgstr "ファイル%1のコピーされたコンテンツ"
+
+#: VExportDialog%2318
+msgid "Fail to copy content of file %1"
+msgstr "ファイル%1のコンテンツをコピーできません"
+
+#: VExportDialog%2319
+msgid "Notes to export:"
+msgstr "エクスポートするノート:"
+
+#: VExportDialog%2320
+msgid "Target format:"
+msgstr "ターゲットフォーマット:"
+
+#: VExportDialog%2321
+msgid "Markdown renderer:"
+msgstr "Markdownレンダラ:"
+
+#: VExportDialog%2322
+msgid "Markdown rendering background:"
+msgstr "Markdownレンダリング背景:"
+
+#: VExportDialog%2323
+msgid "Markdown rendering style:"
+msgstr "Markdownレンダリングスタイル:"
+
+#: VExportDialog%2324
+msgid "Markdown rendering code block style:"
+msgstr "Markdownレンダリングのコードブロックスタイル:"
+
+#: VExportDialog%2325
+msgid "Output directory:"
+msgstr "出力ディレクトリ:"
+
+#: VExportDialog%2326
+msgctxt "VExportDialog#26"
+msgid "Settings"
+msgstr "設定"
+
+#: VExportDialog%2327
+msgid "Enable Table Of Contents"
+msgstr "目次を有効にする"
+
+#: VExportDialog%2328
+msgid "Add a table of contents to the document"
+msgstr "ドキュメントに目次を追加する"
+
+#: VExportDialog%2329
+msgid "Use wkhtmltopdf"
+msgstr "wkhtmltopdfを使用"
+
+#: VExportDialog%2330
+msgid ""
+"Use wkhtmltopdf tool to generate PDF (wkhtmltopdf needed to be installed)"
+msgstr " PDF (wkhtmltopdf のインストールが必要)生成にwkhtmltopdf ツールを使用する"
+
+#: VExportDialog%2331
+msgid "Download wkhtmltopdf"
+msgstr "wkhtmltopdfをダウンロード"
+
+#: VExportDialog%2332
+msgid "Tell VNote where to find wkhtmltopdf tool"
+msgstr "wkhtmltopdf ツールの場所をVNoteに指示する"
+
+#: VExportDialog%2333
+msgid "Empty to use the name of the first source file"
+msgstr "最初のソースファイルの名前をつかうには、空にします。"
+
+#: VExportDialog%2334
+msgid "Title of the generated PDF file"
+msgstr "生成されたPDFファイルのタイトル"
+
+#: VExportDialog%2335
+msgid "Name of the generated PDF file"
+msgstr "生成されたPDFファイルの名前"
+
+#: VExportDialog%2336
+msgid "Enable background"
+msgstr "バックグラウンドを有効にする"
+
+#: VExportDialog%2337
+msgid "Enable background when printing"
+msgstr "印刷時にバックグラウンドを有効にする"
+
+#: VExportDialog%2338
+msgid "Append page number as footer"
+msgstr "ページ番号をフッターとして追加する"
+
+#: VExportDialog%2339
+msgid "Additional global options passed to wkhtmltopdf"
+msgstr "wkhtmltopdfに追加のグローバルオプションをわたす"
+
+#: VExportDialog%2340
+msgid "Use \" to enclose options containing spaces"
+msgstr "オプションの値に空白文字が含まれるときは、\" で囲んでください。"
+
+#: VExportDialog%2341
+msgid "Page layout:"
+msgstr "ページレイアウト："
+
+#: VExportDialog%2342
+msgid "wkhtmltopdf path:"
+msgstr "wkhtmltopdf パス:"
+
+#: VExportDialog%2343
+msgctxt "VExportDialog#43"
+msgid "Title:"
+msgstr "タイトル："
+
+#: VExportDialog%2344
+msgid "Output file name:"
+msgstr "出力ファイル名："
+
+#: VExportDialog%2345
+msgid "Page number:"
+msgstr "ページ番号："
+
+#: VExportDialog%2346
+msgid "Additional options:"
+msgstr "追加オプション："
+
+#: VExportDialog%2347
+msgid "Embed CSS styles"
+msgstr "埋め込みCSSスタイル："
+
+#: VExportDialog%2348
+msgid "Embed CSS styles in HTML file"
+msgstr "HTMLファイルにCSSスタイルをうめこむ"
+
+#: VExportDialog%2349
+msgid "Embed images"
+msgstr "画像の埋め込み"
+
+#: VExportDialog%2350
+msgid "Embed images as data URI"
+msgstr "画像をデータURIとして埋め込み"
+
+#: VExportDialog%2351
+msgid "Complete page"
+msgstr "完全なページ"
+
+#: VExportDialog%2352
+msgid ""
+"Export the whole web page along with pictures which may not keep the HTML "
+"link structure of the original page"
+msgstr "元ページのHTMLリンク構造を保持しない可能性のある画像とともに、Webページ全体をエクスポートします。"
+
+#: VExportDialog%2353
+msgid "MIME HTML"
+msgstr "MIME HTML"
+
+#: VExportDialog%2354
+msgid "Export as a complete web page in MIME HTML format"
+msgstr "MIME HTML形式での完全なWebページとしてのエクスポート"
+
+#: VExportDialog%2355
+msgid "Enable outline panel"
+msgstr "アウトライン・パネルの有効化"
+
+#: VExportDialog%2356
+msgid "Add an outline panel in HTML file"
+msgstr "HTMLファイルにアウトライン・パネルを追加する"
+
+#: VExportDialog%2357
+msgid "Process subfolders"
+msgstr "サブフォルダを処理する"
+
+#: VExportDialog%2358
+msgid "Process subfolders recursively"
+msgstr "サブフォルダを再帰的に処理する"
+
+#: VExportDialog%2359
+msgid "Current Note (%1)"
+msgstr "[現在のノート](%1)"
+
+#: VExportDialog%2360
+msgid "Current Folder (%1)"
+msgstr "現在のフォルダ(%1)"
+
+#: VExportDialog%2361
+msgid "Current Notebook (%1)"
+msgstr "現在のノートブック(%1)"
+
+#: VExportDialog%2362
+msgid "Cart (%1)"
+msgstr "カート(%1)"
+
+#: VExportDialog%2363
+msgctxt "VExportDialog#63"
+msgid "Markdown"
+msgstr "Markdown"
+
+#: VExportDialog%2364
+msgctxt "VExportDialog#64"
+msgid "HTML"
+msgstr "HTML"
+
+#: VExportDialog%2365
+msgid "PDF"
+msgstr "PDF"
+
+#: VExportDialog%2366
+msgid "PDF (All In One)"
+msgstr "PDF(オールインワン)"
+
+#: VExportDialog%2367
+msgid "Custom"
+msgstr "カスタム"
+
+#: VExportDialog%2368
+msgctxt "VExportDialog#68"
+msgid "Hoedown"
+msgstr "Hoedown"
+
+#: VExportDialog%2369
+msgctxt "VExportDialog#69"
+msgid "Marked"
+msgstr "Marked"
+
+#: VExportDialog%2370
+msgctxt "VExportDialog#70"
+msgid "Markdown-it"
+msgstr "Markdown-it"
+
+#: VExportDialog%2371
+msgctxt "VExportDialog#71"
+msgid "Showdown"
+msgstr "Showdown"
+
+#: VExportDialog%2372
+msgctxt "VExportDialog#72"
+msgid "System"
+msgstr "システム"
+
+#: VExportDialog%2373
+msgctxt "VExportDialog#73"
+msgid "Transparent"
+msgstr "透明"
+
+#: VExportDialog%2374
+msgctxt "VExportDialog#74"
+msgid "None"
+msgstr "なし"
+
+#: VExportDialog%2375
+msgctxt "VExportDialog#75"
+msgid "Left"
+msgstr "左"
+
+#: VExportDialog%2376
+msgctxt "VExportDialog#76"
+msgid "Center"
+msgstr "中心"
+
+#: VExportDialog%2377
+msgctxt "VExportDialog#77"
+msgid "Right"
+msgstr "右"
+
+#: VExportDialog%2378
+msgctxt "VExportDialog#78"
+msgid "Fail to start wkhtmltopdf (%1)."
+msgstr "wkhtmltopdf (%1)の実行に失敗しました。"
+
+#: VExportDialog%2379
+msgctxt "VExportDialog#79"
+msgid "wkhtmltopdf crashed (%1)."
+msgstr "wkhtmltopdf  がクラッシュ(%1)。"
+
+#: VExportDialog%2380
+msgid "Use %1 (%2)."
+msgstr "%1を使用する(%2)"
+
+#: VExportDialog%2381
+msgid "Export to %1."
+msgstr "%1にエクスポートします。"
+
+#: VExportDialog%2382
+msgid "Invalid configurations for custom export."
+msgstr "カスタムエクスポートの設定が無効です。"
+
+#: VExportDialog%2383
+msgid "User cancelled the export. Aborted!"
+msgstr "ユーザーがエクスポートをキャンセルしました。中止しました!"
+
+#: VExportDialog%2384
+msgctxt "VExportDialog#84"
+msgid "Warning"
+msgstr "警告"
+
+#: VExportDialog%2385
+msgid "Errors found during export."
+msgstr "エクスポート中にエラーが検出されました。"
+
+#: VExportDialog%2386
+msgid "%1 notes exported."
+msgstr "%1 個のノートが書き出されました。"
+
+#: VExportDialog%2387
+msgid "Select Output Directory To Export To"
+msgstr "エクスポート先の出力ディレクトリを選択"
+
+#: VExportDialog%2388
+msgid "Executable (*.exe)"
+msgstr "実行可能ファイル(*.exe)"
+
+#: VExportDialog%2389
+msgid "Select wkhtmltopdf Executable"
+msgstr "wkhtmltopdfの実行ファイルを選択"
+
+#: VExportDialog%2390
+msgid "Exporting note %1."
+msgstr "ノート%1をエクスポートしています。"
+
+#: VExportDialog%2391
+msgctxt "VExportDialog#91"
+msgid "Fail to open folder %1."
+msgstr "フォルダ%1を開くことができません。"
+
+#: VExportDialog%2392
+msgid "Fail to create directory %1."
+msgstr "ディレクトリ%1の作成に失敗しました。"
+
+#: VExportDialog%2393
+msgid "Fail to open notebook %1."
+msgstr "ノートブック%1を開くことができません。"
+
+#: VExportDialog%2394
+msgid "Fail to open file %1."
+msgstr "ファイル%1を開くことができません。"
+
+#: VExportDialog%2395
+msgid "Skip exporting non-Markdown file %1 as Markdown."
+msgstr "非Markdownファイル%1の Markdown形式でのエクスポートをスキップします。"
+
+#: VExportDialog%2396
+msgid "Fail to copy the note file %1."
+msgstr "ノートファイル%1のコピーに失敗しました。"
+
+#: VExportDialog%2397
+msgid "Fail to copy images of note %1."
+msgstr "ノート%1の画像をコピーできません。"
+
+#: VExportDialog%2398
+msgid "Fail to copy attachments folder %1 to %2."
+msgstr "添付ファイルのフォルダ%1を%2にコピーできません。"
+
+#: VExportDialog%2399
+msgid "Note %1 exported to %2."
+msgstr "ノート%1は%2にエクスポートされました。"
+
+#: VExportDialog%23100
+msgid "Skip exporting non-Markdown file %1 as PDF."
+msgstr "非Markdownファイル%1のPDF形式でのエクスポートをスキップします。"
+
+#: VExportDialog%23101
+msgid "Fail to export note %1."
+msgstr "ノート%1をエクスポートできません。"
+
+#: VExportDialog%23102
+msgid "Skip exporting non-Markdown file %1 as HTML."
+msgstr "非Markdownファイル%1のHTML形式でのエクスポートをスキップします。"
+
+#: VExportDialog%23103
+msgid "Skip exporting non-Markdown file %1."
+msgstr "非Markdownファイル%1のエクスポートをスキップします。"
+
+#: VExportDialog%23104
+msgid "Portrait"
+msgstr "縦長書式"
+
+#: VExportDialog%23105
+msgid "Landscape"
+msgstr "横長書式"
+
+#: VExportDialog%23106
+msgid "%1 notes exported to %2."
+msgstr "%1個のノートが、%2にエクスポートされました。"
+
+#: VExportDialog%23107
+msgid "Fail to export %1 notes in one PDF."
+msgstr "%1 個のノートを一つのPDFへエキスポートするのに失敗しました。"
+
+#: VExportDialog%23108
+msgid "Fail to export %1 notes in one."
+msgstr "%1 個のノートを一つにエキスポートするのに失敗しました。"
+
+#: VExportDialog%23109
+msgid "Choose format of the input"
+msgstr "入力フォーマットを選択"
+
+#: VExportDialog%23110
+msgid "Without the preceding dot"
+msgstr "先頭のドット文字なし"
+
+#: VExportDialog%23111
+msgid "Suffix of the output file without the preceding dot"
+msgstr "先頭のドット文字なしの出力ファイルの拡張子"
+
+#: VExportDialog%23112
+msgid ""
+"<span><span style=\"font-weight:bold;\">%0</span> for the input file; <span "
+"style=\"font-weight:bold;\">%1</span> for the output file; <span style"
+"=\"font-weight:bold;\">%2</span> for the rendering CSS style file; <span "
+"style=\"font-weight:bold;\">%3</span> for the input file directory; <span "
+"style=\"font-weight:bold;\">%4</span> for the rendering code block CSS style "
+"file.</span>"
+msgstr ""
+"<span><span style=\"font-weight:bold;\">%0</span> for the input file; <span "
+"style=\"font-weight:bold;\">%1</span> for the output file; <span style"
+"=\"font-weight:bold;\">%2</span> for the rendering CSS style file; <span "
+"style=\"font-weight:bold;\">%3</span> for the input file directory; <span "
+"style=\"font-weight:bold;\">%4</span> for the rendering code block CSS style "
+"file.</span>"
+
+#: VExportDialog%23113
+msgid "Enable All In One"
+msgstr "オールインワンを有効にする"
+
+#: VExportDialog%23114
+msgid "Pass a list of input files to the custom command"
+msgstr "カスタムコマンドへ入力ファイルのリストを渡す"
+
+#: VExportDialog%23115
+msgid "PDF-Like"
+msgstr "PDF-Like"
+
+#: VExportDialog%23116
+msgid "Treat the exported file as PDF, such as wrapping line"
+msgstr "行の折り返しなどで、エクスポートしたファイルをPDFのように扱う"
+
+#: VExportDialog%23117
+msgid "Separator to concatenate input files directories"
+msgstr "入力ファイルのディレクトリを連結する区切り文字"
+
+#: VExportDialog%23118
+msgid "Name of the generated All-In-One file"
+msgstr "生成されるオールインワンファイルの名前"
+
+#: VExportDialog%23119
+msgid "Custom command to be executed"
+msgstr "実行するカスタムコマンド"
+
+#: VExportDialog%23120
+msgid "Source format:"
+msgstr "ソースのフォーマット:"
+
+#: VExportDialog%23121
+msgid "Output suffix:"
+msgstr "出力ファイルの拡張子:"
+
+#: VExportDialog%23122
+msgid "Input directories separator:"
+msgstr "入力ディレクトリ区切り文字:"
+
+#: VExporter%231
+msgctxt "VExporter#1"
+msgid "Fail to start wkhtmltopdf (%1)."
+msgstr "wkhtmltopdf (%1)の実行に失敗しました。"
+
+#: VExporter%232
+msgctxt "VExporter#2"
+msgid "wkhtmltopdf crashed (%1)."
+msgstr "wkhtmltopdf  がクラッシュ(%1)。"
+
+#: VExporter%233
+msgid "Fail to start custom command (%1)."
+msgstr "カスタムコマンド(%1)の実行に失敗しました。"
+
+#: VExporter%234
+msgid "Custom command crashed (%1)."
+msgstr "カスタムコマンド(%1)がクラッシュしました。"
+
+#: VExporter%235
+msgid "QProcess error %1."
+msgstr "QProcessエラー %1"
+
+#: VFileInfoDialog%231
+msgid "Will be assigned when adding attachments"
+msgstr "添付ファイルを追加するときに割り当てられる"
+
+#: VFileInfoDialog%232
+msgid "The folder to hold attachments of this note"
+msgstr "このノートの添付ファイルを保持するフォルダ"
+
+#: VFileInfoDialog%233
+msgid "Last modified time within VNote"
+msgstr "VNote内での最終更新日時"
+
+#: VFileInfoDialog%234
+msgid "Tags of this note separated by ,"
+msgstr "カンマ(,)区切りの、このノートに付与するタグ"
+
+#: VFileInfoDialog%235
+msgctxt "VFileInfoDialog#5"
+msgid "Note &name:"
+msgstr "ノート名(&N):"
+
+#: VFileInfoDialog%236
+msgid "File path:"
+msgstr "ファイルパス:"
+
+#: VFileInfoDialog%237
+msgctxt "VFileInfoDialog#7"
+msgid "Attachment folder:"
+msgstr "添付ファイルフォルダ:"
+
+#: VFileInfoDialog%238
+msgctxt "VFileInfoDialog#8"
+msgid "Created time:"
+msgstr "作成日時:"
+
+#: VFileInfoDialog%239
+msgid "Modified time:"
+msgstr "修正された時刻:"
+
+#: VFileInfoDialog%2310
+msgid "Tags:"
+msgstr "タグ:"
+
+#: VFileInfoDialog%2311
+msgctxt "VFileInfoDialog#11"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name (case-insensitive) <span style=\"%2\""
+">%3</span> already exists. Please choose another name."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前(大文字と小文字を区別しない)<span style=\"%2\""
+">%3</span>は既に存在しています。別の名前を選択してください。"
+
+#: VFileInfoDialog%2312
+msgid ""
+"<span style=\"%1\">WARNING</span>: Changing type of the note is not "
+"supported. Please use the same suffix as the old one."
+msgstr ""
+"<span style=\"%1\">警告</span>:ノートのタイプ変更はサポートされません。。古いものと同じサフィックスを使ってください。"
+
+#: VFileInfoDialog%2313
+msgctxt "VFileInfoDialog#13"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name <span style=\"%2\">%3</span> "
+"contains illegal characters (after magic word evaluation)."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前<span style=\"%2\""
+">%3</span>には、不正な文字が含まれています(マジックワード評価の後)。"
+
+#: VFileList%231
+msgctxt "VFileList#1"
+msgid "Notes"
+msgstr "ノート"
+
+#: VFileList%232
+msgctxt "VFileList#2"
+msgid "View"
+msgstr "表示"
+
+#: VFileList%233
+msgctxt "VFileList#3"
+msgid "Split"
+msgstr "分割"
+
+#: VFileList%234
+msgctxt "VFileList#4"
+msgid "%1 %2 added to Cart"
+msgstr "%1カートに%2が追加されました"
+
+#: VFileList%235
+msgctxt "VFileList#5"
+msgid "notes"
+msgstr "ノート"
+
+#: VFileList%236
+msgctxt "VFileList#6"
+msgid "note"
+msgstr "ノート"
+
+#: VFileList%237
+msgctxt "VFileList#7"
+msgid "%1 %2 pinned to History"
+msgstr "%1 %2は履歴に固定されています"
+
+#: VFileList%238
+msgctxt "VFileList#8"
+msgid "Quick access: %1"
+msgstr "クイックアクセス:%1"
+
+#: VFileList%239
+msgid "Note Information"
+msgstr "ノート情報"
+
+#: VFileList%2310
+msgctxt "VFileList#10"
+msgid "Warning"
+msgstr "警告"
+
+#: VFileList%2311
+msgid "Fail to rename note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>の名前変更に失敗しました。"
+
+#: VFileList%2312
+msgid ""
+"%1\n"
+"\n"
+"Created Time: %2\n"
+"Modified Time: %3"
+msgstr ""
+"作成された日時: %2\n"
+"修正された日時: %3"
+
+#: VFileList%2313
+msgid "Create a note in <span style=\"%1\">%2</span>."
+msgstr "<span style=\"%1\">%2</span>にノートを作成します。"
+
+#: VFileList%2314
+msgid "Note with name ending with \"%1\" will be treated as Markdown type."
+msgstr "\"%1\"でおわる名前のノートは、Markdownタイプとして扱われます。"
+
+#: VFileList%2315
+msgid "Create Note"
+msgstr "ノートを作成"
+
+#: VFileList%2316
+msgid "Fail to create note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VFileList%2317
+msgid "Are you sure to delete these notes?"
+msgstr "これらのノートを削除しますか？"
+
+#: VFileList%2318
+msgid ""
+"<span style=\"%1\">WARNING</span>: VNote will delete notes as well as all "
+"their images and attachments managed by VNote. Deleted files could be found "
+"in the recycle bin of these notes.<br>Click \"Cancel\" to leave them "
+"untouched.<br>The operation is IRREVERSIBLE!"
+msgstr ""
+"<span style=\"%1\">警告</span>:VNoteは、VNoteが管理するすべての画像と添付ファイルをノートとともに削除します。削除した"
+"ファイルはこれらのノートのゴミ箱にいきます。<br>\"キャンセル\"をクリックすると、そのままにします。<br>復旧はできません!"
+
+#: VFileList%2319
+msgid "Confirm Deleting Notes"
+msgstr "削除するノートの確認"
+
+#: VFileList%2320
+msgid ""
+"Fail to delete note <span style=\"%1\">%2</span>.<br>Please check <span "
+"style=\"%1\">%3</span> and manually delete it."
+msgstr ""
+"ノート<span style=\"%1\">%2</span>を削除できません。<br><span style=\"%1\""
+">%3</span>を確認して、手動で削除してください。"
+
+#: VFileList%2321
+msgctxt "VFileList#21"
+msgid "%1 %2 deleted"
+msgstr "%1%2が削除されました"
+
+#: VFileList%2322
+msgid "&Open In Read Mode"
+msgstr "読み取りモードで開く(&O)"
+
+#: VFileList%2323
+msgid "Open current note in read mode"
+msgstr "現在のノートを読み取りモードで開く"
+
+#: VFileList%2324
+msgid "Open In &Edit Mode"
+msgstr "編集モードで開く(&E)"
+
+#: VFileList%2325
+msgid "Open current note in edit mode"
+msgstr "現在のノートを編集モードで開く"
+
+#: VFileList%2326
+msgid "&New Note"
+msgstr "新しいノート(&N)"
+
+#: VFileList%2327
+msgctxt "VFileList#27"
+msgid "Create a note in current folder"
+msgstr "現在のフォルダにノートを作成する"
+
+#: VFileList%2328
+msgctxt "VFileList#28"
+msgid "&Sort"
+msgstr "整列(&S)"
+
+#: VFileList%2329
+msgid "Sort notes in this folder manually"
+msgstr "このフォルダ内のノートを手動で並べ替える"
+
+#: VFileList%2330
+msgctxt "VFileList#30"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#: VFileList%2331
+msgid "Delete selected note"
+msgstr "選択されたノートを削除"
+
+#: VFileList%2332
+msgctxt "VFileList#32"
+msgid "&Copy\t%1"
+msgstr "コピー(%1)(&P)"
+
+#: VFileList%2333
+msgid "Copy selected notes"
+msgstr "選択されたノートをコピーする"
+
+#: VFileList%2334
+msgctxt "VFileList#34"
+msgid "C&ut\t%1"
+msgstr "%1を切り取り(&u)"
+
+#: VFileList%2335
+msgid "Cut selected notes"
+msgstr "選択したノートを切り取る"
+
+#: VFileList%2336
+msgctxt "VFileList#36"
+msgid "&Paste\t%1"
+msgstr "貼り付け(%1)(&P)"
+
+#: VFileList%2337
+msgid "Paste notes in current folder"
+msgstr "現在のフォルダにノートを貼り付ける"
+
+#. (obsolete)
+#: VFileList%2338
+msgid "&Open Note Location"
+msgstr "ノートの場所を開く(&O)"
+
+#: VFileList%2339
+msgctxt "VFileList#39"
+msgid "Explore the folder containing this note in operating system"
+msgstr "オペレーティング・システムでこのノートのあるフォルダを表示します。"
+
+#. (obsolete)
+#: VFileList%2340
+msgctxt "VFileList#40"
+msgid "Copy File Path"
+msgstr "ファイルパスをコピー"
+
+#: VFileList%2341
+msgid "Open Note &Location"
+msgstr ""
+
+#: VFileList%2342
+msgid "Copy File &Path"
+msgstr ""
+
+#: VFileList%2343
+msgid "File path copied %1"
+msgstr "ファイルパスを、 %1 へコピー"
+
+#: VFileList%2344
+msgctxt "VFileList#44"
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+#: VFileList%2345
+msgctxt "VFileList#45"
+msgid "Add selected notes to Cart for further processing"
+msgstr "追加処理のために、選択したノートをカートに追加します"
+
+#: VFileList%2346
+msgctxt "VFileList#46"
+msgid "Pin To History"
+msgstr "履歴に固定"
+
+#: VFileList%2347
+msgctxt "VFileList#47"
+msgid "Pin selected notes to History"
+msgstr "選択したノートを履歴に固定します"
+
+#: VFileList%2348
+msgctxt "VFileList#48"
+msgid "Set As Quick Access"
+msgstr "クイックアクセスとして設定する"
+
+#: VFileList%2349
+msgid "Set current note as quick access"
+msgstr "現在のノートをクイックアクセスに設定します。"
+
+#: VFileList%2350
+msgctxt "VFileList#50"
+msgid "&Info (Rename)\t%1"
+msgstr "情報(名前変更)(&I)          %1"
+
+#: VFileList%2351
+msgctxt "VFileList#51"
+msgid "View and edit current note's information"
+msgstr "現在のノート情報を表示および編集する"
+
+#: VFileList%2352
+msgid "Skip importing non-exist file %1."
+msgstr "存在しないファイル %1 のインポートをスキップします。"
+
+#: VFileList%2353
+msgid ""
+"Skip importing file %1. A note with the same name (case-insensitive) in the "
+"same directory already exists."
+msgstr "ファイル %1 のインポートをスキップ同じ名前(大文字、小文字区別なし)のノートが同じディレクトリに既に存在しています。"
+
+#: VFileList%2354
+msgid "Fail to copy file %1 as %2."
+msgstr "ファイル %1 の %2へのコピーに失敗"
+
+#: VFileList%2355
+msgid "Fail to add the note %1 to target folder's configuration."
+msgstr "ノート %1 をターゲットフォルダの設定へ追加できません。"
+
+#: VFileList%2356
+msgctxt "VFileList#56"
+msgid "%1 %2 %3"
+msgstr "%1 %2 %3"
+
+#: VFileList%2357
+msgctxt "VFileList#57"
+msgid "cut"
+msgstr "切り取り"
+
+#: VFileList%2358
+msgctxt "VFileList#58"
+msgid "copied"
+msgstr "コピーされた"
+
+#: VFileList%2359
+msgid "Fail to paste note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>の貼り付けに失敗しました。"
+
+#: VFileList%2360
+msgid "VNote could not find this note in any notebook."
+msgstr "どのノートブックにも、このノートが見つかりません。"
+
+#: VFileList%2361
+msgid "Fail to copy note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>のコピーに失敗しました。"
+
+#: VFileList%2362
+msgid ""
+"VNote does not allow copy and paste notes with internal images in the same "
+"folder."
+msgstr "VNoteでは、同じフォルダ内の画像つきのノートを、コピー&ペーストすることはできません。"
+
+#: VFileList%2363
+msgctxt "VFileList#63"
+msgid "%1 %2 pasted"
+msgstr "%1  %2貼り付けられました"
+
+#: VFileList%2364
+msgid "Sort Notes"
+msgstr "ノートの整列"
+
+#: VFileList%2365
+msgid ""
+"Sort notes in folder <span style=\"%1\">%2</span> in the configuration file."
+msgstr "構成ファイル内のフォルダ<span style=\"%1\">%2</span>のノートを整列します。"
+
+#: VFileList%2366
+msgctxt "VFileList#66"
+msgid "Name"
+msgstr "名前"
+
+#: VFileList%2367
+msgctxt "VFileList#67"
+msgid "Created Time"
+msgstr "作成日時間"
+
+#: VFileList%2368
+msgid "Modified Time"
+msgstr "修正日時"
+
+#: VFileList%2369
+msgid "Fail to sort notes in folder <span style=\"%1\">%2</span>."
+msgstr "フォルダ<span style=\"%1\">%2</span>内のノートを並べ替えることができませんでした。"
+
+#: VFileList%2370
+msgid "Open With"
+msgstr "指定して開く"
+
+#: VFileList%2371
+msgid "Open current note with %1"
+msgstr "現在のノートを %1 を用いて開く"
+
+#: VFileList%2372
+msgid "System's Default Program"
+msgstr "システム既定のプログラム"
+
+#: VFileList%2373
+msgid "Open current note with system's default program"
+msgstr "現在のノートをシステム既定のプログラムで開く"
+
+#: VFileList%2374
+msgid "Add External Program"
+msgstr "外部プログラムを追加"
+
+#: VFileList%2375
+msgid "Add external program"
+msgstr "外部プログラムを追加します"
+
+#: VFileList%2376
+msgctxt "VFileList#76"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: VFileList%2377
+msgctxt "VFileList#77"
+msgid "Items"
+msgstr "項目"
+
+#: VFileList%2378
+msgctxt "VFileList#78"
+msgid "Item"
+msgstr "項目"
+
+#: VFileList%2379
+msgid "View By Configuration File"
+msgstr "構成ファイル毎の表示"
+
+#: VFileList%2380
+msgid "View By Name"
+msgstr "名前順による表示"
+
+#: VFileList%2381
+msgid "View By Name (Reverse)"
+msgstr "名前順による表示(逆順)"
+
+#: VFileList%2382
+msgid "View By Created Time"
+msgstr "作成日時順の表示"
+
+#: VFileList%2383
+msgid "View By Created Time (Reverse)"
+msgstr "作成日時順の表示(逆順)"
+
+#: VFileList%2384
+msgid "View By Modified Time"
+msgstr "修正日時順の表示"
+
+#: VFileList%2385
+msgid "View By Modified Time (Reverse)"
+msgstr "修正日時順の表示(逆順)"
+
+#: VFindReplaceDialog%231
+msgctxt "VFindReplaceDialog#1"
+msgid "Find/Replace"
+msgstr "検索/置換"
+
+#: VFindReplaceDialog%232
+msgid "Find:"
+msgstr "検索:"
+
+#: VFindReplaceDialog%233
+msgid "Enter text to search"
+msgstr "検索するテキストを入力してください"
+
+#: VFindReplaceDialog%234
+msgid "Find &Next"
+msgstr "次を検索(&N)"
+
+#: VFindReplaceDialog%235
+msgid "Find &Previous"
+msgstr "前を検索(&P)"
+
+#: VFindReplaceDialog%236
+msgid "&Replace with:"
+msgstr "置換(&R):"
+
+#: VFindReplaceDialog%237
+msgid "\\1, \\2 for back reference in regular expression"
+msgstr "\\1, \\2 for back reference in regular expression"
+
+#: VFindReplaceDialog%238
+msgctxt "VFindReplaceDialog#8"
+msgid "Replace"
+msgstr "置換"
+
+#: VFindReplaceDialog%239
+msgid "Replace && Fin&d"
+msgstr "Replace && Fin&d"
+
+#: VFindReplaceDialog%2310
+msgid "Replace A&ll"
+msgstr "全てを置換(&A)"
+
+#: VFindReplaceDialog%2311
+msgid "&Advanced >>>"
+msgstr "詳細(&A)>>>"
+
+#: VFindReplaceDialog%2312
+msgctxt "VFindReplaceDialog#12"
+msgid "&Case sensitive"
+msgstr "大文字と小文字を区別(&C)"
+
+#: VFindReplaceDialog%2313
+msgctxt "VFindReplaceDialog#13"
+msgid "&Whole word only"
+msgstr "単語全体のみ(&W)"
+
+#: VFindReplaceDialog%2314
+msgctxt "VFindReplaceDialog#14"
+msgid "Re&gular expression"
+msgstr "正規表現(&G)"
+
+#: VFindReplaceDialog%2315
+msgid "&Incremental search"
+msgstr "インクリメンタル検索(&I)"
+
+#: VFindReplaceDialog%2316
+msgid "B&asic <<<"
+msgstr "基本&B) <<<"
+
+#: VFixNotebookDialog%231
+msgid ""
+"VNote could not find the root folder of notebook <span style=\"%1\">%2</span>"
+". Please specify the new path to the root folder if you moved it somewhere, "
+"or VNote will just remove this notebook."
+msgstr ""
+"Vnoteはノートブック<span style=\"%1\">%2</span>のルートフォルダを見つけることができませんでした。ルートフォルダをどこかに"
+"移動した場合、またはVNoteでこのノートブックを削除した場合は、ルートフォルダへの新しいパスを指定してください。"
+
+#: VFixNotebookDialog%232
+msgctxt "VFixNotebookDialog#2"
+msgid "&Browse"
+msgstr "ブラウズ(&B)"
+
+#: VFixNotebookDialog%233
+msgctxt "VFixNotebookDialog#3"
+msgid "Use relative path"
+msgstr "相対パスを使用"
+
+#: VFixNotebookDialog%234
+msgctxt "VFixNotebookDialog#4"
+msgid "Use relative path (to VNote's executable) in configuration file"
+msgstr "構成ファイル内で、(Vnoteの実行可能ファイルに対する)相対パスを使用します。"
+
+#: VFixNotebookDialog%235
+msgid "Notebook name:"
+msgstr "ノートブック名:"
+
+#: VFixNotebookDialog%236
+msgid "Notebook root folder:"
+msgstr "ノートブックルートフォルダ:"
+
+#: VFixNotebookDialog%237
+msgid "Fix Notebook"
+msgstr "ノートブックの固定"
+
+#: VFixNotebookDialog%238
+msgctxt "VFixNotebookDialog#8"
+msgid "Select Root Folder Of The Notebook"
+msgstr "ノートブックのルートフォルダを選択"
+
+#: VFixNotebookDialog%239
+msgid ""
+"<span style=\"%1\">WARNING</span>: The folder chosen is NOT a valid root "
+"folder of a notebook."
+msgstr "<span style=\"%1\">警告</span>:選択されたフォルダは、ノートブックの有効なルートフォルダではありません。"
+
+#: VFixNotebookDialog%2310
+msgctxt "VFixNotebookDialog#10"
+msgid "<span style=\"%1\">WARNING</span>: Please specify absolute path."
+msgstr "<span style=\"%1\">警告</span>: 絶対パスを指定してください。"
+
+#: VFixNotebookDialog%2311
+msgctxt "VFixNotebookDialog#11"
+msgid ""
+"<span style=\"%1\">WARNING</span>: The folder chosen has already been a root "
+"folder of existing notebook <span style=\"%2\">%3</span> in VNote."
+msgstr ""
+"<span style=\"%1\">警告</span>: 選択したフォルダは、VNoteで作成された既存のノートブック<span style=\"%"
+"2\">%3</span>です。"
+
+#: VFixNotebookDialog%2312
+msgctxt "VFixNotebookDialog#12"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Please choose a folder in the same drive "
+"as <span style=\"%2\">%3</span> when relative path is enabled."
+msgstr ""
+"<span style=\"%1\">警告</span>: 相対パスが有効なときは、<span style=\"%2\""
+">%3</span>と同じドライブのフォルダを選択してください。"
+
+#: VGeneralTab%231
+msgid "Choose the language of VNote interface"
+msgstr "VNoteインタフェースの言語を選択します。"
+
+#: VGeneralTab%232
+msgctxt "VGeneralTab#2"
+msgid "System"
+msgstr "システム"
+
+#: VGeneralTab%233
+msgid "System tray"
+msgstr "システムトレイ"
+
+#: VGeneralTab%234
+msgid ""
+"Minimized to the system tray after closing VNote (not supported in macOS)"
+msgstr "VNoteを閉じた後、システムトレイに最小化されます(macOSではサポートされていません)。"
+
+#: VGeneralTab%235
+msgid "Path of file to quick access"
+msgstr "ファイルのパスがすばやくアクセスできるようにする"
+
+#: VGeneralTab%236
+msgid ""
+"Set the path of a file to quick access (absolute or relative to "
+"configuration folder)"
+msgstr "ファイルのパスをクイックアクセス(設定フォルダに対して絶対または相対)するように設定します。"
+
+#: VGeneralTab%237
+msgid "Browse"
+msgstr "ブラウズ"
+
+#: VGeneralTab%238
+msgid "Select File To Quick Access"
+msgstr "クイックアクセスにファイルを選択"
+
+#: VGeneralTab%239
+msgid "Choose the keyboard layout mapping to use in shortcuts"
+msgstr "ショートカットで使用するキーボードレイアウトマッピングを選択します。"
+
+#: VGeneralTab%2310
+msgid ""
+"Choose the OpenGL implementation to load (restart VNote to make it work)"
+msgstr "ロードするOpenGLの実装を選択する(VNoteを動作させるために再起動します)"
+
+#: VGeneralTab%2311
+msgctxt "VGeneralTab#11"
+msgid "Edit"
+msgstr "編集"
+
+#: VGeneralTab%2312
+msgid "Language:"
+msgstr "言語:"
+
+#: VGeneralTab%2313
+msgid "Startup pages:"
+msgstr "スタートアップページ:"
+
+#: VGeneralTab%2314
+msgid "Quick access:"
+msgstr "クイックアクセス:"
+
+#: VGeneralTab%2315
+msgctxt "VGeneralTab#15"
+msgid "Keyboard layout mapping:"
+msgstr "キーボードレイアウトのマッピング:"
+
+#: VGeneralTab%2316
+msgid "OpenGL:"
+msgstr "OpenGL:"
+
+#: VGeneralTab%2317
+msgid "Restore tabs or open specific notes on startup"
+msgstr "起動時に、タブを復元するか、特定のノートを開く"
+
+#: VGeneralTab%2318
+msgctxt "VGeneralTab#18"
+msgid "None"
+msgstr "なし"
+
+#: VGeneralTab%2319
+msgid "Continue where you left off"
+msgstr "終了時の状態を継続"
+
+#: VGeneralTab%2320
+msgid "Open specific pages"
+msgstr "特定のページを開く"
+
+#: VGeneralTab%2321
+msgid "Absolute path of the notes to open on startup (one note per line)"
+msgstr "起動時に開くノートの絶対パス(各行毎にノートのファイル名)"
+
+#: VGeneralTab%2322
+msgid "Select files to add as startup pages"
+msgstr "スタートアップページとして追加するファイルを選択してください"
+
+#: VGeneralTab%2323
+msgid "Select Files As Startup Pages"
+msgstr "スタートアップページとしてファイルを選択"
+
+#: VGeneralTab%2324
+msgid "DesktopOpenGL"
+msgstr "DesktopOpenGL"
+
+#: VGeneralTab%2325
+msgid "OpenGLES"
+msgstr "OpenGLES"
+
+#: VGeneralTab%2326
+msgid "SoftwareOpenGL"
+msgstr "SoftwareOpenGL"
+
+#: VHelpUE%231
+msgid "View help information about Universal Entry"
+msgstr "ユニバーサルエントリに関するヘルプ情報を表示する"
+
+#: VHelpUE%232
+msgid "Esc or Ctrl+[: Hide Universal Entry"
+msgstr "Esc or Ctrl+[: ユニバーサルエントリを隠す"
+
+#: VHelpUE%233
+msgid "Ctrl+U: Clear the command input"
+msgstr "Ctrl+U: コマンド入力をクリアします。"
+
+#: VHelpUE%234
+msgid "Ctrl+E: Clear the command input except the entry key"
+msgstr "Ctrl+E: 入力キー以外のコマンド入力をクリアします。"
+
+#: VHelpUE%235
+msgid "Ctrl+F: Select the entry key to change"
+msgstr "Ctrl+F: 変更するエントリキーを選択します。"
+
+#: VHelpUE%236
+msgid "Ctrl+D: Cancel the command"
+msgstr "Ctrl+D:コマンドをキャンセルします。"
+
+#: VHelpUE%237
+msgid "Ctrl+J: Go to next item"
+msgstr "Ctrl+J: 次の項目に移動します。"
+
+#: VHelpUE%238
+msgid "Ctrl+K: Go to previous item"
+msgstr "Ctrl+K: 前の項目に移動します。"
+
+#: VHelpUE%239
+msgid "Ctrl+L: Go to current item's parent item"
+msgstr "Ctrl+L: 現在の項目の親アイテムに移動します。"
+
+#: VHelpUE%2310
+msgid "Ctrl+I: Expand/Collapse current item"
+msgstr "Ctrl+I: 現在の項目の展開/折り畳み"
+
+#: VHelpUE%2311
+msgid "Ctrl+B: Expand/Collapse all items"
+msgstr "Ctrl+B: 全ての項目の展開/折り畳み"
+
+#: VHelpUE%2312
+msgid "Ctrl+S: Sort items"
+msgstr "Ctrl+S: 項目のソート"
+
+#: VHelpUE%2313
+msgid "Enter: Activate current item"
+msgstr "Enter: 現在の項目をアクティブにします。"
+
+#: VHelpUE%2314
+msgid ""
+"Ctrl+M: Browse current item folder or the folder containing current item"
+msgstr "Ctrl+M: 現在の項目フォルダまたはその項目を含むフォルダを参照します。"
+
+#: VHelpUE%2315
+msgid "Magic Switches:"
+msgstr "マジックスイッチ："
+
+#: VHelpUE%2316
+msgid "\\c or \\C: Case insensitive or sensitive"
+msgstr "\\c または \\C: 大文字/小文字の区別の切り替え"
+
+#: VHelpUE%2317
+msgid "\\r or \\R: Disable or enable regular expression"
+msgstr "\\rまたは\\R:正規表現を無効または有効にします。"
+
+#: VHelpUE%2318
+msgid "\\f or \\F: Disable or enable fuzzy search"
+msgstr "\\fまたは\\f:ファジー検索を無効または有効にします。"
+
+#: VHelpUE%2319
+msgid "\\w or \\W: Disable or enable whole word only"
+msgstr "\\wまたは\\W:単語全体を無効または有効にしますか?"
+
+#: VHistoryList%231
+msgctxt "VHistoryList#1"
+msgid "Clear"
+msgstr "クリア"
+
+#: VHistoryList%232
+msgctxt "VHistoryList#2"
+msgid "Warning"
+msgstr "警告"
+
+#: VHistoryList%233
+msgid "Are you sure to clear History?"
+msgstr "履歴をクリアしますか?"
+
+#: VHistoryList%234
+msgid "Pinned"
+msgstr "固定"
+
+#: VHistoryList%235
+msgid "Today"
+msgstr "本日"
+
+#: VHistoryList%236
+msgid "Yesterday"
+msgstr "昨日"
+
+#: VHistoryList%237
+msgid "Last 7 Days"
+msgstr "過去7日間"
+
+#: VHistoryList%238
+msgid "Older"
+msgstr "より古い"
+
+#: VHistoryList%239
+msgctxt "VHistoryList#9"
+msgid "&Open"
+msgstr "開く(&O)"
+
+#: VHistoryList%2310
+msgctxt "VHistoryList#10"
+msgid "Open selected notes"
+msgstr "選択されたノートを開く"
+
+#: VHistoryList%2311
+msgctxt "VHistoryList#11"
+msgid "&Locate To Folder"
+msgstr "フォルダへ移動(&L)"
+
+#: VHistoryList%2312
+msgctxt "VHistoryList#12"
+msgid "Locate the folder of current note"
+msgstr "現在のノートのフォルダを指定します。"
+
+#: VHistoryList%2313
+msgid "Pin"
+msgstr "ピン"
+
+#: VHistoryList%2314
+msgid "Pin selected notes in History"
+msgstr "履歴で選択されたノートをピンに固定する"
+
+#: VHistoryList%2315
+msgid "Unpin"
+msgstr "固定解除"
+
+#: VHistoryList%2316
+msgid "Unpin selected notes in History"
+msgstr "履歴で選択されたノートをピン解除する"
+
+#: VHistoryList%2317
+msgctxt "VHistoryList#17"
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+#: VHistoryList%2318
+msgctxt "VHistoryList#18"
+msgid "Add selected notes to Cart for further processing"
+msgstr "追加処理のために、選択したノートをカートに追加します"
+
+#: VHistoryList%2319
+msgctxt "VHistoryList#19"
+msgid "%1 %2 added to Cart"
+msgstr "%1カートに%2が追加されました"
+
+#: VHistoryList%2320
+msgctxt "VHistoryList#20"
+msgid "notes"
+msgstr "ノート"
+
+#: VHistoryList%2321
+msgctxt "VHistoryList#21"
+msgid "note"
+msgstr "ノート"
+
+#: VHtmlTab%231
+msgctxt "VHtmlTab#1"
+msgid "Information"
+msgstr "情報"
+
+#: VHtmlTab%232
+msgctxt "VHtmlTab#2"
+msgid "Note <span style=\"%1\">%2</span> has been modified."
+msgstr "ノート<span style=\"%1\">%2</span>が変更されました。"
+
+#: VHtmlTab%233
+msgctxt "VHtmlTab#3"
+msgid "Do you want to save your changes?"
+msgstr "変更を保存しますか？"
+
+#: VHtmlTab%234
+msgctxt "VHtmlTab#4"
+msgid "Warning"
+msgstr "警告"
+
+#: VHtmlTab%235
+msgctxt "VHtmlTab#5"
+msgid "Could not modify a read-only note <span style=\"%1\">%2</span>."
+msgstr "読み取り専用のノート<span style=\"%1\">%2</span>を変更できませんでした。"
+
+#: VHtmlTab%236
+msgctxt "VHtmlTab#6"
+msgid "Please save your changes to other notes manually."
+msgstr "手動で変更を他のノートとして保存してください。"
+
+#: VHtmlTab%237
+msgctxt "VHtmlTab#7"
+msgid "Fail to save note."
+msgstr "ノートを保存できません。"
+
+#: VHtmlTab%238
+msgctxt "VHtmlTab#8"
+msgid "File <span style=\"%1\">%2</span> being written has been removed."
+msgstr "書き込み中のファイル<span style=\"%1\">%2</span>は削除されました。"
+
+#: VHtmlTab%239
+msgctxt "VHtmlTab#9"
+msgid "Fail to write to disk when saving a note. Please try it again."
+msgstr "ノートを保存するときにディスクへの書き込みに失敗しました。もう一度試してみてください。"
+
+#: VInsertImageDialog%231
+msgctxt "VInsertImageDialog#1"
+msgid "&Browse"
+msgstr "ブラウズ(&B)"
+
+#: VInsertImageDialog%232
+msgid "From:"
+msgstr "From:"
+
+#: VInsertImageDialog%233
+msgctxt "VInsertImageDialog#3"
+msgid "Title:"
+msgstr "タイトル："
+
+#: VInsertImageDialog%234
+msgid "Scaling width:"
+msgstr "スケール幅:"
+
+#: VInsertImageDialog%235
+msgid "Select The Image To Be Inserted"
+msgstr "挿入する画像を選択"
+
+#: VInsertImageDialog%236
+msgid "Images (*.png *.xpm *.jpg *.bmp *.gif *.svg)"
+msgstr "画像(*.png*.xpm*.jpg*.bmp*.gif*.svg)"
+
+#: VInsertLinkDialog%231
+msgid "Absolute or relative path of the link"
+msgstr "リンクの絶対パスまたは相対パス"
+
+#: VInsertLinkDialog%232
+msgid "&Text:"
+msgstr "テキスト(&T):"
+
+#: VInsertLinkDialog%233
+msgid "&URL:"
+msgstr "&URL:"
+
+#: VInsertTableDialog%231
+msgid "Number of rows of the table body"
+msgstr "テーブル本体の行数"
+
+#: VInsertTableDialog%232
+msgid "Number of columns of the table"
+msgstr "テーブルの列数"
+
+#: VInsertTableDialog%233
+msgctxt "VInsertTableDialog#3"
+msgid "None"
+msgstr "なし"
+
+#: VInsertTableDialog%234
+msgctxt "VInsertTableDialog#4"
+msgid "Left"
+msgstr "左"
+
+#: VInsertTableDialog%235
+msgctxt "VInsertTableDialog#5"
+msgid "Center"
+msgstr "中心"
+
+#: VInsertTableDialog%236
+msgctxt "VInsertTableDialog#6"
+msgid "Right"
+msgstr "右"
+
+#: VInsertTableDialog%237
+msgid "Row:"
+msgstr "行:"
+
+#: VInsertTableDialog%238
+msgid "Column:"
+msgstr "列:"
+
+#: VInsertTableDialog%239
+msgid "Alignment:"
+msgstr "整列:"
+
+#: VInsertTableDialog%2310
+msgid "Insert Table"
+msgstr "表を挿入"
+
+#: VKeyboardLayoutMappingDialog%231
+msgid "Manage keybaord layout mappings to used in shortcuts."
+msgstr "ショートカットで使用するキーバーレイアウトマッピングを管理します。"
+
+#: VKeyboardLayoutMappingDialog%232
+msgid "Double click an item to set mapping key."
+msgstr "アイテムをダブルクリックすると、マッピングキーが設定されます。"
+
+#: VKeyboardLayoutMappingDialog%233
+msgid "New Mapping"
+msgstr "新規マッピング"
+
+#: VKeyboardLayoutMappingDialog%234
+msgid "Delete Mapping"
+msgstr "マッピングを削除"
+
+#: VKeyboardLayoutMappingDialog%235
+msgctxt "VKeyboardLayoutMappingDialog#5"
+msgid "Keyboard layout mapping:"
+msgstr "キーボードレイアウトのマッピング:"
+
+#: VKeyboardLayoutMappingDialog%236
+msgid "Name:"
+msgstr "名前:"
+
+#: VKeyboardLayoutMappingDialog%237
+msgid "Key"
+msgstr "キー"
+
+#: VKeyboardLayoutMappingDialog%238
+msgid "New Key"
+msgstr "新規キー"
+
+#: VKeyboardLayoutMappingDialog%239
+msgid "Mapping Information"
+msgstr "マッピング情報"
+
+#: VKeyboardLayoutMappingDialog%2310
+msgid "Keyboard Layout Mappings"
+msgstr "キーボードレイアウトのマッピング"
+
+#: VKeyboardLayoutMappingDialog%2311
+msgctxt "VKeyboardLayoutMappingDialog#11"
+msgid "Warning"
+msgstr "警告"
+
+#: VKeyboardLayoutMappingDialog%2312
+msgid "Fail to add mapping <span style=\"%1\">%2</span>."
+msgstr "マッピング<span style=\"%1\">%2</span>の追加に失敗しました。"
+
+#: VKeyboardLayoutMappingDialog%2313
+msgid "Please check the configuration file and try again."
+msgstr "構成ファイルを確認してからもう一度実行してください。"
+
+#: VKeyboardLayoutMappingDialog%2314
+msgid "Are you sure to delete mapping <span style=\"%1\">%2</span>?"
+msgstr "マッピング<span style=\"%1\">%2</span>?を削除してもよろしいですか?"
+
+#: VKeyboardLayoutMappingDialog%2315
+msgid "Fail to delete mapping <span style=\"%1\">%2</span>."
+msgstr "マッピング<span style=\"%1\">%2</span>の削除に失敗しました。"
+
+#: VKeyboardLayoutMappingDialog%2316
+msgid "Fail to rename mapping <span style=\"%1\">%2</span>."
+msgstr "マッピング<span style=\"%1\">%2</span>の名前変更に失敗しました。"
+
+#: VKeyboardLayoutMappingDialog%2317
+msgid "Fail to update mapping <span style=\"%1\">%2</span>."
+msgstr "マッピング<span style=\"%1\">%2</span>の更新に失敗しました。"
+
+#: VKeyboardLayoutMappingDialog%2318
+msgid "Press key to set mapping"
+msgstr "キーを押してマッピングを設定する"
+
+#: VListFolderUE%231
+msgid "List and search the folders and notes of current folder"
+msgstr "カレントフォルダのフォルダやノートを一覧表示して検索します。"
+
+#: VListUE%231
+msgid "List and search history"
+msgstr "リストと検索履歴"
+
+#: VListUE%232
+msgctxt "VListUE#2"
+msgid "Invalid ID %1"
+msgstr "無効なID%1"
+
+#: VListUE%233
+msgctxt "VListUE#3"
+msgid "History"
+msgstr "履歴"
+
+#: VLookTab%231
+msgid "Icon size in pixel of tool bar (restart VNote to make it work)"
+msgstr "ツールバーのピクセル単位のアイコンサイズ(動作するためにVNoteを再起動します)"
+
+#: VLookTab%232
+msgid "Tool bar icon size:"
+msgstr "ツールバーのアイコンサイズ:"
+
+#: VMainWindow%231
+msgid "AttachmentList"
+msgstr "AttachmentList"
+
+#: VMainWindow%232
+msgid "LocateCurrentFile"
+msgstr "LocateCurrentFile"
+
+#: VMainWindow%233
+msgid "ExpandMode"
+msgstr "ExpandMode"
+
+#: VMainWindow%234
+msgid "CurrentNoteInfo"
+msgstr ""
+
+#: VMainWindow%235
+msgid "DiscardAndRead"
+msgstr "DiscardAndRead"
+
+#: VMainWindow%236
+msgid "ToolBar"
+msgstr "ツールバー"
+
+#: VMainWindow%237
+msgid "ToolsDock"
+msgstr "ツールドック"
+
+#: VMainWindow%238
+msgid "SearchDock"
+msgstr "検索ドック"
+
+#: VMainWindow%239
+msgid "CloseNote"
+msgstr "CloseNote"
+
+#: VMainWindow%2310
+msgid "ShortcutsHelp"
+msgstr "ショートカットヘルプ"
+
+#: VMainWindow%2311
+msgid "FlushLogFile"
+msgstr "FlushLogFile"
+
+#: VMainWindow%2312
+msgctxt "VMainWindow#12"
+msgid "Export"
+msgstr "エキスポート"
+
+#: VMainWindow%2313
+msgid "FocusEditArea"
+msgstr "FocusEditArea"
+
+#: VMainWindow%2314
+msgid "Notebooks"
+msgstr "ノートブック"
+
+#: VMainWindow%2315
+msgctxt "VMainWindow#15"
+msgid "History"
+msgstr "履歴"
+
+#: VMainWindow%2316
+msgid "Explorer"
+msgstr "エキスプローラー"
+
+#: VMainWindow%2317
+msgctxt "VMainWindow#17"
+msgid "Tags"
+msgstr "タグ"
+
+#: VMainWindow%2318
+msgid "Folders"
+msgstr "フォルダ"
+
+#: VMainWindow%2319
+msgctxt "VMainWindow#19"
+msgid "View"
+msgstr "表示"
+
+#: VMainWindow%2320
+msgid "Full Screen"
+msgstr "フルスクリーン"
+
+#: VMainWindow%2321
+msgid "Full Screen\t%1"
+msgstr "フルスクリーン       %1"
+
+#: VMainWindow%2322
+msgid "Toggle full screen"
+msgstr "全画面表示切り替え"
+
+#: VMainWindow%2323
+msgid "Stay On Top"
+msgstr "最上面に維持"
+
+#: VMainWindow%2324
+msgid "Toggle stay-on-top"
+msgstr "最上面に留まる"
+
+#: VMainWindow%2325
+msgid "Menu Bar"
+msgstr "メニューバー"
+
+#: VMainWindow%2326
+msgid "Toggle menu bar"
+msgstr "メニューバーの切り替え"
+
+#: VMainWindow%2327
+msgid "Expand Edit Area"
+msgstr "編集領域の拡大"
+
+#: VMainWindow%2328
+msgid "Expand the edit area"
+msgstr "編集領域を拡大する"
+
+#: VMainWindow%2329
+msgid "Edit Toolbar"
+msgstr "ツールバーを編集"
+
+#: VMainWindow%2330
+msgid "Heading Sequence"
+msgstr "見出しシーケンス:"
+
+#: VMainWindow%2331
+msgid "Enable heading sequence in current note in edit mode"
+msgstr "編集モードで現在のノートの見出しシーケンスを有効にする"
+
+#: VMainWindow%2332
+msgid "Bold\t%1"
+msgstr "太字 %1"
+
+#: VMainWindow%2333
+msgid "Insert bold text or change selected text to bold"
+msgstr "太字のテキストを挿入するか、選択したテキストを太字に変更"
+
+#: VMainWindow%2334
+msgid "Italic\t%1"
+msgstr "イタリック %1"
+
+#: VMainWindow%2335
+msgid "Insert italic text or change selected text to italic"
+msgstr "斜体のテキストを挿入するか、選択されたテキストを斜体に変更します"
+
+#: VMainWindow%2336
+msgid "Strikethrough\t%1"
+msgstr "取消線 %1"
+
+#: VMainWindow%2337
+msgid "Insert strikethrough text or change selected text to strikethroughed"
+msgstr "取り消し線つきテキストを挿入するか、選択されたテキストを取り消し線つきに変更します"
+
+#: VMainWindow%2338
+msgid "Inline Code\t%1"
+msgstr "Inline Code\t%1"
+
+#: VMainWindow%2339
+msgid "Insert inline-code text or change selected text to inline-coded"
+msgstr "インライン・コードのテキストを挿入するか、選択されたテキストをインライン・コード化します。"
+
+#: VMainWindow%2340
+msgid "Code Block\t%1"
+msgstr "コードブロック%1"
+
+#: VMainWindow%2341
+msgid ""
+"Insert fenced code block text or wrap selected text into a fenced code block"
+msgstr "囲み付きコードブロックのテキストを挿入するか、選択されたテキストをフェンス付きコードブロックにラップします"
+
+#: VMainWindow%2342
+msgid "Table\t%1"
+msgstr "表 %1"
+
+#: VMainWindow%2343
+msgid "Insert a table"
+msgstr "表の挿入"
+
+#: VMainWindow%2344
+msgid "Link\t%1"
+msgstr "リンク %1"
+
+#: VMainWindow%2345
+msgid "Insert a link"
+msgstr "リンクの挿入"
+
+#: VMainWindow%2346
+msgid "Image\t%1"
+msgstr "画像 %1"
+
+#: VMainWindow%2347
+msgid "Insert an image from file or URL"
+msgstr "ファイルまたはURLからイメージを挿入する"
+
+#: VMainWindow%2348
+msgid "Note Toolbar"
+msgstr "ノート・ツールバー"
+
+#: VMainWindow%2349
+msgid "Attachments (drag files here to add attachments)"
+msgstr "添付ファイル(添付ファイルを追加するにはここにファイルをドラッグします)"
+
+#: VMainWindow%2350
+msgid "Flash Page"
+msgstr "一時メモ(FlasH) ページ"
+
+#: VMainWindow%2351
+msgid "Open the Flash Page to edit"
+msgstr "一時メモ (Flash) ページを開き、編集する"
+
+#: VMainWindow%2352
+msgid "Flash Page\t%1"
+msgstr "一時メモ(Flash)ページ  %1"
+
+#: VMainWindow%2353
+msgid "Quick Access"
+msgstr "クイックアクセス"
+
+#: VMainWindow%2354
+msgid "Open quick access note"
+msgstr "クイックアクセスノートを開く"
+
+#: VMainWindow%2355
+msgid "Quick Access\t%1"
+msgstr "クイックアクセス %1"
+
+#: VMainWindow%2356
+msgid "Universal Entry"
+msgstr "ユニバーサルエントリ"
+
+#: VMainWindow%2357
+msgid "Activate Universal Entry"
+msgstr "ユニバーサルエントリをアクティブにする"
+
+#: VMainWindow%2358
+msgid "Universal Entry\t%1"
+msgstr "ユニバーサルエントリ       %1"
+
+#: VMainWindow%2359
+msgctxt "VMainWindow#59"
+msgid "Note"
+msgstr "ノート"
+
+#: VMainWindow%2360
+msgid "Log In (Not Implemented Yet)"
+msgstr "ログイン(まだ実装されていません)"
+
+#: VMainWindow%2361
+msgid "New Root Folder"
+msgstr "新しいルートフォルダ"
+
+#: VMainWindow%2362
+msgctxt "VMainWindow#62"
+msgid "Create a root folder in current notebook"
+msgstr "現在のノートブックにルートフォルダを作成する"
+
+#: VMainWindow%2363
+msgid "New Note"
+msgstr "新規ノート"
+
+#: VMainWindow%2364
+msgctxt "VMainWindow#64"
+msgid "Create a note in current folder"
+msgstr "現在のフォルダにノートを作成する"
+
+#: VMainWindow%2365
+msgid "New Note\t%1"
+msgstr "新しいノート     %1"
+
+#: VMainWindow%2366
+msgctxt "VMainWindow#66"
+msgid "Note Info"
+msgstr "ノート情報"
+
+#: VMainWindow%2367
+msgctxt "VMainWindow#67"
+msgid "View and edit current note's information"
+msgstr "現在のノート情報を表示および編集する"
+
+#: VMainWindow%2368
+msgid "Delete Note"
+msgstr "ノートを削除"
+
+#: VMainWindow%2369
+msgid "Delete current note"
+msgstr "現在のノートを削除"
+
+#: VMainWindow%2370
+msgid "Discard Changes And Read"
+msgstr "変更を破棄して読み取り"
+
+#: VMainWindow%2371
+msgctxt "VMainWindow#71"
+msgid "Discard changes and exit edit mode"
+msgstr "変更を破棄して編集モードを終了する"
+
+#: VMainWindow%2372
+msgid "Save"
+msgstr "保存"
+
+#: VMainWindow%2373
+msgid "Save changes to current note"
+msgstr "現在のノートへ変更を保存する"
+
+#: VMainWindow%2374
+msgid "Save\t%1"
+msgstr "%1を保存"
+
+#: VMainWindow%2375
+msgid "&Help"
+msgstr "ヘルプ(&H)"
+
+#: VMainWindow%2376
+msgid "View &Log"
+msgstr "ログを表示(&L)"
+
+#: VMainWindow%2377
+msgid "View VNote's debug log (%1)"
+msgstr "VNoteのデバッグログ(%1)を表示します。"
+
+#: VMainWindow%2378
+msgid "&Shortcuts Help"
+msgstr "ショートカットヘルプ(&S)"
+
+#: VMainWindow%2379
+msgid "View information about shortcut keys"
+msgstr "ショートカットキーに関する情報を表示する"
+
+#: VMainWindow%2380
+msgid "&Markdown Guide"
+msgstr "マークダウンガイド(&Ｍ)"
+
+#: VMainWindow%2381
+msgid "A quick guide of Markdown syntax"
+msgstr "Mark down構文のクイック・ガイド"
+
+#: VMainWindow%2382
+msgid "&Documentation"
+msgstr "ドキュメント(&D)"
+
+#: VMainWindow%2383
+msgid "View VNote's documentation"
+msgstr "VNoteのドキュメントを表示する"
+
+#: VMainWindow%2384
+msgid "Do&nate"
+msgstr "寄付(&n)"
+
+#: VMainWindow%2385
+msgid "Donate to VNote or view the donate list"
+msgstr "VNoteに寄付するか、寄付リストを表示する"
+
+#: VMainWindow%2386
+msgid "Check For &Updates"
+msgstr "更新を確認(&U)"
+
+#: VMainWindow%2387
+msgid "Check for updates of VNote"
+msgstr "VNoteの更新を確認します"
+
+#: VMainWindow%2388
+msgid "Star VNote on &GitHub"
+msgstr "&GitHubでVNoteにスターをつける"
+
+#: VMainWindow%2389
+msgid "Give a star to VNote on GitHub project"
+msgstr "GitHubプロジェクトのVNoteにスターをつける"
+
+#: VMainWindow%2390
+msgid "&Feedback"
+msgstr "フィードバック(&F)"
+
+#: VMainWindow%2391
+msgid "Open an issue on GitHub"
+msgstr "GitHubで課題を開く"
+
+#: VMainWindow%2392
+msgid "&About VNote"
+msgstr "VNoteについて(&A)"
+
+#: VMainWindow%2393
+msgid "View information about VNote"
+msgstr "VNoteに関する情報を表示する"
+
+#: VMainWindow%2394
+msgid "About &Qt"
+msgstr "Qtについて(&Q)"
+
+#: VMainWindow%2395
+msgid "View information about Qt"
+msgstr "Qtに関する情報を表示する"
+
+#: VMainWindow%2396
+msgid "&Markdown"
+msgstr "Markdown(&M)"
+
+#: VMainWindow%2397
+msgid "Constrain The Width Of Images"
+msgstr "イメージの幅を制限する"
+
+#: VMainWindow%2398
+msgid ""
+"Constrain the width of images to the window in read mode (re-open current "
+"tabs to make it work)"
+msgstr "読み取りモードで画像表示をウィンドウ幅に制限します(現在のタブを再開して有効にします)。"
+
+#: VMainWindow%2399
+msgid "Enable Image Caption"
+msgstr "イメージキャプションを有効にする"
+
+#: VMainWindow%23100
+msgid ""
+"Center the images and display the alt text as caption (re-open current tabs "
+"to make it work)"
+msgstr "イメージを中央に配置し、代替テキストを表示します(現在のタブを再開して有効にします)。"
+
+#: VMainWindow%23101
+msgid "Highlight Code Blocks In Edit Mode"
+msgstr "編集モードでコードブロックを強調表示する"
+
+#: VMainWindow%23102
+msgid "Enable syntax highlight within code blocks in edit mode"
+msgstr "編集モードのコードブロック内で構文の強調表示を有効にする"
+
+#: VMainWindow%23103
+msgid "Display Line Number In Code Blocks"
+msgstr "コードブロック内のライン番号を表示する"
+
+#: VMainWindow%23104
+msgid "Enable line number in code blocks in read mode"
+msgstr "読み取りモードでのコードブロック内のライン番号を有効にする"
+
+#: VMainWindow%23105
+msgid "In-Place Preview"
+msgstr "インプレイスプレビュー"
+
+#: VMainWindow%23106
+msgid ""
+"Enable in-place preview (images, diagrams, and formulas) in edit mode (re-"
+"open current tabs to make it work)"
+msgstr "編集モードでインプレイスプレビュー(イメージ、図、数式)を有効にする(現在のタブを再開して機能させる)"
+
+#: VMainWindow%23107
+msgid "Constrain The Width Of In-Place Preview"
+msgstr "インプレイスプレビューの幅を制約する"
+
+#: VMainWindow%23108
+msgid "Constrain the width of in-place preview to the edit window in edit mode"
+msgstr "編集モードでインプレイスプレビューの幅を編集ウィンドウに制約する"
+
+#: VMainWindow%23109
+msgid "&View"
+msgstr "表示(&V)"
+
+#: VMainWindow%23110
+msgid "Tool Bar"
+msgstr "ツールバー"
+
+#: VMainWindow%23111
+msgid "Toogle the tool bar"
+msgstr "ツールバー表示/非表示"
+
+#: VMainWindow%23112
+msgid "&File"
+msgstr "ファイル(&F)"
+
+#: VMainWindow%23113
+msgctxt "VMainWindow#113"
+msgid "&Open"
+msgstr "開く(&O)"
+
+#: VMainWindow%23114
+msgid "Open external file to edit"
+msgstr "編集する外部ファイルを開く"
+
+#: VMainWindow%23115
+msgid "Select External Files To Open"
+msgstr "外部ファイルを選択して開く"
+
+#: VMainWindow%23116
+msgid "&New Notes From Files"
+msgstr "ファイルから新しいノートを作成(&N)"
+
+#: VMainWindow%23117
+msgid ""
+"Create notes from external files in current folder (will copy files if they "
+"do not locate in current folder)"
+msgstr "現在のフォルダにある外部ファイルからノートを作成します(現在のフォルダに見つからない場合は、ファイルをコピーします)。"
+
+#: VMainWindow%23118
+msgid "E&xport"
+msgstr "エキスポート(&X)"
+
+#: VMainWindow%23119
+msgid "Export notes"
+msgstr "ノートをエクスポートする"
+
+#: VMainWindow%23120
+msgid "&Print"
+msgstr "印刷(&P)"
+
+#: VMainWindow%23121
+msgid "Print current note"
+msgstr "現在のノートを印刷する"
+
+#: VMainWindow%23122
+msgid "&Settings"
+msgstr "設定(&S)"
+
+#: VMainWindow%23123
+msgid "View and change settings for VNote"
+msgstr "VNoteの設定の表示および変更をする"
+
+#: VMainWindow%23124
+msgid "Open Configuration Folder"
+msgstr "設定フォルダを開く"
+
+#: VMainWindow%23125
+msgid "Open configuration folder of VNote"
+msgstr "VNoteの設定フォルダを開く"
+
+#: VMainWindow%23126
+msgid "Customize Shortcuts"
+msgstr "ショートカットのカスタマイズ"
+
+#: VMainWindow%23127
+msgid "Customize some standard shortcuts"
+msgstr "一部の標準ショートカットをカスタマイズする"
+
+#: VMainWindow%23128
+msgid "Restart"
+msgstr "再起動"
+
+#: VMainWindow%23129
+msgid "&Quit"
+msgstr "終了(&Q)"
+
+#: VMainWindow%23130
+msgid "Quit VNote"
+msgstr "VNoteを終了"
+
+#: VMainWindow%23131
+msgctxt "VMainWindow#131"
+msgid "&Edit"
+msgstr "編集(&E)"
+
+#: VMainWindow%23132
+msgctxt "VMainWindow#132"
+msgid "Find/Replace"
+msgstr "検索/置換"
+
+#: VMainWindow%23133
+msgid "Open Find/Replace dialog to search in current note"
+msgstr "[検索/置換]ダイアログを開き、現在のノートを検索します。"
+
+#: VMainWindow%23134
+msgid "Advanced Find"
+msgstr "高度な検索"
+
+#: VMainWindow%23135
+msgid "Advanced find within VNote"
+msgstr "VNote内の高度な検索"
+
+#: VMainWindow%23136
+msgid "Find Next"
+msgstr "次を検索"
+
+#: VMainWindow%23137
+msgid "Find next occurence"
+msgstr "次を検索"
+
+#: VMainWindow%23138
+msgid "Find Previous"
+msgstr "前を検索"
+
+#: VMainWindow%23139
+msgid "Find previous occurence"
+msgstr "前を検索"
+
+#: VMainWindow%23140
+msgctxt "VMainWindow#140"
+msgid "Replace"
+msgstr "置換"
+
+#: VMainWindow%23141
+msgid "Replace current occurence"
+msgstr "現在のヒットを置換"
+
+#: VMainWindow%23142
+msgid "Replace && Find"
+msgstr "検索と置換"
+
+#: VMainWindow%23143
+msgid "Replace current occurence and find the next one"
+msgstr "現在の検索位置を置換し、次を検索します"
+
+#: VMainWindow%23144
+msgid "Replace All"
+msgstr "すべて置換"
+
+#: VMainWindow%23145
+msgid "Replace all occurences in current note"
+msgstr "現在のノートのすべてのヒットを置換する"
+
+#: VMainWindow%23146
+msgid "Highlight Searched Pattern"
+msgstr "検索されたパターンを強調表示"
+
+#: VMainWindow%23147
+msgid "Highlight all occurences of searched pattern"
+msgstr "検索されたパターンのすべての出現を強調表示する"
+
+#: VMainWindow%23148
+msgid "&Expand Tab"
+msgstr "タブを展開(&E)"
+
+#: VMainWindow%23149
+msgid "Expand entered Tab to spaces"
+msgstr "入力されたタブをスペースに展開"
+
+#: VMainWindow%23150
+msgid "2 Spaces"
+msgstr "2つのスペース"
+
+#: VMainWindow%23151
+msgid "Expand Tab to 2 spaces"
+msgstr "タブを2つのスペースに展開"
+
+#: VMainWindow%23152
+msgid "4 Spaces"
+msgstr "4つのスペース"
+
+#: VMainWindow%23153
+msgid "Expand Tab to 4 spaces"
+msgstr "タブを4つのスペースに展開"
+
+#: VMainWindow%23154
+msgid "8 Spaces"
+msgstr "8つのスペース"
+
+#: VMainWindow%23155
+msgid "Expand Tab to 8 spaces"
+msgstr "タブを8つのスペースに展開"
+
+#: VMainWindow%23156
+msgid "Auto Indent"
+msgstr "自動インデント"
+
+#: VMainWindow%23157
+msgid "Indent automatically when inserting a new line"
+msgstr "新しい行を挿入するときに自動的にインデントする"
+
+#: VMainWindow%23158
+msgid "Auto List"
+msgstr "自動リスト"
+
+#: VMainWindow%23159
+msgid "Continue the list automatically when inserting a new line"
+msgstr "新しい行を挿入するときに、リストを自動的に続行する"
+
+#: VMainWindow%23160
+msgid "Highlight Cursor Line"
+msgstr "カーソル行を強調表示"
+
+#: VMainWindow%23161
+msgid "Highlight current cursor line"
+msgstr "現在のカーソル行を強調表示"
+
+#: VMainWindow%23162
+msgid "Highlight Selected Words"
+msgstr "選択された単語を強調表示"
+
+#: VMainWindow%23163
+msgid "Highlight all occurences of selected words"
+msgstr "選択された単語のすべての出現を強調表示する"
+
+#: VMainWindow%23164
+msgid "Highlight Trailing Spaces"
+msgstr "末尾のスペースを強調表示"
+
+#: VMainWindow%23165
+msgid "Highlight all the spaces at the end of a line"
+msgstr "線の端にあるすべてのスペースを強調表示します。"
+
+#: VMainWindow%23166
+msgid "Highlight Tabs"
+msgstr "タブを強調表示"
+
+#: VMainWindow%23167
+msgid "Highlight all the tabs"
+msgstr "すべてのタブを強調表示する"
+
+#: VMainWindow%23168
+msgid "Tab Stop Width"
+msgstr "タブ位置の幅"
+
+#: VMainWindow%23169
+msgid "Smart Table"
+msgstr "スマートテーブル"
+
+#: VMainWindow%23170
+msgid "Format table automatically"
+msgstr "テーブルの自動フォーマット"
+
+#: VMainWindow%23171
+msgid "Tools"
+msgstr "ツール"
+
+#: VMainWindow%23172
+msgid "Outline"
+msgstr "アウトライン"
+
+#: VMainWindow%23173
+msgid "Snippets"
+msgstr "スニペット"
+
+#: VMainWindow%23174
+msgid "Cart"
+msgstr "カート"
+
+#: VMainWindow%23175
+msgid "Toggle the tools dock widget"
+msgstr "ツールドックウィジェットを切り替える"
+
+#: VMainWindow%23176
+msgctxt "VMainWindow#176"
+msgid "Search"
+msgstr "検索"
+
+#: VMainWindow%23177
+msgid "Toggle the search dock widget"
+msgstr "検索ドックウィジェットを切り替える"
+
+#: VMainWindow%23178
+msgid "Select Files To Create Notes"
+msgstr "ノートを作成するファイルを選択"
+
+#: VMainWindow%23179
+msgctxt "VMainWindow#179"
+msgid "Warning"
+msgstr "警告"
+
+#: VMainWindow%23180
+msgid "Fail to create notes for all the files."
+msgstr "すべてのファイルに対してノートを作成できません。"
+
+#: VMainWindow%23181
+msgid "%1 %2 created from external files"
+msgstr "%1  %2は外部ファイルから作成されました"
+
+#: VMainWindow%23182
+msgctxt "VMainWindow#182"
+msgid "notes"
+msgstr "ノート"
+
+#: VMainWindow%23183
+msgctxt "VMainWindow#183"
+msgid "note"
+msgstr "ノート"
+
+#: VMainWindow%23184
+msgid "VNote"
+msgstr "VNote"
+
+#: VMainWindow%23185
+msgid "Version: %1"
+msgstr "バージョン:%1"
+
+#: VMainWindow%23186
+msgid "Author: Le Tan (tamlok)"
+msgstr "作者：Le Tan (tamlok)"
+
+#: VMainWindow%23187
+msgid ""
+"VNote is a free and open source note-taking application that knows "
+"programmers and Markdown better."
+msgstr "VNoteは、プログラマーとMarkdownをよく理解できるフリー&オープンソースのノート作成アプリケーションです。"
+
+#: VMainWindow%23188
+msgid ""
+"Please visit <a href=\"https://tamlok.github.io/vnote\">VNote</a> for more "
+"information."
+msgstr "詳細については、<a href=\"https://tamlok.github.io/vnote\">VNote</a>を参照してください。"
+
+#: VMainWindow%23189
+msgid "About VNote"
+msgstr "VNoteについて"
+
+#: VMainWindow%23190
+msgid "&Renderer"
+msgstr "レンダラー(&R)"
+
+#: VMainWindow%23191
+msgctxt "VMainWindow#191"
+msgid "Marked"
+msgstr "Marked"
+
+#: VMainWindow%23192
+msgid ""
+"Use Marked to convert Markdown to HTML (re-open current tabs to make it work)"
+msgstr "Markedを使用して、MarkdownをHTMLに変換します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23193
+msgctxt "VMainWindow#193"
+msgid "Hoedown"
+msgstr "Hoedown"
+
+#: VMainWindow%23194
+msgid ""
+"Use Hoedown to convert Markdown to HTML (re-open current tabs to make it "
+"work)"
+msgstr "Hoedownを使用して、MarkdownをHTMLに変換します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23195
+msgctxt "VMainWindow#195"
+msgid "Markdown-it"
+msgstr "Markdown-it"
+
+#: VMainWindow%23196
+msgid ""
+"Use Markdown-it to convert Markdown to HTML (re-open current tabs to make it "
+"work)"
+msgstr "Markdown-itを使用して、MarkdownをHTMLに変換します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23197
+msgctxt "VMainWindow#197"
+msgid "Showdown"
+msgstr "Showdown"
+
+#: VMainWindow%23198
+msgid ""
+"Use Showdown to convert Markdown to HTML (re-open current tabs to make it "
+"work)"
+msgstr "Showdownを使用して、MarkdownをHTMLに変換します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23199
+msgid "Markdown-it Options"
+msgstr "Markdown-itのオプション"
+
+#: VMainWindow%23200
+msgctxt "VMainWindow#200"
+msgid "HTML"
+msgstr "HTML"
+
+#: VMainWindow%23201
+msgid "Enable HTML tags in source (re-open current tabs to make it work)"
+msgstr "ソース中のHTMLタグを有効にします。(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23202
+msgid "Line Break"
+msgstr "改行"
+
+#: VMainWindow%23203
+msgid ""
+"Convert '\\n"
+"' in paragraphs into line break (re-open current tabs to make it work)"
+msgstr ""
+"段落の'\\n"
+"'を改行に変換します(現在のタブを再開して機能を有効にします)。"
+
+#: VMainWindow%23204
+msgid "Linkify"
+msgstr "リンク変換"
+
+#: VMainWindow%23205
+msgid "Convert URL-like text into links (re-open current tabs to make it work)"
+msgstr "URL形式のテキストをリンクに変換します(現在のタブを再開して機能を有効にします)。"
+
+#: VMainWindow%23206
+msgid "Superscript"
+msgstr "上付き文字"
+
+#: VMainWindow%23207
+msgid "Enable superscript like ^vnote^ (re-open current tabs to make it work)"
+msgstr "^vnote^のような上付き文字を有効にします。(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23208
+msgid "Subscript"
+msgstr "下付き文字"
+
+#: VMainWindow%23209
+msgid "Enable subscript like ~vnote~ (re-open current tabs to make it work)"
+msgstr "~vnote~のような下付き文字を有効にします。(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23210
+msgid "Metadata Aware"
+msgstr "Metadata Aware"
+
+#: VMainWindow%23211
+msgid ""
+"Be aware of metadata in YAML format (re-open current tabs to make it work)"
+msgstr "YAML形式のメタデータを認識する(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23212
+msgid "Emoji"
+msgstr "絵文字"
+
+#: VMainWindow%23213
+msgid "Enable emoji and emoticon (re-open current tabs to make it work)"
+msgstr "絵文字とEmoticonを有効にします。(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23214
+msgid "Extensions"
+msgstr "拡張機能"
+
+#: VMainWindow%23215
+msgid "&Mermaid"
+msgstr "&Mermaid"
+
+#: VMainWindow%23216
+msgid ""
+"Enable Mermaid for graph and diagram (re-open current tabs to make it work)"
+msgstr "グラフと図を作成するために、Mermaidを有効にします(現在のタブを再開して機能を有効にします)。"
+
+#: VMainWindow%23217
+msgid "&Flowchart.js"
+msgstr "&Flowchart.js"
+
+#: VMainWindow%23218
+msgid ""
+"Enable Flowchart.js for flowchart diagram (re-open current tabs to make it "
+"work)"
+msgstr "フローチャート図を作成するために、Flowchart.jsを有効にします(現在のタブを再開して機能を有効にします)。"
+
+#: VMainWindow%23219
+msgid "Math&Jax"
+msgstr "Math&Jax"
+
+#: VMainWindow%23220
+msgid ""
+"Enable MathJax for math support in Markdown (re-open current tabs to make it "
+"work)"
+msgstr "Mark downの数学サポートのMathJaxを有効にする(現在のタブを再開して機能を有効にします)"
+
+#: VMainWindow%23221
+msgid "&WaveDrom"
+msgstr "&WaveDrom"
+
+#: VMainWindow%23222
+msgid ""
+"Enable WaveDrom for digital timing diagram (re-open current tabs to make it "
+"work)"
+msgstr "デジタルタイミング図を作成するために、WaveDromを有効にします(現在のタブを再開して機能を有効にします)。"
+
+#: VMainWindow%23223
+msgid "&Rendering Background"
+msgstr "背景レンダリング(&R)"
+
+#: VMainWindow%23224
+msgctxt "VMainWindow#224"
+msgid "System"
+msgstr "システム"
+
+#: VMainWindow%23225
+msgid "Use system's background color configuration for Markdown rendering"
+msgstr "Mark downレンダリングにシステムの背景色設定を使用します。"
+
+#: VMainWindow%23226
+msgctxt "VMainWindow#226"
+msgid "Transparent"
+msgstr "透明"
+
+#: VMainWindow%23227
+msgid "Use a transparent background for Markdown rendering"
+msgstr "Markdownのレンダリングに透明な背景を使用する"
+
+#: VMainWindow%23228
+msgid ""
+"Set as the background color for Markdown rendering (re-open current tabs to "
+"make it work)"
+msgstr "Markdownレンダリングの背景色として設定します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23229
+msgid "Rendering &Style"
+msgstr "レンダリングスタイル(&S)"
+
+#: VMainWindow%23230
+msgid "Add Style"
+msgstr "スタイルを追加"
+
+#: VMainWindow%23231
+msgid "Add custom style of read mode"
+msgstr "読み取りモードのカスタムスタイルを追加する"
+
+#: VMainWindow%23232
+msgid ""
+"Set as the CSS style for Markdown rendering (re-open current tabs to make it "
+"work)"
+msgstr "マークダウンレンダリングのCSSスタイルとして設定します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23233
+msgid "Code Block Style"
+msgstr "コードブロックのスタイル"
+
+#: VMainWindow%23234
+msgid "Add custom style of code block in read mode"
+msgstr "読み取りモードでコードブロックのカスタムスタイル追加"
+
+#: VMainWindow%23235
+msgid ""
+"Set as the code block CSS style for Markdown rendering (re-open current tabs "
+"to make it work)"
+msgstr "Mark downレンダリングのコードブロックCSSスタイルとして設定します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23236
+msgid "&Background Color"
+msgstr "背景色(&B)"
+
+#: VMainWindow%23237
+msgid "Use system's background color configuration for editor"
+msgstr "エディタでシステムの背景色設定を使用する"
+
+#: VMainWindow%23238
+msgid ""
+"Set as the background color for editor (re-open current tabs to make it work)"
+msgstr "エディタの背景色として設定します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23239
+msgid "Line Number"
+msgstr "行番号"
+
+#: VMainWindow%23240
+msgctxt "VMainWindow#240"
+msgid "None"
+msgstr "なし"
+
+#: VMainWindow%23241
+msgid "Do not display line number in edit mode"
+msgstr "編集モードで行番号を表示しない"
+
+#: VMainWindow%23242
+msgid "Absolute"
+msgstr "絶対行番号"
+
+#: VMainWindow%23243
+msgid "Display absolute line number in edit mode"
+msgstr "編集モードでの絶対行番号を表示する"
+
+#: VMainWindow%23244
+msgid "Relative"
+msgstr "相対"
+
+#: VMainWindow%23245
+msgid "Display line number relative to current cursor line in edit mode"
+msgstr "編集モードで現在のカーソル行を基準にして行番号を表示する"
+
+#: VMainWindow%23246
+msgid "CodeBlock"
+msgstr "コードブロック"
+
+#: VMainWindow%23247
+msgid "Display line number in code block in edit mode (for Markdown only)"
+msgstr "編集モードのコードブロック内の行番号を表示(Markdownのみ)"
+
+#: VMainWindow%23248
+msgid "Editor &Style"
+msgstr "エディタとスタイル(&S)"
+
+#: VMainWindow%23249
+msgid "Add custom style of editor"
+msgstr "エディタのカスタムスタイルを追加する"
+
+#: VMainWindow%23250
+msgid "Set as the editor style (re-open current tabs to make it work)"
+msgstr "エディタのスタイルとして設定します(現在のタブを再開すると機能させることができます)。"
+
+#: VMainWindow%23251
+msgid "Auto Scroll Cursor Line"
+msgstr "自動スクロールカーソル行"
+
+#: VMainWindow%23252
+msgctxt "VMainWindow#252"
+msgid "Disabled"
+msgstr "無効"
+
+#: VMainWindow%23253
+msgid "End Of Document"
+msgstr "ドキュメントの末尾"
+
+#: VMainWindow%23254
+msgid ""
+"Scroll cursor line into the center when it locates at the end of document"
+msgstr "カーソル行を文書の末尾に配置するときに、中央にスクロールします。"
+
+#: VMainWindow%23255
+msgid "Always"
+msgstr "常に"
+
+#: VMainWindow%23256
+msgid "Always scroll cursor line into the center"
+msgstr "カーソル行を常に中心にスクロールする"
+
+#: VMainWindow%23257
+msgid "Close VNote"
+msgstr "VNoteを閉じる"
+
+#: VMainWindow%23258
+msgid ""
+"Do you want to minimize VNote to system tray instead of quitting it when "
+"closing VNote?"
+msgstr "VNoteを終了するときに、Vnoteを終了する代わりに、システムトレイに対してVNoteを最小化しますか?"
+
+#: VMainWindow%23259
+msgid "You could change the option in Settings later."
+msgstr "[設定]のオプションは、後で変更することができます。"
+
+#: VMainWindow%23260
+msgid "Print Note"
+msgstr "ノートを印刷"
+
+#: VMainWindow%23261
+msgid "Show VNote"
+msgstr "VNoteを表示"
+
+#: VMainWindow%23262
+msgctxt "VMainWindow#262"
+msgid "Quit"
+msgstr "終了"
+
+#: VMainWindow%23263
+msgctxt "VMainWindow#263"
+msgid "Information"
+msgstr "情報"
+
+#: VMainWindow%23264
+msgid "Quick Access is not set."
+msgstr "クイックアクセスが設定されていません。"
+
+#: VMainWindow%23265
+msgid ""
+"Please specify the note for Quick Access in the settings dialog or the "
+"context menu of a note."
+msgstr ""
+"Please specify the note for Quick Access in the settings dialog or the "
+"context menu of a note."
+
+#: VMainWindow%23266
+msgid "Headings"
+msgstr "見出し"
+
+#: VMainWindow%23267
+msgid "Heading %1"
+msgstr "見出し%1"
+
+#: VMainWindow%23268
+msgid "Heading %1\t%2"
+msgstr "見出し%1      %2"
+
+#: VMainWindow%23269
+msgctxt "VMainWindow#269"
+msgid "Clear"
+msgstr "クリア"
+
+#: VMainWindow%23270
+msgid "Clear\t%1"
+msgstr "クリア  %1"
+
+#: VMainWindow%23271
+msgid "Theme"
+msgstr "テーマ"
+
+#: VMainWindow%23272
+msgid "Add Theme"
+msgstr "テーマを追加"
+
+#: VMainWindow%23273
+msgid "Add custom theme"
+msgstr "カスタムテーマを追加する"
+
+#: VMainWindow%23274
+msgid "Set as the theme of VNote (restart VNote to make it work)"
+msgstr "VNoteのテーマとして設定します(有効にするにはVNoteを再起動します)。"
+
+#: VMainWindow%23275
+msgid "Edit\t%1"
+msgstr "編集    %1"
+
+#: VMainWindow%23276
+msgid "Save Changes And Read\t%1"
+msgstr "変更を保存して読み取り     %1"
+
+#: VMainWindow%23277
+msgctxt "VMainWindow#277"
+msgid "Edit"
+msgstr "編集"
+
+#: VMainWindow%23278
+msgid "Save Changes And Read"
+msgstr "変更を保存して読み取り"
+
+#: VMainWindow%23279
+msgctxt "VMainWindow#279"
+msgid "Edit current note"
+msgstr "現在のノートを編集"
+
+#: VMainWindow%23280
+msgctxt "VMainWindow#280"
+msgid "Save changes and exit edit mode"
+msgstr "変更を保存して編集モードを終了する"
+
+#: VMainWindow%23281
+msgid "Collect User Statistics"
+msgstr "Collect User Statistics"
+
+#: VMainWindow%23282
+msgid ""
+"VNote would like to send a request to count active users.Do you allow this "
+"request?"
+msgstr ""
+"VNote would like to send a request to count active users.Do you allow this "
+"request?"
+
+#: VMainWindow%23283
+msgid ""
+"A request to https://tamlok.github.io/user_track/vnote.html will be sent if "
+"allowed."
+msgstr ""
+
+#: VMainWindow%23284
+msgid "Notices for Windows Users"
+msgstr ""
+
+#: VMainWindow%23285
+msgid ""
+"OpenGL requried by VNote may not work well on Windows by default.You may "
+"update your display card driver or set another openGL option in VNote's "
+"Settings dialog.Check <a href=\"https://github.com/tamlok/vnote/issues/853\">"
+"GitHub issue</a> for details."
+msgstr ""
+
+#: VMainWindow%23286
+msgid ""
+"Strange behaviors include:<br/>* Interface freezes and does not response;<br/"
+">* Widgets are out of order after maximizing and restoring the main window;<"
+"br/>* No cursor in edit mode;<br/>* Menus are not clickable in full screen "
+"mode."
+msgstr ""
+
+#: VMainWindow%23287
+msgid "Restart Needed"
+msgstr ""
+
+#: VMainWindow%23288
+msgid "Do you want to restart VNote now?"
+msgstr ""
+
+#: VMainWindow%23289
+msgid "VNote needs to restart to apply new configurations."
+msgstr ""
+
+#. (obsolete)
+#: VMainWindow%23290
+msgid "A request to https://tajs.qq.com/stats will be sent if allowed."
+msgstr "A request to https://tajs.qq.com/stats will be sent if allowed."
+
+#: VMarkdownTab%231
+msgid "Default mode to open a file"
+msgstr "ファイルを開くときの既定モード"
+
+#: VMarkdownTab%232
+msgid "Read Mode"
+msgstr "読み取りモード"
+
+#: VMarkdownTab%233
+msgctxt "VMarkdownTab#3"
+msgid "Edit Mode"
+msgstr "編集モード"
+
+#: VMarkdownTab%234
+msgid "Enable auto sequence for all headings (in the form like 1.2.3.4.)"
+msgstr "すべての見出しに対して自動シーケンスを有効にします(1.2.3.4のような形式で)。"
+
+#: VMarkdownTab%235
+msgctxt "VMarkdownTab#5"
+msgid "Disabled"
+msgstr "無効"
+
+#: VMarkdownTab%236
+msgid "Enabled"
+msgstr "有効"
+
+#: VMarkdownTab%237
+msgid "Enabled for internal notes only"
+msgstr "内部ノートのみ有効にしました"
+
+#: VMarkdownTab%238
+msgid "Base level to start heading sequence"
+msgstr "ヘッダ・シーケンスを開始する基底レベル"
+
+#: VMarkdownTab%239
+msgid "1"
+msgstr "1"
+
+#: VMarkdownTab%2310
+msgid "2"
+msgstr "2"
+
+#: VMarkdownTab%2311
+msgid "3"
+msgstr "3"
+
+#: VMarkdownTab%2312
+msgid "4"
+msgstr "4"
+
+#: VMarkdownTab%2313
+msgid "5"
+msgstr "5"
+
+#: VMarkdownTab%2314
+msgid "6"
+msgstr "6"
+
+#: VMarkdownTab%2315
+msgid ""
+"Specify the screen column in fenced code block which will be highlighted"
+msgstr "強調表示される囲み付きコードブロック内のスクリーン列を指定します。"
+
+#: VMarkdownTab%2316
+msgid "Color column:"
+msgstr "色列:"
+
+#: VMarkdownTab%2317
+msgid ""
+"Location of MathJax JavaScript and its configuration (restart VNote to make "
+"it work in in-place preview)"
+msgstr "MathJax Java Scriptの場所とその構成(インプレイスでのプレビューで機能するようにVNoteを再起動します)"
+
+#: VMarkdownTab%2318
+msgid "Need to prepend \"file://\" to local path"
+msgstr "ローカルパスに\"file://\"を付加する必要があります"
+
+#: VMarkdownTab%2319
+msgid "Enable PlantUML support in Markdown"
+msgstr "MarkdownでのPlantUMLサポートの有効化"
+
+#: VMarkdownTab%2320
+msgid "Online Service"
+msgstr "オンライン・サービス"
+
+#: VMarkdownTab%2321
+msgid "Local JAR"
+msgstr "ローカルJAR"
+
+#: VMarkdownTab%2322
+msgid "Server address for online PlantUML"
+msgstr "オンラインPlantUMLのサーバー・アドレス"
+
+#: VMarkdownTab%2323
+msgid "Location to the PlantUML JAR executable for local PlantUML"
+msgstr "ローカルPlantUML用のPlantUML JAR実行可能ファイルの場所"
+
+#: VMarkdownTab%2324
+msgid "Test"
+msgstr "テスト"
+
+#: VMarkdownTab%2325
+msgid "Test PlantUML JAR configuration"
+msgstr "PlantUML JAR構成をテスト"
+
+#: VMarkdownTab%2326
+msgctxt "VMarkdownTab#26"
+msgid "Warning"
+msgstr "警告"
+
+#: VMarkdownTab%2327
+msgid "The JAR file specified does not exist."
+msgstr "指定されたJARファイルは存在しません。"
+
+#: VMarkdownTab%2328
+msgid "Please input the right absolute file path to the JAR file."
+msgstr "JARファイルへの正しい絶対ファイルパスを入力してください。"
+
+#: VMarkdownTab%2329
+msgid "Please specify the absolute file path to the JAR file."
+msgstr "JARファイルへの絶対ファイルパスを指定してください。"
+
+#: VMarkdownTab%2330
+msgid "It should be something like \"/path/to/plantuml.jar\"."
+msgstr "\"/path/to/plantuml.jar\"のようになります。"
+
+#: VMarkdownTab%2331
+msgctxt "VMarkdownTab#31"
+msgid "Information"
+msgstr "情報"
+
+#: VMarkdownTab%2332
+msgid "Test %1."
+msgstr "%1をテストします。"
+
+#: VMarkdownTab%2333
+msgid "succeeded"
+msgstr "成功しました"
+
+#: VMarkdownTab%2334
+msgid "failed"
+msgstr "失敗しました"
+
+#: VMarkdownTab%2335
+msgid "Graphviz"
+msgstr "Graphviz"
+
+#: VMarkdownTab%2336
+msgid "Enable Graphviz for drawing graph"
+msgstr "グラフ描画するGraphviz対応を有効にする"
+
+#: VMarkdownTab%2337
+msgid "Empty to detect automatically"
+msgstr "自動的に検出するときは、空にしておいてください"
+
+#: VMarkdownTab%2338
+msgid "Location to the GraphViz dot executable"
+msgstr "GraphVizの実行ファイルの位置"
+
+#: VMarkdownTab%2339
+msgid "Test Graphviz executable configuration"
+msgstr "Graphviz実行ファイルの設定をテストする"
+
+#: VMarkdownTab%2340
+msgid "Open mode:"
+msgstr "オープンモード:"
+
+#: VMarkdownTab%2341
+msgid "Heading sequence:"
+msgstr "見出しシーケンス:"
+
+#: VMarkdownTab%2342
+msgid "MathJax configuration:"
+msgstr "MathJaxの構成:"
+
+#: VMarkdownTab%2343
+msgid "PlantUML:"
+msgstr "PlantUML:"
+
+#: VMarkdownTab%2344
+msgid "PlantUML server:"
+msgstr "PlantUMLサーバ:"
+
+#: VMarkdownTab%2345
+msgid "PlantUML JAR:"
+msgstr "PlantUML JAR:"
+
+#: VMarkdownTab%2346
+msgid "Graphviz executable:"
+msgstr "Graphviz実行可能ファイル:"
+
+#: VMdEdit%231
+msgctxt "VMdEdit#1"
+msgid "Insert From Clipboard"
+msgstr "クリップボードから挿入"
+
+#: VMdEdit%232
+msgctxt "VMdEdit#2"
+msgid "Insert As Image"
+msgstr "イメージとして挿入"
+
+#: VMdEdit%233
+msgctxt "VMdEdit#3"
+msgid "Insert As Text"
+msgstr "テキストとして挿入"
+
+#: VMdEdit%234
+msgctxt "VMdEdit#4"
+msgid ""
+"Following images seems not to be used in this note anymore. Please confirm "
+"the deletion of these images."
+msgstr "このノートでは、次のイメージは使用されないようです。これらの画像の削除を確認してください。"
+
+#: VMdEdit%235
+msgctxt "VMdEdit#5"
+msgid ""
+"Deleted files could be found in the recycle bin of this note.<br>Click \""
+"Cancel\" to leave them untouched."
+msgstr "削除したファイルはこのノートのゴミ箱にいきます。<br>\"キャンセル\"をクリックすると、そのままにします。"
+
+#: VMdEdit%236
+msgctxt "VMdEdit#6"
+msgid "Confirm Cleaning Up Unused Images"
+msgstr "未使用画像のクリーンアップを確認する"
+
+#: VMdEditOperations%231
+msgid "Insert Image From Clipboard"
+msgstr "クリップボードからイメージを挿入"
+
+#: VMdEditOperations%232
+msgid "Fail to create image folder <span style=\"%1\">%2</span>."
+msgstr "イメージフォルダ<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VMdEditOperations%233
+msgid "Fail to save image <span style=\"%1\">%2</span>."
+msgstr "画像<span style=\"%1\">%2</span>の保存に失敗しました。"
+
+#: VMdEditOperations%234
+msgctxt "VMdEditOperations#4"
+msgid "Warning"
+msgstr "警告"
+
+#: VMdEditOperations%235
+msgid "Fail to insert image <span style=\"%1\">%2</span>."
+msgstr "画像<span style=\"%1\">%2</span>の挿入に失敗しました。"
+
+#: VMdEditOperations%236
+msgid "Fail to copy image <span style=\"%1\">%2</span>."
+msgstr "画像<span style=\"%1\">%2</span>のコピーに失敗しました。"
+
+#: VMdEditOperations%237
+msgid "Insert Image From File"
+msgstr "ファイルから画像を挿入"
+
+#: VMdEditOperations%238
+msgid "Insert Image From Network"
+msgstr "ネットワークから画像を挿入"
+
+#: VMdEditOperations%239
+msgid "Insert Image"
+msgstr "画像を挿入"
+
+#: VMdEditor%231
+msgid "Paste As Plain Text"
+msgstr "プレーンテキストとして貼り付け"
+
+#: VMdEditor%232
+msgctxt "VMdEditor#2"
+msgid "&Save Changes And Read"
+msgstr "変更を保存して読み込み(&S)"
+
+#: VMdEditor%233
+msgctxt "VMdEditor#3"
+msgid "Save changes and exit edit mode"
+msgstr "変更を保存して編集モードを終了する"
+
+#: VMdEditor%234
+msgctxt "VMdEditor#4"
+msgid "&Discard Changes And Read"
+msgstr "変更を破棄して読み込み(&D)"
+
+#: VMdEditor%235
+msgctxt "VMdEditor#5"
+msgid "Discard changes and exit edit mode"
+msgstr "変更を破棄して編集モードを終了する"
+
+#: VMdEditor%236
+msgid "Live Preview For Graphs"
+msgstr "グラフのライブプレビュー"
+
+#: VMdEditor%237
+msgid "Toggle live preview panel for graphs"
+msgstr "グラフのライブプレビューパネルを切り替えます"
+
+#: VMdEditor%238
+msgctxt "VMdEditor#8"
+msgid ""
+"Following images seems not to be used in this note anymore. Please confirm "
+"the deletion of these images."
+msgstr "このノートでは、次のイメージは使用されないようです。これらの画像の削除を確認してください。"
+
+#: VMdEditor%239
+msgctxt "VMdEditor#9"
+msgid ""
+"Deleted files could be found in the recycle bin of this note.<br>Click \""
+"Cancel\" to leave them untouched."
+msgstr "削除したファイルはこのノートのゴミ箱にいきます。<br>\"キャンセル\"をクリックすると、そのままにします。"
+
+#: VMdEditor%2310
+msgctxt "VMdEditor#10"
+msgid "Confirm Cleaning Up Unused Images"
+msgstr "未使用画像のクリーンアップを確認する"
+
+#: VMdEditor%2311
+msgctxt "VMdEditor#11"
+msgid "Warning"
+msgstr "警告"
+
+#: VMdEditor%2312
+msgid "Fail to move unsaved inserted image %1 to %2."
+msgstr "保存されていない挿入されたイメージ%1を%2に移動できません。"
+
+#: VMdEditor%2313
+msgid "Please check it manually to avoid image loss."
+msgstr "画像の損失を避けるために、手動で確認してください。"
+
+#: VMdEditor%2314
+msgid "Inserting parsed Markdown text"
+msgstr "解析されたMarkdownテキストの挿入"
+
+#: VMdEditor%2315
+msgid "Parsed Markdown text inserted"
+msgstr "構文解析されたマークダウンテキストが挿入されました"
+
+#: VMdEditor%2316
+msgid "Copy HTML As"
+msgstr "HTMLをコピー"
+
+#: VMdEditor%2317
+msgid "Copy selected content as HTML using rules specified by target %1"
+msgstr "選択されたコンテンツを、ターゲット%1によって指定されたルールを使用してHTMLとしてコピーします"
+
+#: VMdEditor%2318
+msgid "Paste As Block &Quote"
+msgstr "ブロック引用として貼り付け(&Q)"
+
+#: VMdEditor%2319
+msgid "Paste text from clipboard as block quote"
+msgstr "クリップボードからのテキストをブロック引用として貼り付けます"
+
+#: VMdEditor%2320
+msgid "Paste Parsed &Markdown Text"
+msgstr "Markdownとしてテキストを解析して貼り付け(&M)"
+
+#: VMdEditor%2321
+msgid "Parse HTML to Markdown text and paste"
+msgstr "HTMLをMark downテキストに解析してペーストする"
+
+#: VMdEditor%2322
+msgid "Insert Image Link"
+msgstr "画像のリンクを挿入"
+
+#: VMdEditor%2323
+msgid "View Image"
+msgstr "画像表示"
+
+#: VMdEditor%2324
+msgid "Copy Image URL"
+msgstr "画像のURLをコピー"
+
+#: VMdEditor%2325
+msgid "Copy Image Path"
+msgstr "画像のパスをコピー"
+
+#: VMdEditor%2326
+msgid "Copy Image"
+msgstr "画像のコピー"
+
+#: VMdEditor%2327
+msgid "View Link"
+msgstr "リンクを表示"
+
+#: VMdEditor%2328
+msgid "Copy Link URL"
+msgstr "URLをコピー"
+
+#: VMdEditor%2329
+msgid "Copy Link Path"
+msgstr "リンクのパスをコピー"
+
+#: VMdEditor%2330
+msgid "Copy In-Place Preview"
+msgstr "インプレイスプレビューをコピー"
+
+#: VMdEditor%2331
+msgid "Copy Graph"
+msgstr "グラフをコピー"
+
+#: VMdEditor%2332
+msgid "PNG"
+msgstr "PNG"
+
+#: VMdEditor%2333
+msgid "Export graph as PNG to a temporary file and copy"
+msgstr "グラフをPNG形式で一時ファイルにエクスポートしてコピーする"
+
+#: VMdEditor%2334
+msgid "SVG"
+msgstr "SVG"
+
+#: VMdEditor%2335
+msgid "Export graph as SVG to a temporary file and copy"
+msgstr "グラフをSVGとして一時ファイルにエクスポートしてコピーする"
+
+#: VMdEditor%2336
+msgid "Fail to open a temporary file for export."
+msgstr "エクスポート用の一時ファイルを開くことができません。"
+
+#: VMdEditor%2337
+msgid "Exporting graph"
+msgstr "グラフのエクスポート"
+
+#: VMdEditor%2338
+msgid "Fail to export graph."
+msgstr "グラフのエクスポートに失敗しました。"
+
+#: VMdEditor%2339
+msgid "Graph exported and copied"
+msgstr "エクスポートされてコピーされたグラフ"
+
+#: VMdEditor%2340
+msgid "Fail to read exported image: %1"
+msgstr "エクスポートされたイメージの読み取りに失敗しました:%1"
+
+#: VMdEditor%2341
+msgctxt "VMdEditor#41"
+msgid "Insert From Clipboard"
+msgstr "クリップボードから挿入"
+
+#: VMdEditor%2342
+msgid "Insert From URL"
+msgstr "URLから挿入"
+
+#: VMdEditor%2343
+msgid "Insert From Image Data"
+msgstr "イメージデータから挿入"
+
+#: VMdEditor%2344
+msgid "Insert As Image Link"
+msgstr "イメージリンクとして挿入"
+
+#: VMdEditor%2345
+msgctxt "VMdEditor#45"
+msgid "Insert As Image"
+msgstr "イメージとして挿入"
+
+#: VMdEditor%2346
+msgctxt "VMdEditor#46"
+msgid "Insert As Text"
+msgstr "テキストとして挿入"
+
+#: VMdEditor%2347
+msgid "Insert As Relative Image Link"
+msgstr "相対イメージリンクとして挿入"
+
+#: VMdEditor%2348
+msgid "Insert As Link"
+msgstr "リンクとして挿入"
+
+#: VMdEditor%2349
+msgid "Insert As Relative Link"
+msgstr "相対リンクとして挿入"
+
+#: VMdEditor%2350
+msgid "Attach And Insert Link"
+msgstr "リンクをアタッチして挿入"
+
+#: VMdEditor%2351
+msgid "Insert File Content"
+msgstr "ファイルの内容を挿入"
+
+#: VMdEditor%2352
+msgctxt "VMdEditor#52"
+msgid "Fail to add attachment %1 for note <span style=\"%2\">%3</span>."
+msgstr "ノート<span style=\"%2\">%3</span>の添付ファイル%1を追加できません。"
+
+#: VMdEditor%2353
+msgid "1 file added as attachment"
+msgstr "添付ファイルとして1ファイルが追加されました"
+
+#: VMdEditor%2354
+msgid "Fetching images to local folder..."
+msgstr "ローカルフォルダへのイメージの取り込み中..."
+
+#: VMdEditor%2355
+msgid "Abort"
+msgstr "中止"
+
+#: VMdEditor%2356
+msgid "Fetching Images To Local Folder"
+msgstr "ローカルフォルダにイメージを取り込む"
+
+#: VMdEditor%2357
+msgid "Fetching image: %1"
+msgstr "イメージ%1を取得しています"
+
+#: VMdEditor%2358
+msgid "Link To Attachment"
+msgstr "m"
+
+#: VMdTab%231
+msgctxt "VMdTab#1"
+msgid "Warning"
+msgstr "警告"
+
+#: VMdTab%232
+msgid "Fail to open note <span style=\"%1\">%2</span>."
+msgstr "ノート<span style=\"%1\">%2</span>を開くことができません。"
+
+#: VMdTab%233
+msgctxt "VMdTab#3"
+msgid "Please check if file %1 exists."
+msgstr "ファイル%1が存在するかどうかを確認してください。"
+
+#: VMdTab%234
+msgctxt "VMdTab#4"
+msgid "Information"
+msgstr "情報"
+
+#: VMdTab%235
+msgctxt "VMdTab#5"
+msgid "Note <span style=\"%1\">%2</span> has been modified."
+msgstr "ノート<span style=\"%1\">%2</span>が変更されました。"
+
+#: VMdTab%236
+msgctxt "VMdTab#6"
+msgid "Do you want to save your changes?"
+msgstr "変更を保存しますか？"
+
+#: VMdTab%237
+msgctxt "VMdTab#7"
+msgid "Could not modify a read-only note <span style=\"%1\">%2</span>."
+msgstr "読み取り専用のノート<span style=\"%1\">%2</span>を変更できませんでした。"
+
+#: VMdTab%238
+msgctxt "VMdTab#8"
+msgid "Please save your changes to other notes manually."
+msgstr "手動で変更を他のノートとして保存してください。"
+
+#: VMdTab%239
+msgctxt "VMdTab#9"
+msgid "Fail to save note."
+msgstr "ノートを保存できません。"
+
+#: VMdTab%2310
+msgctxt "VMdTab#10"
+msgid "File <span style=\"%1\">%2</span> being written has been removed."
+msgstr "書き込み中のファイル<span style=\"%1\">%2</span>は削除されました。"
+
+#: VMdTab%2311
+msgctxt "VMdTab#11"
+msgid "Fail to write to disk when saving a note. Please try it again."
+msgstr "ノートを保存するときにディスクへの書き込みに失敗しました。もう一度試してみてください。"
+
+#: VMdTab%2312
+msgid "Snippet applied"
+msgstr "適用されたスニペット"
+
+#: VMdTab%2313
+msgid "Snippet %1 is not applicable"
+msgstr "スニペット%1は適用されません"
+
+#: VMdTab%2314
+msgid "Snippets are not applicable"
+msgstr "スニペットは適用されません"
+
+#: VMdTab%2315
+msgid "No available snippets defined with shortcuts"
+msgstr "ショートカットで定義された使用可能なスニペットはありません"
+
+#: VMdTab%2316
+msgid "Backup File Found"
+msgstr "バックアップファイルが見つかりました"
+
+#: VMdTab%2317
+msgid ""
+"Found backup file <span style=\"%1\">%2</span> when opening note <span style="
+"\"%1\">%3</span>."
+msgstr ""
+"ノート<span style=\"%1\">%3</span>を開くときにバックアップファイル<span style=\"%1\">%2</span> "
+"が見付かりました。"
+
+#: VMdTab%2318
+msgid ""
+"VNote may crash while editing this note before.<br/>Please choose to recover "
+"from the backup file or delete it.<br/><br/>Note file last modified: <span "
+"style=\"%1\">%2</span><br/>Backup file last modified: <span style=\"%1\""
+">%3</span>"
+msgstr ""
+"VNoteが以前このノートを編集したときにクラッシュしたようです。<br/"
+">バックアップから復旧するか、バックアップファイルを削除するか選択してください。<br/><br/>ノートファイルの最終編集日時: <span "
+"style=\"%1\">%2</span><br/>バックアップファイルの最終編集日時: <span style=\"%1\">%3</span>"
+
+#: VMdTab%2319
+msgid "Recover From Backup File"
+msgstr "バックアップファイルから復旧"
+
+#: VMdTab%2320
+msgid "Discard Backup File"
+msgstr "バックアップファイルの削除"
+
+#: VMdTab%2321
+msgctxt "VMdTab#21"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: VMdTab%2322
+msgctxt "VMdTab#22"
+msgid "Quit"
+msgstr "終了"
+
+#: VMdTab%2323
+msgctxt "VMdTab#23"
+msgid "Not an editor command: %1"
+msgstr "エディタのコマンドではありません:%1"
+
+#: VMdTab%2324
+msgid "Page saved to %1"
+msgstr "ページは%1の保存されました"
+
+#: VMdTab%2325
+msgid "Fail to save page to %1"
+msgstr "ページの%1への保存に失敗しました"
+
+#: VMdTab%2326
+msgid "Single HTML (*.html)"
+msgstr "単一HTML(*.html)"
+
+#: VMdTab%2327
+msgid "Complete HTML (*.html)"
+msgstr "完全なHTML(*.html)"
+
+#: VMdTab%2328
+msgid "MIME HTML (*.mht)"
+msgstr "MIME HTML(*.mht)"
+
+#: VMdTab%2329
+msgid "Save Page"
+msgstr "ページを保存"
+
+#: VMdTab%2330
+msgid "Saving page to %1"
+msgstr "%1にページを保存しています"
+
+#: VMetaWordManager%231
+msgid "the day as number without a leading zero (`1` to `31`)"
+msgstr "数字の日付(先頭0はつけない)(「1」から「31」)"
+
+#: VMetaWordManager%232
+msgid "the day as number with a leading zero (`01` to `31`)"
+msgstr "数字の日付(先頭0あり)(「01」から「31」)"
+
+#: VMetaWordManager%233
+msgid "the abbreviated localized day name (e.g. `Mon` to `Sun`)"
+msgstr "曜日の日本語での短縮形(例: `月`から`日`)"
+
+#: VMetaWordManager%234
+msgid "the long localized day name (e.g. `Monday` to `Sunday`)"
+msgstr "日本語での曜日名(例: `月曜日`から`金曜日`)"
+
+#: VMetaWordManager%235
+msgid "the month as number without a leading zero (`1` to `12`)"
+msgstr "月のローマ数字表記(頭の0なし) (`1` to `12`)"
+
+#: VMetaWordManager%236
+msgid "the month as number with a leading zero (`01` to `12`)"
+msgstr "月のローマ数字表記(頭の0あり) (`01` to `12`)"
+
+#: VMetaWordManager%237
+msgid "the abbreviated localized month name (e.g. `Jan` to `Dec`)"
+msgstr "月の日本語での短縮形(例: `1月`から`12月`)"
+
+#: VMetaWordManager%238
+msgid "the long localized month name (e.g. `January` to `December`)"
+msgstr "月の日本語での表記(例: `1月`から`12月`)"
+
+#: VMetaWordManager%239
+msgid "the year as two digit number (`00` to `99`)"
+msgstr "西暦年の二桁表記(`00`から`99`)"
+
+#: VMetaWordManager%2310
+msgid "the year as four digit number"
+msgstr "西暦年の四桁表記"
+
+#: VMetaWordManager%2311
+msgid ""
+"the hour without a leading zero (`0` to `23` or `1` to `12` if AM/PM display)"
+msgstr "あたまに0をつけない時刻(時) (`0` to `23`またはAM/PM表記の場合は`1` to `12`)"
+
+#: VMetaWordManager%2312
+msgid ""
+"the hour with a leading zero (`00` to `23` or `01` to `12` if AM/PM display)"
+msgstr "あたまに0をつける時刻(時) (`00` to `23`またはAM/PM表記の場合は`01` to `12`)"
+
+#: VMetaWordManager%2313
+msgid "the hour without a leading zero (`0` to `23` even with AM/PM display)"
+msgstr "あたまに0をつけない時刻(時) (`0` to `23` AM/PM表記の場合も同様)"
+
+#: VMetaWordManager%2314
+msgid "the hour with a leading zero (`00` to `23` even with AM/PM display)"
+msgstr "あたまに0をつける時刻(時) (`00` to `23` AM/PM表記の場合も同様)"
+
+#: VMetaWordManager%2315
+msgid "the minute without a leading zero (`0` to `59`)"
+msgstr "あたまに0をつけない時刻(分)(`0` to `59`)"
+
+#: VMetaWordManager%2316
+msgid "the minute with a leading zero (`00` to `59`)"
+msgstr "あたまに0をつける時刻(分)(`00` to `59`)"
+
+#: VMetaWordManager%2317
+msgid "the second without a leading zero (`0` to `59`)"
+msgstr "あたまに0をつけない時刻(秒)(`0` to `59`)"
+
+#: VMetaWordManager%2318
+msgid "the second with a leading zero (`00` to `59`)"
+msgstr "あたまに0をつける時刻(秒)(`00` to `59`)"
+
+#: VMetaWordManager%2319
+msgid "the milliseconds without leading zeroes (`0` to `999`)"
+msgstr "あたまに0をつけない時刻(ミリ秒)(`0` to `999`)"
+
+#: VMetaWordManager%2320
+msgid "the milliseconds with leading zeroes (`000` to `999`)"
+msgstr "あたまに0をつける時刻(ミリ秒)(`000` to `999`)"
+
+#: VMetaWordManager%2321
+msgid "use AM/PM display (`AM` or `PM`)"
+msgstr "AM/PM表示(`AM'または`PM`)を使用"
+
+#: VMetaWordManager%2322
+msgid "use am/pm display (`am` or `pm`)"
+msgstr "am/pm表示(`am'または`pm`)を使用"
+
+#: VMetaWordManager%2323
+msgid "the timezone (e.g. `CEST`)"
+msgstr "タイムゾーン(e.g. `CEST`)"
+
+#: VMetaWordManager%2324
+msgid "a random number"
+msgstr "ランダムな数字"
+
+#: VMetaWordManager%2325
+msgid "dynamic version of `random`"
+msgstr "「ランダム」の動的なバージョン"
+
+#: VMetaWordManager%2326
+msgid "name of current note"
+msgstr "現在のノートの名前"
+
+#: VMetaWordManager%2327
+msgid "complete base name of current note"
+msgstr "現在の注記の完全なベース名"
+
+#: VMetaWordManager%2328
+msgid "relative path of current note's attachment folder"
+msgstr "現在のノートの添付フォルダの相対パス"
+
+#: VMetaWordManager%2329
+msgid "the week number (`1` to `53`)"
+msgstr "週番号(`1'から`53'まで)"
+
+#: VMetaWordManager%2330
+msgid "information about all defined magic words"
+msgstr "定義されたすべてのマジックワードに関する情報"
+
+#: VMiscTab%231
+msgid "Highlight matches of a full-text search in page"
+msgstr "全文検索の一致をページ内で強調表示"
+
+#: VNewDirDialog%231
+msgctxt "VNewDirDialog#1"
+msgid "Folder &name:"
+msgstr "フォルダ名(&N):"
+
+#: VNewDirDialog%232
+msgctxt "VNewDirDialog#2"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name (case-insensitive) <span style=\"%2\""
+">%3</span> already exists. Please choose another name."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前(大文字と小文字を区別しない)<span style=\"%2\""
+">%3</span>は既に存在しています。別の名前を選択してください。"
+
+#: VNewDirDialog%233
+msgctxt "VNewDirDialog#3"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name <span style=\"%2\">%3</span> "
+"contains illegal characters (after magic word evaluation)."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前<span style=\"%2\""
+">%3</span>には、不正な文字が含まれています(マジックワード評価の後)。"
+
+#: VNewFileDialog%231
+msgid "Choose a template (magic word supported)"
+msgstr "テンプレートの選択(マジックワードをサポート)"
+
+#: VNewFileDialog%232
+msgid "Manage Templates"
+msgstr "テンプレートの管理"
+
+#: VNewFileDialog%233
+msgid "Insert note name as title (for Markdown only)"
+msgstr "タイトルとしてノート名を挿入(Markdownのみ)"
+
+#: VNewFileDialog%234
+msgid "Insert note name into the new note as a title"
+msgstr "新しいノートにノート名をタイトルとして挿入します"
+
+#: VNewFileDialog%235
+msgctxt "VNewFileDialog#5"
+msgid "Note &name:"
+msgstr "ノート名(&N):"
+
+#: VNewFileDialog%236
+msgid "Template:"
+msgstr "テンプレート:"
+
+#: VNewFileDialog%237
+msgctxt "VNewFileDialog#7"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name (case-insensitive) <span style=\"%2\""
+">%3</span> already exists. Please choose another name."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前(大文字と小文字を区別しない)<span style=\"%2\""
+">%3</span>は既に存在しています。別の名前を選択してください。"
+
+#: VNewFileDialog%238
+msgctxt "VNewFileDialog#8"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name <span style=\"%2\">%3</span> "
+"contains illegal characters (after magic word evaluation)."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前<span style=\"%2\""
+">%3</span>には、不正な文字が含まれています(マジックワード評価の後)。"
+
+#: VNewFileDialog%239
+msgctxt "VNewFileDialog#9"
+msgid "None"
+msgstr "なし"
+
+#: VNewNotebookDialog%231
+msgctxt "VNewNotebookDialog#1"
+msgid "Notebook &name:"
+msgstr "ノートブック名(&N):"
+
+#: VNewNotebookDialog%232
+msgctxt "VNewNotebookDialog#2"
+msgid "Notebook &root folder:"
+msgstr "ノートブックのルートフォルダ(&R):"
+
+#: VNewNotebookDialog%233
+msgctxt "VNewNotebookDialog#3"
+msgid "&Browse"
+msgstr "ブラウズ(&B)"
+
+#: VNewNotebookDialog%234
+msgctxt "VNewNotebookDialog#4"
+msgid "Use relative path"
+msgstr "相対パスを使用"
+
+#: VNewNotebookDialog%235
+msgctxt "VNewNotebookDialog#5"
+msgid "Use relative path (to VNote's executable) in configuration file"
+msgstr "構成ファイル内で、(Vnoteの実行可能ファイルに対する)相対パスを使用します。"
+
+#: VNewNotebookDialog%236
+msgctxt "VNewNotebookDialog#6"
+msgid "&Image folder:"
+msgstr "画像フォルダ(&I):"
+
+#: VNewNotebookDialog%237
+msgctxt "VNewNotebookDialog#7"
+msgid "Use global configuration (%1)"
+msgstr "グローバル構成を使用(%1)"
+
+#: VNewNotebookDialog%238
+msgctxt "VNewNotebookDialog#8"
+msgid ""
+"Set the name of the folder to hold images of all the notes in this notebook ("
+"empty to use global configuration)"
+msgstr "このノートブックにすべてのノートのイメージを保持するフォルダの名前を設定します(グローバル構成を使用するには空です)。"
+
+#: VNewNotebookDialog%239
+msgid "&Attachment folder:"
+msgstr "添付ファイルフォルダ(&A):"
+
+#: VNewNotebookDialog%2310
+msgid ""
+"Set the name of the folder to hold attachments of all the notes in this "
+"notebook (empty to use global configuration, read-only once created)"
+msgstr ""
+"このノートブックにすべてのノートの添付ファイルを保持するフォルダの名前を設定します(グローバル構成を使用するには空で、作成後は読み取り専用になります)。"
+
+#: VNewNotebookDialog%2311
+msgctxt "VNewNotebookDialog#11"
+msgid "Select Root Folder Of The Notebook"
+msgstr "ノートブックのルートフォルダを選択"
+
+#: VNewNotebookDialog%2312
+msgctxt "VNewNotebookDialog#12"
+msgid "<span style=\"%1\">WARNING</span>: Please specify absolute path."
+msgstr "<span style=\"%1\">警告</span>: 絶対パスを指定してください。"
+
+#: VNewNotebookDialog%2313
+msgid ""
+"<span style=\"%1\">INFO</span>: The folder chosen seems to be a root folder "
+"of a notebook created by VNote before. VNote will try to import it by "
+"reading the configuration file."
+msgstr ""
+"<span style=\"%1\">情報</span>: "
+"選択したフォルダはあ、以前VNoteで作成されノートブックのルートフォルダです。VNoteは、構成ファイルを読み込んでインポートしようとします。"
+
+#: VNewNotebookDialog%2314
+msgid ""
+"<span style=\"%1\">WARNING</span>: The folder chosen is NOT empty! It is "
+"highly recommended to use an EMPTY and EXCLUSIVE folder for a new notebook. "
+"If continue, VNote will try to create a notebook based on existing folders "
+"and files recursively."
+msgstr ""
+"<span style=\"%1\">警告</span>:選択されたフォルダは空ではありません!新しいノートブックには、空で排他的に利用できるフォルダを使"
+"用することを強くお勧めします。継続すると、VNoteは、既存のフォルダとファイルを再帰的に探索して、ノートブックを作成します。"
+
+#: VNewNotebookDialog%2315
+msgid ""
+"<span style=\"%1\">WARNING</span>: The path seems to be illegal. Please "
+"choose another one."
+msgstr "<span style=\"%1\">警告</span>:  このパスは不正のようです。別のパスを選択してください。"
+
+#: VNewNotebookDialog%2316
+msgctxt "VNewNotebookDialog#16"
+msgid ""
+"<span style=\"%1\">WARNING</span>: The folder chosen has already been a root "
+"folder of existing notebook <span style=\"%2\">%3</span> in VNote."
+msgstr ""
+"<span style=\"%1\">警告</span>: 選択したフォルダは、VNoteで作成された既存のノートブック<span style=\"%"
+"2\">%3</span>です。"
+
+#: VNewNotebookDialog%2317
+msgctxt "VNewNotebookDialog#17"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Please choose a folder in the same drive "
+"as <span style=\"%2\">%3</span> when relative path is enabled."
+msgstr ""
+"<span style=\"%1\">警告</span>: 相対パスが有効なときは、<span style=\"%2\""
+">%3</span>と同じドライブのフォルダを選択してください。"
+
+#: VNewNotebookDialog%2318
+msgctxt "VNewNotebookDialog#18"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name (case-insensitive) <span style=\"%2\""
+">%3</span> already exists. Please choose another name."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前(大文字と小文字を区別しない)<span style=\"%2\""
+">%3</span>は既に存在しています。別の名前を選択してください。"
+
+#: VNewNotebookDialog%2319
+msgctxt "VNewNotebookDialog#19"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name <span style=\"%2\">%3</span> "
+"contains illegal characters (after magic word evaluation)."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前<span style=\"%2\""
+">%3</span>には、不正な文字が含まれています(マジックワード評価の後)。"
+
+#: VNoteFile%231
+msgid "Fail to delete images of this note."
+msgstr "このノートの画像を削除できません。"
+
+#: VNoteFile%232
+msgid "Fail to delete attachments of this note."
+msgstr "このノートの添付ファイルを削除できません。"
+
+#: VNoteFile%233
+msgid "Fail to delete the note file."
+msgstr "ノートファイルの削除に失敗しました。"
+
+#: VNoteFile%234
+msgid "Fail to remove the note from the folder configuration."
+msgstr "フォルダ構成からノートを削除できません。"
+
+#: VNoteFile%235
+msgctxt "VNoteFile#5"
+msgid "Fail to open target folder."
+msgstr "ターゲットフォルダを開くことができません。"
+
+#: VNoteFile%236
+msgctxt "VNoteFile#6"
+msgid "cut"
+msgstr "切り取り"
+
+#: VNoteFile%237
+msgctxt "VNoteFile#7"
+msgid "copy"
+msgstr "コピー"
+
+#: VNoteFile%238
+msgid "Fail to %1 the note file."
+msgstr "ノートファイルの%1に失敗しました。"
+
+#: VNoteFile%239
+msgid "Fail to add the note to target folder's configuration."
+msgstr "フォルダをターゲットフォルダのノートに追加できません。"
+
+#: VNoteFile%2310
+msgid "Fail to %1 attachments folder %2 to %3. Please manually maintain it."
+msgstr "添付ファイルフォルダ%2を%3に%1できません。手動で実施してください。"
+
+#: VNoteFile%2311
+msgid "Fail to update configuration of note %1."
+msgstr "ノート%1の構成を更新できません。"
+
+#: VNoteFile%2312
+msgid "Source image %1 does not exist."
+msgstr "ソース画像%1は存在しません。"
+
+#: VNoteFile%2313
+msgid "Skip image with the same source and target path %1."
+msgstr "同じソースパスとターゲットパス%1である画像をスキップします。"
+
+#: VNoteFile%2314
+msgid "Fail to %1 image %2 to %3. Please manually %1 it and modify the note."
+msgstr "画像%2を%3の %1 に失敗しました。手動で%1を実行し、ノートを修正してください。"
+
+#: VNoteManagementTab%231
+msgctxt "VNoteManagementTab#1"
+msgid "Notes"
+msgstr "ノート"
+
+#: VNoteManagementTab%232
+msgid "External Files"
+msgstr "外部ファイル"
+
+#: VNoteManagementTab%233
+msgid "Custom image folder"
+msgstr "カスタムイメージフォルダ"
+
+#: VNoteManagementTab%234
+msgid ""
+"Set the global name of the image folder to hold images of notes (restart "
+"VNote to make it work)"
+msgstr "ノートの画像を保持するイメージフォルダのグローバル名を設定します(再起動するにはVNoteを再起動します)。"
+
+#: VNoteManagementTab%235
+msgid "Name of the image folder"
+msgstr "画像フォルダの名前"
+
+#: VNoteManagementTab%236
+msgid "Custom attachment folder"
+msgstr "カスタム添付ファイルフォルダ"
+
+#: VNoteManagementTab%237
+msgid ""
+"Set the global name of the attachment folder to hold attachments of notes ("
+"restart VNote to make it work)"
+msgstr "添付ファイルを保持する添付ファイルフォルダのグローバル名を設定します(再起動するには、Vnoteを再起動してください)。"
+
+#: VNoteManagementTab%238
+msgid "Name of the attachment folder"
+msgstr "添付フォルダの名前"
+
+#: VNoteManagementTab%239
+msgid "Single click to open a note in current tab"
+msgstr "クリックすると、現在のタブにノートが表示されます。"
+
+#: VNoteManagementTab%2310
+msgid ""
+"Single click a note in the notes list to open it in current tab, double "
+"click to open it in a new tab"
+msgstr "ノートの一覧でメモをクリックして、現在のタブで開き、ダブルクリックして新しいタブで開きます。"
+
+#: VNoteManagementTab%2311
+msgid ""
+"Set the path of the global image folder to hold images of external files ("
+"restart VNote to make it work).\n"
+"You could use both absolute or relative path here. If absolute path is used, "
+"VNote will not manage\n"
+"those images, so you need to clean up unused images manually."
+msgstr ""
+"グローバル画像フォルダのパスを設定して、外部ファイルの画像を保持します(VNoteを再起動して動作させます)。\n"
+"絶対パスと相対パスの両方をここで使用できます。絶対パスが使用されている場合、VNoteは管理されません\n"
+"これらの画像は、未使用画像を手動でクリーンアップする必要があります。"
+
+#: VNotebook%231
+msgid "Fail to write notebook configuration file."
+msgstr "ノートブック構成ファイルの書き込みに失敗しました。"
+
+#: VNotebookInfoDialog%231
+msgctxt "VNotebookInfoDialog#1"
+msgid "Use global configuration (%1)"
+msgstr "グローバル構成を使用(%1)"
+
+#: VNotebookInfoDialog%232
+msgctxt "VNotebookInfoDialog#2"
+msgid ""
+"Set the name of the folder to hold images of all the notes in this notebook ("
+"empty to use global configuration)"
+msgstr "このノートブックにすべてのノートのイメージを保持するフォルダの名前を設定します(グローバル構成を使用するには空です)。"
+
+#: VNotebookInfoDialog%233
+msgid "The folder to hold attachments of all the notes in this notebook"
+msgstr "このノートブックに含まれるすべてのノートの添付ファイルを格納するフォルダ"
+
+#: VNotebookInfoDialog%234
+msgid ""
+"The folder to hold deleted files from within VNote of all the notes in this "
+"notebook"
+msgstr "このノートブック内のすべてのノートのVNote内から削除されたファイルを格納するフォルダ"
+
+#: VNotebookInfoDialog%235
+msgctxt "VNotebookInfoDialog#5"
+msgid "Notebook &name:"
+msgstr "ノートブック名(&N):"
+
+#: VNotebookInfoDialog%236
+msgctxt "VNotebookInfoDialog#6"
+msgid "Notebook &root folder:"
+msgstr "ノートブックのルートフォルダ(&R):"
+
+#: VNotebookInfoDialog%237
+msgctxt "VNotebookInfoDialog#7"
+msgid "&Image folder:"
+msgstr "画像フォルダ(&I):"
+
+#: VNotebookInfoDialog%238
+msgctxt "VNotebookInfoDialog#8"
+msgid "Attachment folder:"
+msgstr "添付ファイルフォルダ:"
+
+#: VNotebookInfoDialog%239
+msgid "Recycle bin folder:"
+msgstr "ごみ箱フォルダ:"
+
+#: VNotebookInfoDialog%2310
+msgctxt "VNotebookInfoDialog#10"
+msgid "Created time:"
+msgstr "作成日時:"
+
+#: VNotebookInfoDialog%2311
+msgctxt "VNotebookInfoDialog#11"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name (case-insensitive) <span style=\"%2\""
+">%3</span> already exists. Please choose another name."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前(大文字と小文字を区別しない)<span style=\"%2\""
+">%3</span>は既に存在しています。別の名前を選択してください。"
+
+#: VNotebookInfoDialog%2312
+msgctxt "VNotebookInfoDialog#12"
+msgid ""
+"<span style=\"%1\">WARNING</span>: Name <span style=\"%2\">%3</span> "
+"contains illegal characters (after magic word evaluation)."
+msgstr ""
+"<span style=\"%1\">警告</span>: 名前<span style=\"%2\""
+">%3</span>には、不正な文字が含まれています(マジックワード評価の後)。"
+
+#: VNotebookSelector%231
+msgid "Add Notebook"
+msgstr "ノートブックを追加"
+
+#: VNotebookSelector%232
+msgid "Create or import a notebook"
+msgstr "ノートブックを作成またはインポートする"
+
+#: VNotebookSelector%233
+msgid "View and edit notebooks"
+msgstr "ノートブックを表示、編集する"
+
+#: VNotebookSelector%234
+msgid ""
+"Please type the name of the notebook and choose a folder as the Root Folder "
+"of the notebook."
+msgstr "ノートブックの名前を入力し、ノートブックのルートフォルダとしてフォルダを選択してください。"
+
+#: VNotebookSelector%235
+msgid ""
+"* The root folder should be used EXCLUSIVELY by VNote and it is recommended "
+"to be EMPTY."
+msgstr "*ルートフォルダはVNoteによって排他的に使用される必要があり、空にすることをお勧めします。"
+
+#: VNotebookSelector%236
+msgid ""
+"* A previously created notebook could be imported into VNote by choosing its "
+"root folder."
+msgstr "*以前に作成されたノートブックは、ルートフォルダを選択してVNoteにインポートできます。"
+
+#: VNotebookSelector%237
+msgid ""
+"* When a non-empty folder is chosen, VNote will create a notebook based on "
+"the folders and files in it recursively."
+msgstr "*空でないフォルダを選択すると、VNoteは、そのフォルダとファイルを再帰的に探索して、ノートブックを作成します。"
+
+#: VNotebookSelector%238
+msgid "Successfully build notebook recursively (%1)."
+msgstr "再帰的にノートブック(%1)を構築しました。"
+
+#: VNotebookSelector%239
+msgid "Fail to build notebook recursively."
+msgstr "ノートブックを再帰的に構築できません。"
+
+#: VNotebookSelector%2310
+msgctxt "VNotebookSelector#10"
+msgid "Information"
+msgstr "情報"
+
+#: VNotebookSelector%2311
+msgctxt "VNotebookSelector#11"
+msgid "Warning"
+msgstr "警告"
+
+#: VNotebookSelector%2312
+msgid ""
+"Fail to create notebook <span style=\"%1\">%2</span> in <span style=\"%1\""
+">%3</span>."
+msgstr ""
+"<span style=\"%1\">%3</span>に、ノートブック<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VNotebookSelector%2313
+msgid "Delete Notebook"
+msgstr "ノートブックの削除"
+
+#: VNotebookSelector%2314
+msgid "Delete Notebook Folder From Disk"
+msgstr "ディスクからノートブックのフォルダを削除"
+
+#: VNotebookSelector%2315
+msgid ""
+"Fail to delete the root folder of notebook <span style=\"%1\">%2</span> from "
+"disk. You may open the folder and check it manually."
+msgstr "ディスクからノートブック <span style=\"%1\">%2</span>のフォルダの削除に失敗しました。フォルダを手動で開いて"
+
+#: VNotebookSelector%2316
+msgid "Notebook Information"
+msgstr "ノートブック情報"
+
+#: VNotebookSelector%2317
+msgctxt "VNotebookSelector#17"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#: VNotebookSelector%2318
+msgid "Delete current notebook"
+msgstr "現在のノートブックを削除"
+
+#: VNotebookSelector%2319
+msgctxt "VNotebookSelector#19"
+msgid "&Recycle Bin"
+msgstr "ごみ箱(&R)"
+
+#: VNotebookSelector%2320
+msgid "Open the recycle bin of this notebook"
+msgstr "このノートブックのごみ箱を開きます"
+
+#: VNotebookSelector%2321
+msgid "&Empty Recycle Bin"
+msgstr "ごみ箱を空にする(&E)"
+
+#: VNotebookSelector%2322
+msgid "Empty the recycle bin of this notebook"
+msgstr "このノートブックのごみ箱を空にする"
+
+#: VNotebookSelector%2323
+msgid ""
+"Are you sure to empty recycle bin of notebook <span style=\"%1\">%2</span>?"
+msgstr "ノートブック<span style=\"%1\">%2</span>のごみ箱を空にしますか?"
+
+#: VNotebookSelector%2324
+msgid ""
+"<span style=\"%1\">WARNING</span>: VNote will delete all the files in "
+"directory <span style=\"%2\">%3</span>.<br>It may be UNRECOVERABLE!"
+msgstr ""
+"<span style=\"%1\">警告</span>:VNoteは、ディレクトリ<span style=\"%2\""
+">%3</span>内のすべてのファイルを削除します。<br>復旧はできません！"
+
+#: VNotebookSelector%2325
+msgid ""
+"Successfully emptied recycle bin of notebook <span style=\"%1\">%2</span>!"
+msgstr "ノートブック<span style=\"%1\">%2</span>のごみ箱を空にしました!"
+
+#: VNotebookSelector%2326
+msgid "Fail to empty recycle bin of notebook <span style=\"%1\">%2</span>!"
+msgstr "ノートブック<span style=\"%1\">%2</span>のごみ箱を空にすることができません!"
+
+#: VNotebookSelector%2327
+msgid "&Open Notebook Location"
+msgstr "ノートブックの場所を開く(&O)"
+
+#: VNotebookSelector%2328
+msgid "Explore the root folder of this notebook in operating system"
+msgstr "オペレーティング・システムでこのノートブックのルート・フォルダを表示します。"
+
+#: VNotebookSelector%2329
+msgid "&Info (Rename)"
+msgstr "情報(名前変更)(&I)"
+
+#: VNotebookSelector%2330
+msgid "View and edit current notebook's information"
+msgstr "現在のノートブックの情報を表示および編集する"
+
+#: VOrphanFileInfoDialog%231
+msgid "File:"
+msgstr "ファイル:"
+
+#: VOrphanFileInfoDialog%232
+msgctxt "VOrphanFileInfoDialog#2"
+msgid "Use global configuration (%1)"
+msgstr "グローバル構成を使用(%1)"
+
+#: VOrphanFileInfoDialog%233
+msgid ""
+"Set the path of the image folder to store images of this file.\n"
+"If absolute path is used, VNote will not manage those images.(empty to use "
+"global configuration)"
+msgstr ""
+"画像フォルダのパスを設定して、このファイルの画像を保存します。\n"
+"絶対パスを使用した場合、VNoteはそれらのイメージを管理しません(グローバル構成を使用するには空にします)。"
+
+#: VOrphanFileInfoDialog%234
+msgctxt "VOrphanFileInfoDialog#4"
+msgid "&Image folder:"
+msgstr "画像フォルダ(&I):"
+
+#: VOrphanFileInfoDialog%235
+msgid "External File Information"
+msgstr "外部ファイル情報"
+
+#: VOutline%231
+msgid "Decrease Expanded Level"
+msgstr "拡張レベルの縮小"
+
+#: VOutline%232
+msgid "Set Outline Expanded Level to %1"
+msgstr "アウトライン拡張レベルを%1に設定します"
+
+#: VOutline%233
+msgid "Increase Expanded Level"
+msgstr "拡張レベルの向上"
+
+#: VOutlineUE%231
+msgid "List and search the outline of current note"
+msgstr "現在の注記のアウトラインをリストおよび検索します。"
+
+#: VReadEditTab%231
+msgid "Read Mode (For Markdown Only)"
+msgstr "読み取りモード(マークダウンのみ)"
+
+#: VReadEditTab%232
+msgctxt "VReadEditTab#2"
+msgid "Edit Mode"
+msgstr "編集モード"
+
+#: VReadEditTab%233
+msgid "Custom Web zoom factor"
+msgstr "カスタムWebズーム倍率"
+
+#: VReadEditTab%234
+msgid "Set the zoom factor of the Web page when reading"
+msgstr "読み込むときのWebページのズーム倍率を設定します。"
+
+#: VReadEditTab%235
+msgid "Flash current heading"
+msgstr "一時メモ(Flash) 現在の見出し"
+
+#: VReadEditTab%236
+msgid "Flash current heading on change"
+msgstr "変更時に現在の見出しをflash"
+
+#. (obsolete)
+#: VReadEditTab%237
+msgid "Swap file"
+msgstr "スワップファイル"
+
+#: VReadEditTab%238
+msgid "Automatically save changes to a swap file for backup"
+msgstr "バックアップするために、変更をスワップ・ファイルへ自動的に保存する"
+
+#. (obsolete)
+#: VReadEditTab%239
+msgid "Auto save"
+msgstr "自動保存"
+
+#. (obsolete)
+#: VReadEditTab%2310
+msgid "Automatically save the note when editing"
+msgstr "自動的に編集したノートを保存"
+
+#: VReadEditTab%2311
+msgid "Swap file (Recommended)"
+msgstr ""
+
+#: VReadEditTab%2312
+msgid "Auto save (Buggy)"
+msgstr ""
+
+#: VReadEditTab%2313
+msgid "Automatically save the note when editing (may DELETE images on save)"
+msgstr ""
+
+#: VReadEditTab%2314
+msgid "Choose the key mode in editor"
+msgstr "エディタのキーモードを選択する"
+
+#: VReadEditTab%2315
+msgctxt "VReadEditTab#15"
+msgid "Normal"
+msgstr "通常"
+
+#: VReadEditTab%2316
+msgid "Vim"
+msgstr "Vim"
+
+#: VReadEditTab%2317
+msgid "Smart input method in Vim mode"
+msgstr "Vimモードのスマート入力メソッド"
+
+#: VReadEditTab%2318
+msgid "Disable input method when leaving Insert mode in Vim mode"
+msgstr "VImモードで入力モードをぬけるときに入力メソッドを無効にする"
+
+#: VReadEditTab%2319
+msgid "Custom editor font"
+msgstr "エディターのフォントをカスタマイズ"
+
+#: VReadEditTab%2320
+msgid "Set the font of editor to override style configuration"
+msgstr "スタイル設定を上書きして、エディタのフォントを設定します。"
+
+#: VReadEditTab%2321
+msgid "Set the zoom delta of the editor font"
+msgstr "エディタフォントのズームデルタを設定します。"
+
+#: VReadEditTab%2322
+msgid "Key mode:"
+msgstr "キーモード:"
+
+#: VReadEditTab%2323
+msgid "Editor zoom delta:"
+msgstr "エディタのズーム・デルタ:"
+
+#: VReadEditTab%2324
+msgid "It's recommended to enable \"Swap file\" or \"Auto save\", not both"
+msgstr "「スワップファイル」または「自動保存」を有効にすることをお勧めします。両方ではありません。"
+
+#: VSearchEngineWorker%231
+msgid "Skip binary file %1."
+msgstr "バイナリファイル%1をスキップします。"
+
+#: VSearchResultTree%231
+msgctxt "VSearchResultTree#1"
+msgid "&Open"
+msgstr "開く(&O)"
+
+#: VSearchResultTree%232
+msgctxt "VSearchResultTree#2"
+msgid "Open selected notes"
+msgstr "選択されたノートを開く"
+
+#: VSearchResultTree%233
+msgctxt "VSearchResultTree#3"
+msgid "&Locate To Folder"
+msgstr "フォルダへ移動(&L)"
+
+#: VSearchResultTree%234
+msgctxt "VSearchResultTree#4"
+msgid "Locate the folder of current note"
+msgstr "現在のノートのフォルダを指定します。"
+
+#: VSearchResultTree%235
+msgctxt "VSearchResultTree#5"
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+#: VSearchResultTree%236
+msgctxt "VSearchResultTree#6"
+msgid "Add selected notes to Cart for further processing"
+msgstr "追加処理のために、選択したノートをカートに追加します"
+
+#: VSearchResultTree%237
+msgctxt "VSearchResultTree#7"
+msgid "Pin To History"
+msgstr "履歴に固定"
+
+#: VSearchResultTree%238
+msgctxt "VSearchResultTree#8"
+msgid "Pin selected notes to History"
+msgstr "選択したノートを履歴に固定します"
+
+#: VSearchResultTree%239
+msgid "Expand/Collapse All\t%1"
+msgstr "すべての%1を展開/集約"
+
+#: VSearchResultTree%2310
+msgctxt "VSearchResultTree#10"
+msgid "%1 %2 added to Cart"
+msgstr "%1カートに%2が追加されました"
+
+#: VSearchResultTree%2311
+msgctxt "VSearchResultTree#11"
+msgid "notes"
+msgstr "ノート"
+
+#: VSearchResultTree%2312
+msgctxt "VSearchResultTree#12"
+msgid "note"
+msgstr "ノート"
+
+#: VSearchResultTree%2313
+msgctxt "VSearchResultTree#13"
+msgid "%1 %2 pinned to History"
+msgstr "%1 %2は履歴に固定されています"
+
+#: VSearchUE%231
+msgid "List and search all the notebooks"
+msgstr "全てのノートブックを検索"
+
+#: VSearchUE%232
+msgid "Search the name of folders/notes in all the notebooks"
+msgstr "全てのノートブックのフォルダ名とノート名を検索"
+
+#: VSearchUE%233
+msgid "Search the content of notes in all the notebooks"
+msgstr "全てのノートブックのコンテツを検索"
+
+#: VSearchUE%234
+msgid "Search the tags of notes in all the notebooks"
+msgstr "すべてのノートブックからノートのタグを検索"
+
+#: VSearchUE%235
+msgid "Search the name of folders/notes in current notebook"
+msgstr "現在のノートブックからフォルダ名/ノート名を検索"
+
+#: VSearchUE%236
+msgid "Search the content of notes in current notebook"
+msgstr "現在のノートブックからノートのコンテンツを検索"
+
+#: VSearchUE%237
+msgid "Search the tags of notes in current notebook"
+msgstr "現在のノートブックからノートのタグを検索"
+
+#: VSearchUE%238
+msgid "Search the name of folders/notes in current folder"
+msgstr "現在のフォルダのフォルダ名/ノート名を検索"
+
+#: VSearchUE%239
+msgid "Search the content of notes in current folder"
+msgstr "現在のフォルダのノートのコンテンツを検索"
+
+#: VSearchUE%2310
+msgid "Search the tags of notes in current folder"
+msgstr "現在のフォルダのノートのタグを検索"
+
+#: VSearchUE%2311
+msgid "List and search the name of opened notes in buffer"
+msgstr "バッファ内の開いているノートの名前を一覧表示して検索"
+
+#: VSearchUE%2312
+msgid "Search the content of opened notes in buffer"
+msgstr "バッファ内の開いているノートの内容を検索"
+
+#: VSearchUE%2313
+msgid "Search the outline of opened notes in buffer"
+msgstr "バッファ内の開いたノートのアウトラインを検索"
+
+#: VSearchUE%2314
+msgid "Search the path of folders/notes in all the notebooks"
+msgstr "すべてのノートブックのフォルダ/ノートのパスを検索"
+
+#: VSearchUE%2315
+msgid "Search the path of folders/notes in current notebook"
+msgstr "現在のノートブック内のフォルダ/ノートのパスを検索"
+
+#: VSearchUE%2316
+msgid "Search the content of notes in Explorer root directory"
+msgstr "エクスプローラのルートディレクトリにあるノートの内容を検索"
+
+#: VSearchUE%2317
+msgctxt "VSearchUE#17"
+msgid "Invalid ID %1"
+msgstr "無効なID%1"
+
+#: VSearcher%231
+msgctxt "VSearcher#1"
+msgid "Search"
+msgstr "検索"
+
+#: VSearcher%232
+msgid "Clear Results"
+msgstr "結果のクリア"
+
+#: VSearcher%233
+msgctxt "VSearcher#3"
+msgid "Advanced Settings"
+msgstr "詳細設定"
+
+#: VSearcher%234
+msgid "Console"
+msgstr "コンソール"
+
+#: VSearcher%235
+msgid "Keywords to search for"
+msgstr "検索するキーワード"
+
+#: VSearcher%236
+msgid "Supports space, &&, and ||"
+msgstr "空白文字、&&, || をサポート"
+
+#: VSearcher%237
+msgid "Scope to search"
+msgstr "検索対象範囲"
+
+#: VSearcher%238
+msgid "Object to search"
+msgstr "検索するオブジェクト"
+
+#: VSearcher%239
+msgid "Target to search"
+msgstr "検索対象"
+
+#: VSearcher%2310
+msgid "Wildcard pattern to filter the files to be searched"
+msgstr "検索対象のファイルをワイルドカードパターンで指定"
+
+#: VSearcher%2311
+msgid "Engine to execute the search"
+msgstr "検索を実行するエンジン"
+
+#: VSearcher%2312
+msgctxt "VSearcher#12"
+msgid "&Case sensitive"
+msgstr "大文字と小文字を区別(&C)"
+
+#: VSearcher%2313
+msgctxt "VSearcher#13"
+msgid "&Whole word only"
+msgstr "単語全体のみ(&W)"
+
+#: VSearcher%2314
+msgid "&Fuzzy search"
+msgstr "ファジー検索(&F)"
+
+#: VSearcher%2315
+msgid "Not available for content search"
+msgstr "コンテンツ検索では利用できません"
+
+#: VSearcher%2316
+msgctxt "VSearcher#16"
+msgid "Re&gular expression"
+msgstr "正規表現(&G)"
+
+#: VSearcher%2317
+msgid "File pattern:"
+msgstr "ファイルパターン:"
+
+#: VSearcher%2318
+msgid "Engine:"
+msgstr "エンジン:"
+
+#: VSearcher%2319
+msgctxt "VSearcher#19"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: VSearcher%2320
+msgid "Cancelling the search..."
+msgstr "検索をキャンセルしています..."
+
+#: VSearcher%2321
+msgctxt "VSearcher#21"
+msgid "Output logs will be shown here"
+msgstr "出力ログが表示されます。"
+
+#: VSearcher%2322
+msgid "Keywords:"
+msgstr "キーワード:"
+
+#: VSearcher%2323
+msgid "Scope:"
+msgstr "範囲:"
+
+#: VSearcher%2324
+msgid "Object:"
+msgstr "オブジェクト:"
+
+#: VSearcher%2325
+msgid "Target:"
+msgstr "ターゲット:"
+
+#: VSearcher%2326
+msgid "Opened Notes"
+msgstr "開いているノート"
+
+#: VSearcher%2327
+msgid "Current Folder"
+msgstr "現在のフォルダ"
+
+#: VSearcher%2328
+msgid "Current Notebook"
+msgstr "現在のノートブック"
+
+#: VSearcher%2329
+msgid "All Notebooks"
+msgstr "すべてのノートブック"
+
+#: VSearcher%2330
+msgid "Explorer Directory"
+msgstr "Explorer Directory"
+
+#: VSearcher%2331
+msgctxt "VSearcher#31"
+msgid "Name"
+msgstr "名前"
+
+#: VSearcher%2332
+msgid "Content"
+msgstr "コンテンツ"
+
+#: VSearcher%2333
+msgid "Tag"
+msgstr "タグ"
+
+#: VSearcher%2334
+msgid "Path"
+msgstr "パス"
+
+#: VSearcher%2335
+msgctxt "VSearcher#35"
+msgid "Note"
+msgstr "ノート"
+
+#: VSearcher%2336
+msgid "Folder"
+msgstr "フォルダ"
+
+#: VSearcher%2337
+msgid "Notebook"
+msgstr "ノートブック"
+
+#: VSearcher%2338
+msgid "Note/Folder/Notebook"
+msgstr "ノート/フォルダ/ノートブック"
+
+#: VSearcher%2339
+msgid "Internal"
+msgstr "Internal"
+
+#: VSearcher%2340
+msgid "Search started."
+msgstr "検索開始。"
+
+#: VSearcher%2341
+msgid "Search current note %1."
+msgstr "現在のノート%1を検索します。"
+
+#: VSearcher%2342
+msgid "Search current folder %1."
+msgstr "現在のフォルダ%1を検索します。"
+
+#: VSearcher%2343
+msgid "Search current notebook %1."
+msgstr "現在のノートブック%1を検索します。"
+
+#: VSearcher%2344
+msgid "Search Explorer directory %1."
+msgstr "エクスプローラディレクトリ%1を検索します。"
+
+#: VSearcher%2345
+msgid "Search is on going."
+msgstr "検索は進行中です。"
+
+#: VSearcher%2346
+msgid "Search succeeded."
+msgstr "検索が成功しました。"
+
+#: VSearcher%2347
+msgid "Search failed."
+msgstr "検索に失敗しました。"
+
+#: VSearcher%2348
+msgctxt "VSearcher#48"
+msgid "Warning"
+msgstr "警告"
+
+#: VSearcher%2349
+msgid "User cancelled the search. Aborted!"
+msgstr "ユーザーにより検索がキャンセルされました。中止しました!"
+
+#: VSearcher%2350
+msgid "Errors found during search."
+msgstr "検索中にエラーが検出されました。"
+
+#: VSearcher%2351
+msgid "%1 Items"
+msgstr "%1項目"
+
+#: VSelectDialog%231
+msgctxt "VSelectDialog#1"
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: VSettingsDialog%231
+msgid "Reset VNote"
+msgstr "VNoteをリセット"
+
+#: VSettingsDialog%232
+msgid "Reset all the configurations of VNote"
+msgstr "VNoteのすべての設定をリセットします。"
+
+#: VSettingsDialog%233
+msgid "Reset Layout"
+msgstr "レイアウトをリセット"
+
+#: VSettingsDialog%234
+msgid "Reset layout of VNote"
+msgstr "VNoteのレイアウトをリセット"
+
+#: VSettingsDialog%235
+msgctxt "VSettingsDialog#5"
+msgid "Settings"
+msgstr "設定"
+
+#: VSettingsDialog%236
+msgid "General"
+msgstr "一般"
+
+#: VSettingsDialog%237
+msgid "Appearance"
+msgstr "外観"
+
+#: VSettingsDialog%238
+msgid "Read/Edit"
+msgstr "読み取り/編集"
+
+#: VSettingsDialog%239
+msgid "Note Management"
+msgstr "ノート管理"
+
+#: VSettingsDialog%2310
+msgctxt "VSettingsDialog#10"
+msgid "Markdown"
+msgstr "Markdown"
+
+#: VSettingsDialog%2311
+msgid "Misc"
+msgstr "その他"
+
+#: VSettingsDialog%2312
+msgctxt "VSettingsDialog#12"
+msgid "Warning"
+msgstr "警告"
+
+#: VSettingsDialog%2313
+msgid "Are you sure to reset VNote?"
+msgstr "VNoteをリセットしますか?"
+
+#: VSettingsDialog%2314
+msgid ""
+"All configurations (except notebooks information) will be reset to default "
+"values. It is UNRECOVERABLE!"
+msgstr "すべての構成(ノートブック情報を除く)は、既定値にリセットされます。復旧できません!"
+
+#: VSettingsDialog%2315
+msgctxt "VSettingsDialog#15"
+msgid "Information"
+msgstr "情報"
+
+#: VSettingsDialog%2316
+msgid "Please restart VNote to make it work."
+msgstr "有効にするには、VNoteを再起動してください。"
+
+#: VSettingsDialog%2317
+msgid "Any change to VNote before restart will be lost!"
+msgstr "再起動前のVNoteへの変更は失われます!"
+
+#: VSettingsDialog%2318
+msgid "Are you sure to reset the layout of VNote?"
+msgstr "VNoteのレイアウトをリセットしてもよろしいですか?"
+
+#: VSettingsDialog%2319
+msgid "The view and layout mode will be reset. It is UNRECOVERABLE!"
+msgstr "ビューとレイアウトモードがリセットされます。復旧できません!"
+
+#: VSettingsDialog%2320
+msgid "Fail to load configuration."
+msgstr "設定のロードに失敗しました。"
+
+#: VSettingsDialog%2321
+msgid "Fail to save configuration. Please try it again."
+msgstr "設定を保存できません。もう一度試してみてください。"
+
+#: VSimpleSearchInput%231
+msgid "Type to search"
+msgstr "検索するタイプ"
+
+#: VSimpleSearchInput%232
+msgid "%1/%2"
+msgstr "%1/%2"
+
+#: VSnippetList%231
+msgid "New Snippet"
+msgstr "新しいスニペット"
+
+#: VSnippetList%232
+msgctxt "VSnippetList#2"
+msgid "Open Folder"
+msgstr "フォルダを開く"
+
+#: VSnippetList%233
+msgid "Magic words are supported in the content of the snippet."
+msgstr "マジックワードは、スニペットのコンテンツでサポートされています。"
+
+#: VSnippetList%234
+msgid "Create Snippet"
+msgstr "スニペットを作成"
+
+#: VSnippetList%235
+msgctxt "VSnippetList#5"
+msgid "Warning"
+msgstr "警告"
+
+#: VSnippetList%236
+msgid "Fail to create snippet <span style=\"%1\">%2</span>."
+msgstr "スニペット<span style=\"%1\">%2</span>の作成に失敗しました。"
+
+#: VSnippetList%237
+msgid "&Apply"
+msgstr "適用(&A)"
+
+#: VSnippetList%238
+msgid "Insert this snippet in editor"
+msgstr "このスニペットをエディタに挿入する"
+
+#: VSnippetList%239
+msgctxt "VSnippetList#9"
+msgid "&Info (Rename)\t%1"
+msgstr "情報(名前変更)(&I)          %1"
+
+#: VSnippetList%2310
+msgid "View and edit snippet's information"
+msgstr "スニペットの情報を表示および編集する"
+
+#: VSnippetList%2311
+msgctxt "VSnippetList#11"
+msgid "&Delete"
+msgstr "削除(&D)"
+
+#: VSnippetList%2312
+msgid "Delete selected snippets"
+msgstr "選択されたスニペットを削除"
+
+#: VSnippetList%2313
+msgctxt "VSnippetList#13"
+msgid "&Sort"
+msgstr "整列(&S)"
+
+#: VSnippetList%2314
+msgid "Sort snippets manually"
+msgstr "スニペットを手動でソートする"
+
+#: VSnippetList%2315
+msgid "Are you sure to delete these snippets?"
+msgstr "これらのスニペットを削除しますか?"
+
+#: VSnippetList%2316
+msgctxt "VSnippetList#16"
+msgid "Click \"Cancel\" to leave them untouched."
+msgstr "\"キャンセル\"をクリックすると、そのままにします。"
+
+#: VSnippetList%2317
+msgid "Confirm Deleting Snippets"
+msgstr "スニペットを削除する"
+
+#: VSnippetList%2318
+msgid "Fail to delete snippets."
+msgstr "スニペットを削除できません。"
+
+#: VSnippetList%2319
+msgid "Sort Snippets"
+msgstr "スニペットをソート"
+
+#: VSnippetList%2320
+msgid "Sort snippets in the configuration file."
+msgstr "構成ファイル内のスニペットをソートします。"
+
+#: VSnippetList%2321
+msgctxt "VSnippetList#21"
+msgid "Name"
+msgstr "名前"
+
+#: VSnippetList%2322
+msgid "Fail to sort snippets."
+msgstr "スニペットのソートに失敗しました。"
+
+#: VSnippetList%2323
+msgid "Snippet Information"
+msgstr "スニペット情報"
+
+#: VSnippetList%2324
+msgid "Fail to write snippets configuration file."
+msgstr "スニペット設定ファイルの書き込みに失敗しました。"
+
+#: VSnippetList%2325
+msgid "Fail to update information of snippet <span style=\"%1\">%2</span>."
+msgstr "スニペット<span style=\"%1\">%2</span>の情報を更新できません。"
+
+#: VSnippetList%2326
+msgid "Fail to add write the snippet file %1."
+msgstr "スニペットファイル%1の書き込みを追加できません。"
+
+#: VSnippetList%2327
+msgid "Fail to remove snippet file %1."
+msgstr "スニペットファイル%1の削除に失敗しました。"
+
+#: VSnippetList%2328
+msgctxt "VSnippetList#28"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: VSnippetList%2329
+msgctxt "VSnippetList#29"
+msgid "Items"
+msgstr "項目"
+
+#: VSnippetList%2330
+msgctxt "VSnippetList#30"
+msgid "Item"
+msgstr "項目"
+
+#: VSnippetList%2331
+msgid "Fail to read snippets from <span style=\"%1\">%2</span>."
+msgstr "<span style=\"%1\">%2</span>からスニペットを読み取ることができません。"
+
+#: VSortDialog%231
+msgid "&Top"
+msgstr "最上部(&T)"
+
+#: VSortDialog%232
+msgid "Move selected items to top"
+msgstr "選択したアイテムを最上部へ移動"
+
+#: VSortDialog%233
+msgid "&Up"
+msgstr "上へ(&U)"
+
+#: VSortDialog%234
+msgid "Move selected items up"
+msgstr "選択したアイテムを上へ移動"
+
+#: VSortDialog%235
+msgid "&Down"
+msgstr "下へ(&D)"
+
+#: VSortDialog%236
+msgid "Move selected items down"
+msgstr "選択したアイテムを下へ移動"
+
+#: VSortDialog%237
+msgid "&Bottom"
+msgstr "最下部(&B)"
+
+#: VSortDialog%238
+msgid "Move selected items to bottom"
+msgstr "選択したアイテム最下部へ移動"
+
+#: VTabIndicator%231
+msgid "The type of the file"
+msgstr "ファイルの種類"
+
+#: VTabIndicator%232
+msgid "ReadOnly"
+msgstr "読み込み専用"
+
+#: VTabIndicator%233
+msgid "This file is read-only"
+msgstr "このファイルは読み込み専用です"
+
+#: VTabIndicator%234
+msgid "Standalone"
+msgstr "スタンドアロン"
+
+#: VTabIndicator%235
+msgid "This file is not managed by any notebook or folder"
+msgstr "このファイルは、任意のノートブックまたはフォルダでは管理されません"
+
+#: VTabIndicator%236
+msgctxt "VTabIndicator#6"
+msgid "System"
+msgstr "システム"
+
+#: VTabIndicator%237
+msgid "This file is a system file"
+msgstr "このファイルはシステムファイルです。"
+
+#: VTabIndicator%238
+msgid "[W]"
+msgstr "[W]"
+
+#: VTabIndicator%239
+msgid "Word Count Information"
+msgstr "ワードカウント情報"
+
+#: VTabIndicator%2310
+msgid "Line: %1 - %2(%3%)   Col: %4"
+msgstr "行: %1 -%2(%3%) %4 文字目"
+
+#: VTabIndicator%2311
+msgid "[%1]%2"
+msgstr "[%1]%2"
+
+#: VTabIndicator%2312
+msgid "C"
+msgstr "C"
+
+#: VTabIndicator%2313
+msgid "W"
+msgstr "W"
+
+#: VTagExplorer%231
+msgctxt "VTagExplorer#1"
+msgid "Tags"
+msgstr "タグ"
+
+#: VTagExplorer%232
+msgctxt "VTagExplorer#2"
+msgid "Notes"
+msgstr "ノート"
+
+#: VTagExplorer%233
+msgctxt "VTagExplorer#3"
+msgid "Split"
+msgstr "分割"
+
+#: VTagExplorer%234
+msgid "Tags (%1)"
+msgstr "タグ(%1)"
+
+#: VTagExplorer%235
+msgid "Notes (%1)"
+msgstr "ノート(%1)"
+
+#: VTagExplorer%236
+msgid "Searching for tag \"%1\""
+msgstr "タグ\"%1\"を検索しています"
+
+#: VTagExplorer%237
+msgid "Invalid busy state when searching for tag"
+msgstr "タグを検索するときに無効なビジー状態です"
+
+#: VTagExplorer%238
+msgid "Search for tag succeeded"
+msgstr "タグの検索に成功しました"
+
+#: VTagExplorer%239
+msgid "Search for tag failed"
+msgstr "タグの検索に失敗しました"
+
+#: VTagExplorer%2310
+msgid "Search for tag calcelled"
+msgstr "タグの検索をキャンセルしました"
+
+#: VTagExplorer%2311
+msgctxt "VTagExplorer#11"
+msgid "&Open"
+msgstr "開く(&O)"
+
+#: VTagExplorer%2312
+msgctxt "VTagExplorer#12"
+msgid "Open selected notes"
+msgstr "選択されたノートを開く"
+
+#: VTagExplorer%2313
+msgctxt "VTagExplorer#13"
+msgid "&Locate To Folder"
+msgstr "フォルダへ移動(&L)"
+
+#: VTagExplorer%2314
+msgctxt "VTagExplorer#14"
+msgid "Locate the folder of current note"
+msgstr "現在のノートのフォルダを指定します。"
+
+#: VTagExplorer%2315
+msgctxt "VTagExplorer#15"
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+#: VTagExplorer%2316
+msgctxt "VTagExplorer#16"
+msgid "Add selected notes to Cart for further processing"
+msgstr "追加処理のために、選択したノートをカートに追加します"
+
+#: VTagExplorer%2317
+msgctxt "VTagExplorer#17"
+msgid "Pin To History"
+msgstr "履歴に固定"
+
+#: VTagExplorer%2318
+msgctxt "VTagExplorer#18"
+msgid "Pin selected notes to History"
+msgstr "選択したノートを履歴に固定します"
+
+#: VTagExplorer%2319
+msgctxt "VTagExplorer#19"
+msgid "%1 %2 added to Cart"
+msgstr "%1カートに%2が追加されました"
+
+#: VTagExplorer%2320
+msgctxt "VTagExplorer#20"
+msgid "notes"
+msgstr "ノート"
+
+#: VTagExplorer%2321
+msgctxt "VTagExplorer#21"
+msgid "note"
+msgstr "ノート"
+
+#: VTagExplorer%2322
+msgctxt "VTagExplorer#22"
+msgid "%1 %2 pinned to History"
+msgstr "%1 %2は履歴に固定されています"
+
+#: VTagExplorer%2323
+msgctxt "VTagExplorer#23"
+msgid "Warning"
+msgstr "警告"
+
+#: VTagExplorer%2324
+msgid "Empty tag detected! Do you want to remove it?"
+msgstr "空のタグが検出されました!削除しますか?"
+
+#: VTagExplorer%2325
+msgid ""
+"The tag <span style=\"%1\">%2</span> seems not to be assigned to any note "
+"currently."
+msgstr "タグ<span style=\"%1\">%2</span>は現在、どのノートにも割り当てられていません。"
+
+#: VTagLabel%231
+msgid "Remove"
+msgstr "削除"
+
+#: VTagPanel%231
+msgid "View and edit tags of current note"
+msgstr "現在のノートのタグを表示および編集する"
+
+#: VTagPanel%232
+msgid "Press Enter to add a tag"
+msgstr "[Enter]を押してタグを追加する"
+
+#: VTagPanel%233
+msgid "Add a tag"
+msgstr "タグを追加する"
+
+#: VTagPanel%234
+msgid "Tag \"%1\" added"
+msgstr "タグ\"%1\"が追加されました"
+
+#: VTagPanel%235
+msgid "Tag \"%1\" removed"
+msgstr "タグ\"%1\"は削除されました"
+
+#: VTipsDialog%231
+msgid "VNote Tips"
+msgstr "VNoteのヒント"
+
+#: VUniversalEntry%231
+msgid "Universal Entry, reach anything by typing"
+msgstr "ユニバーサルエントリ、入力することで何かに到達する"
+
+#: VUpdater%231
+msgid "Current Version: v%1"
+msgstr "現在のバージョン:v%1"
+
+#: VUpdater%232
+msgid "Checking for updates..."
+msgstr "更新を確認しています."
+
+#: VUpdater%233
+msgid "VNote Update"
+msgstr "VNoteアップデート"
+
+#: VUpdater%234
+msgid ""
+":( Fail to check for updates.\n"
+"Please try it later."
+msgstr ""
+":(更新を確認できませんでした。\n"
+"後で試してみてください。"
+
+#: VUpdater%235
+msgid ""
+"Current Version: v%1\n"
+"Latest Version: v%2"
+msgstr "現在のバージョン:v%1 最新バージョン:v%2"
+
+#: VUpdater%236
+msgid ""
+"<span style=\"font-weight: bold;\">Updates Available!</span><br/>Please "
+"visit <a href=\"%1\">GitHub Releases</a> to download the latest version."
+msgstr ""
+"<span style=\"font-weight: bold;\">更新版があります!</span><br/><br/><br/><a href=\"%"
+"1\">GitHub Releases</a>から最新版をダウンロードしてください。"
+
+#: VUpdater%237
+msgid "VNote is already the latest version."
+msgstr "VNoteは既に最新バージョンです。"
+
+#: VVim%231
+msgid "%1 %2 changed"
+msgstr "%1%2が変更されました"
+
+#: VVim%232
+msgid "lines"
+msgstr "lines"
+
+#: VVim%233
+msgid "line"
+msgstr "line"
+
+#: VVim%234
+msgid "Mark not set"
+msgstr "Mark not set"
+
+#: VVim%235
+msgid "%1 fewer %2"
+msgstr "%1 fewer %2"
+
+#: VVim%236
+msgid "%1 %2 yanked"
+msgstr "%1 %2 yanked"
+
+#: VVim%237
+msgid "%1 more %2"
+msgstr "%1 more %2"
+
+#: VVim%238
+msgid "%1 %2 %3ed 1 time"
+msgstr "%1 %2 %3ed 1 time"
+
+#: VVim%239
+msgid "Undo %1 %2"
+msgstr "Undo %1 %2"
+
+#: VVim%2310
+msgid "changes"
+msgstr "changes"
+
+#: VVim%2311
+msgid "change"
+msgstr "change"
+
+#: VVim%2312
+msgid "Redo %1 %2"
+msgstr "Redo %1 %2"
+
+#: VVim%2313
+msgid "Mark has invalid line number"
+msgstr "マークに無効な行番号があります"
+
+#: VVim%2314
+msgid "Note has been saved"
+msgstr "保存されました"
+
+#: VVim%2315
+msgctxt "VVim#15"
+msgid "Quit"
+msgstr "終了"
+
+#: VVim%2316
+msgid "Quit with note having been saved"
+msgstr "ノートを保存して終了します"
+
+#: VVim%2317
+msgctxt "VVim#17"
+msgid "Not an editor command: %1"
+msgstr "エディタのコマンドではありません:%1"
+
+#: VVimIndicator%231
+msgid "Register"
+msgstr "Register"
+
+#: VVimIndicator%232
+msgid "Value"
+msgstr "Value"
+
+#: VVimIndicator%233
+msgid "Registers"
+msgstr "Registers"
+
+#: VVimIndicator%234
+msgid "Mark"
+msgstr "Mark"
+
+#: VVimIndicator%235
+msgid "Line"
+msgstr "Line"
+
+#: VVimIndicator%236
+msgid "Column"
+msgstr "Column"
+
+#: VVimIndicator%237
+msgid "Text"
+msgstr "Text"
+
+#: VVimIndicator%238
+msgid "Marks"
+msgstr "Marks"
+
+#: VVimIndicator%239
+msgctxt "VVimIndicator#9"
+msgid "Normal"
+msgstr "通常"
+
+#: VVimIndicator%2310
+msgid "Insert"
+msgstr "Insert"
+
+#: VVimIndicator%2311
+msgid "Visual"
+msgstr "Visual"
+
+#: VVimIndicator%2312
+msgid "VisualLine"
+msgstr "VisualLine"
+
+#: VVimIndicator%2313
+msgctxt "VVimIndicator#13"
+msgid "Replace"
+msgstr "置換"
+
+#: VVimIndicator%2314
+msgid "Unknown"
+msgstr "Unknown"
+
+#: VWebView%231
+msgid "Expand/Restore Preview Area"
+msgstr "プレビュー領域の展開/復元"
+
+#: VWebView%232
+msgctxt "VWebView#2"
+msgid "&Edit"
+msgstr "編集(&E)"
+
+#: VWebView%233
+msgctxt "VWebView#3"
+msgid "Edit current note"
+msgstr "現在のノートを編集"
+
+#: VWebView%234
+msgid "Copy As"
+msgstr "Copy As"
+
+#: VWebView%235
+msgid "Copy selected content using rules specified by target %1"
+msgstr "ターゲット%1で指定されたルールを使用して選択されたコンテンツをコピーします"
+
+#: VWebView%236
+msgid "Copy All As"
+msgstr "すべてコピー"
+
+#: VWebView%237
+msgid "Copy all content using rules specified by target %1"
+msgstr "ターゲット%1で指定されたルールを使用してすべてのコンテンツをコピーします"
+
+#: VWebView%238
+msgid "Live Preview Tunnel"
+msgstr "ライブプレビュートンネル"
+
+#: VWebView%239
+msgctxt "VWebView#9"
+msgid "Disabled"
+msgstr "無効"
+
+#: VWebView%2310
+msgid "Editor -> Preview"
+msgstr "エディタ->プレビュー"
+
+#: VWebView%2311
+msgid "Preview -> Editor"
+msgstr "プレビュー->エディタ(Preview->Editor)"
+
+#: VWebView%2312
+msgid "Bidirectional"
+msgstr "双方向"
+
+#: VWordCountPanel%231
+msgid "Words"
+msgstr "単語"
+
+#: VWordCountPanel%232
+msgid "Characters (no spaces)"
+msgstr "文字(空白ふくまず)"
+
+#: VWordCountPanel%233
+msgid "Characters (with spaces)"
+msgstr "文字(空白ふくむ)"
+
+#: VWordCountPanel%234
+msgid "Read"
+msgstr "読み取り"
+
+#: VWordCountPanel%235
+msgctxt "VWordCountPanel#5"
+msgid "Edit"
+msgstr "編集"
+
+#: VWordCountPanel%236
+msgid "Word Count"
+msgstr "ワード数"
