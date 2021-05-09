@@ -62,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;Copy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055841Z" creationid="miurahr" creationdate="20210509T055841Z">
+        <seg>コピー(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Delete</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050144Z" creationid="miurahr" creationdate="20210509T050144Z">
         <seg>削除(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Delete From Recycle Bin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055933Z" creationid="miurahr" creationdate="20210509T055933Z">
+        <seg>ごみ箱から削除(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;Empty</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055910Z" creationid="miurahr" creationdate="20210509T055910Z">
+        <seg>ごみ箱を空にする(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Expand All	*</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060026Z" creationid="miurahr" creationdate="20210509T060026Z">
+        <seg>全て展開(&amp;E)	*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Forward</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045347Z" creationid="miurahr" creationdate="20210509T045347Z">
         <seg>進む(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Import To Index</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060005Z" creationid="miurahr" creationdate="20210509T060005Z">
+        <seg>インデックスに読み込む(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;Manage Notebooks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055433Z" creationid="miurahr" creationdate="20210509T055433Z">
+        <seg>ノートブックの管理(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Open</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050142Z" creationid="miurahr" creationdate="20210509T050136Z">
@@ -102,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;Paste</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055900Z" creationid="miurahr" creationdate="20210509T055900Z">
+        <seg>貼り付け(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Properties</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050153Z" creationid="miurahr" creationdate="20210509T050153Z">
         <seg>設定(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Properties (Rename)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055823Z" creationid="miurahr" creationdate="20210509T055823Z">
+        <seg>プロパティ(名前変更)(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +186,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045350Z" creationid="miurahr" creationdate="20210509T045350Z">
         <seg>再読み込み(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Remove From Index</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055939Z" creationid="miurahr" creationdate="20210509T055939Z">
+        <seg>インデックスから削除(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Sort</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055944Z" creationid="miurahr" creationdate="20210509T055944Z">
+        <seg>整列(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +226,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050253Z" creationid="miurahr" creationdate="20210509T050253Z">
         <seg>単語全体のみ(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;b&gt;%1&lt;/b&gt;: %2&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055631Z" creationid="miurahr" creationdate="20210509T055631Z">
+        <seg>&lt;b&gt;%1&lt;/b&gt;: %2&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;b&gt;Notebook Root Folder&lt;/b&gt; is the folder containing all data of one notebook in %1.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055657Z" creationid="miurahr" creationdate="20210509T055657Z">
+        <seg>&lt;b&gt;ノートブックルートフォルダ&lt;/b&gt;は %1 内の1つのノートブックのすべてのデータを含むフォルダです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -272,6 +368,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Advanced Information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055701Z" creationid="miurahr" creationdate="20210509T055701Z">
+        <seg>詳細情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All files in recycle bin will be deleted permanently.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055919Z" creationid="miurahr" creationdate="20210509T055919Z">
+        <seg>ごみ箱内のすべてのファイルが完全に削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allow HTML tags in source</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054618Z" creationid="miurahr" creationdate="20210509T054618Z">
@@ -352,6 +464,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Backend of notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055736Z" creationid="miurahr" creationdate="20210509T055736Z">
+        <seg>ノートブックのバックエンド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Backend:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055711Z" creationid="miurahr" creationdate="20210509T055711Z">
+        <seg>バックエンド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Backup File</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045628Z" creationid="miurahr" creationdate="20210509T045628Z">
@@ -364,6 +492,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054936Z" creationid="miurahr" creationdate="20210509T054936Z">
         <seg>編集モードでセクション番号付けを開始するベースレベル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basic Information</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055600Z" creationid="miurahr" creationdate="20210509T055600Z">
+        <seg>基本情報</seg>
       </tuv>
     </tu>
     <tu>
@@ -388,6 +524,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T052524Z" creationid="miurahr" creationdate="20210509T045330Z">
         <seg>ノートブックのバンドル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>C&amp;ut</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055855Z" creationid="miurahr" creationdate="20210509T055855Z">
+        <seg>切り取り(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,6 +592,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Configuration manager of notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055722Z" creationid="miurahr" creationdate="20210509T055722Z">
+        <seg>ノートブックの設定マネージャ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configuration manager:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055708Z" creationid="miurahr" creationdate="20210509T055708Z">
+        <seg>設定マネージャ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm Deletion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060131Z" creationid="miurahr" creationdate="20210509T060131Z">
+        <seg>削除の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm Removal</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060150Z" creationid="miurahr" creationdate="20210509T060150Z">
+        <seg>削除の確認</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Constrain image width</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054600Z" creationid="miurahr" creationdate="20210509T054600Z">
@@ -496,6 +672,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copied &lt;x1/&gt; item(s)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060031Z" creationid="miurahr" creationdate="20210509T060031Z">
+        <seg>コピーされた&lt;x1/&gt;アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copied path: %1</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050225Z" creationid="miurahr" creationdate="20210509T050225Z">
@@ -516,6 +700,38 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053410Z" creationid="miurahr" creationdate="20210509T045851Z">
         <seg>エクスポートされたファイルの内容をコピーする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not create folder within Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055451Z" creationid="miurahr" creationdate="20210509T055451Z">
+        <seg>ごみ箱内にフォルダを作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Could not create note within Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055459Z" creationid="miurahr" creationdate="20210509T055459Z">
+        <seg>ごみ箱内にノートを作成できませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create note under an upper level node</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055359Z" creationid="miurahr" creationdate="20210509T055359Z">
+        <seg>上位ノードの下にノートを作成する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Created Time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060257Z" creationid="miurahr" creationdate="20210509T060257Z">
+        <seg>作成日時</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,6 +832,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete these folders and notes permanently?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060108Z" creationid="miurahr" creationdate="20210509T060050Z">
+        <seg>これらのフォルダとメモを完全に削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete these folders and notes?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060127Z" creationid="miurahr" creationdate="20210509T060113Z">
+        <seg>これらのフォルダとメモを削除しますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleted files could be found here.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055743Z" creationid="miurahr" creationdate="20210509T055743Z">
+        <seg>削除されたファイルはここにあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deleted files could be found in the recycle bin of notebook.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060129Z" creationid="miurahr" creationdate="20210509T060129Z">
+        <seg>削除されたファイルはノートブックのごみ箱にあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deleted images could be found in the recycle bin of notebook if it is from a bundle notebook.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055020Z" creationid="miurahr" creationdate="20210509T055020Z">
@@ -624,10 +872,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deleted/Removed &lt;x1/&gt; item(s)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060147Z" creationid="miurahr" creationdate="20210509T060147Z">
+        <seg>&lt;x1/&gt;アイテムが削除された</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description of notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055612Z" creationid="miurahr" creationdate="20210509T055612Z">
+        <seg>ノートブックの説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055614Z" creationid="miurahr" creationdate="20210509T055614Z">
+        <seg>説明:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desktop</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050410Z" creationid="miurahr" creationdate="20210509T050410Z">
         <seg>デスクトップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destination is detected in sources (%1).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060035Z" creationid="miurahr" creationdate="20210509T060035Z">
+        <seg>宛先がソース(%1)で検出されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,6 +992,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Empty the recycle bin of this notebook?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055914Z" creationid="miurahr" creationdate="20210509T055914Z">
+        <seg>このノートブックのごみ箱を空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter WhatsThis mode and click somewhere to show help information</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054141Z" creationid="miurahr" creationdate="20210509T054123Z">
@@ -768,6 +1056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>External Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055436Z" creationid="miurahr" creationdate="20210509T055436Z">
+        <seg>外部ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>F&amp;ull Screen</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050337Z" creationid="miurahr" creationdate="20210509T050337Z">
@@ -804,6 +1100,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054224Z" creationid="miurahr" creationdate="20210509T054224Z">
         <seg>ノートブック(%1)を閉じることができませんでした</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to copy source (%1) to destination (%2) (%3).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060044Z" creationid="miurahr" creationdate="20210509T060044Z">
+        <seg>コピー元(%1)をコピー先(%2)(%3)にコピーできませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,6 +1168,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to delete/remove item (%1) (%2) (%3).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060133Z" creationid="miurahr" creationdate="20210509T060133Z">
+        <seg>アイテム(%1)(%2)(%3)の削除/削除に失敗しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to empty recycle bin (%1) (%2).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055926Z" creationid="miurahr" creationdate="20210509T055926Z">
+        <seg>ごみ箱(%1)(%2)を空にできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to export file (%1)</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T052751Z" creationid="miurahr" creationdate="20210509T050102Z">
@@ -896,6 +1216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed to load nodes of notebook (%1) (%2).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055740Z" creationid="miurahr" creationdate="20210509T055740Z">
+        <seg>ノートブック(%1)(%2)のノードをロードできませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed to recognize a legacy notebook from the root folder.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053457Z" creationid="miurahr" creationdate="20210509T053457Z">
@@ -916,6 +1244,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050336Z" creationid="miurahr" creationdate="20210509T050336Z">
         <seg>Failed to save folder (%1) in (%2) (%3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed to save note (%1) in (%2) (%3).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055406Z" creationid="miurahr" creationdate="20210509T055406Z">
+        <seg>ノート(%1)を(%2)(%3)に保存できませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,10 +1352,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Files are not touched but just removed from notebook index.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060217Z" creationid="miurahr" creationdate="20210509T060211Z">
+        <seg>ファイルには触れずに、ただインデックスから削除されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Files or folders to open.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053718Z" creationid="miurahr" creationdate="20210509T053718Z">
         <seg>開くファイルまたはフォルダ。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Files will be deleted permanently and could not be found even in operating system's recycle bin.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060125Z" creationid="miurahr" creationdate="20210509T060111Z">
+        <seg>ファイルは永久に削除され、オペレーティングシステムのごみ箱にもはいりません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,6 +1544,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Icon:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055611Z" creationid="miurahr" creationdate="20210509T055611Z">
+        <seg>アイコン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to import existing data, please try other operations.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055218Z" creationid="miurahr" creationdate="20210509T055218Z">
@@ -1212,6 +1572,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053947Z" creationid="miurahr" creationdate="20210509T053947Z">
         <seg>インポートとエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import External Files When Activated</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055447Z" creationid="miurahr" creationdate="20210509T055447Z">
+        <seg>アクティブ時に外部ファイルをインポート</seg>
       </tuv>
     </tu>
     <tu>
@@ -1432,10 +1800,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Invalid clipboard data to paste.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060033Z" creationid="miurahr" creationdate="20210509T060033Z">
+        <seg>貼り付けるクリップボードデータが無効です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invalid node (%1).</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060306Z" creationid="miurahr" creationdate="20210509T060306Z">
+        <seg>無効なノード(%1)です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is dangerous since it will bypass system's recycle bin!</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054242Z" creationid="miurahr" creationdate="20210509T054242Z">
         <seg>システムのごみ箱を迂回するので危険です!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is organized in folders named by date.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055745Z" creationid="miurahr" creationdate="20210509T055745Z">
+        <seg>日付順のフォルダに整理されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1500,6 +1892,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053803Z" creationid="miurahr" creationdate="20210509T053803Z">
         <seg>ロケーションリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Location of recycle bin: %1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055922Z" creationid="miurahr" creationdate="20210509T055922Z">
+        <seg>ごみ箱の場所: %1</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,10 +1992,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Modified Time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060303Z" creationid="miurahr" creationdate="20210509T060303Z">
+        <seg>最終変更日時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Modified time:</seg>
       </tuv>
-      <tuv lang="ja" changeid="miurahr" changedate="20210509T055312Z" creationid="miurahr" creationdate="20210509T055312Z">
-        <seg>Modified time:</seg>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055346Z" creationid="miurahr" creationdate="20210509T055312Z">
+        <seg>最終変更日時:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060253Z" creationid="miurahr" creationdate="20210509T060253Z">
+        <seg>名前</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,6 +2032,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Name of notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055609Z" creationid="miurahr" creationdate="20210509T055609Z">
+        <seg>ノートブックの名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050117Z" creationid="miurahr" creationdate="20210509T050117Z">
@@ -1628,6 +2052,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053757Z" creationid="miurahr" creationdate="20210509T053757Z">
         <seg>ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New &amp;Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055815Z" creationid="miurahr" creationdate="20210509T055815Z">
+        <seg>新規フォルダ(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1652,6 +2084,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045423Z" creationid="miurahr" creationdate="20210509T045423Z">
         <seg>新規フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New N&amp;ote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055810Z" creationid="miurahr" creationdate="20210509T055810Z">
+        <seg>新規ノート(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1684,6 +2124,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055036Z" creationid="miurahr" creationdate="20210509T055036Z">
         <seg>背景なし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nodes could be moved to other folders by Cut and Paste.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055749Z" creationid="miurahr" creationdate="20210509T055749Z">
+        <seg>ノードは、[切り取り]と[貼り付け]によって他のフォルダに移動できます。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +2186,18 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Notebook: %1
+Root folder: %2
+Description: %3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060317Z" creationid="miurahr" creationdate="20210509T060317Z">
+        <seg>ノートブック:%1
+ルートフォルダ:%2
+説明:%3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notebooks</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053806Z" creationid="miurahr" creationdate="20210509T053806Z">
@@ -1758,6 +2218,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055040Z" creationid="miurahr" creationdate="20210509T055040Z">
         <seg>OneNote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open &amp;Location</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055833Z" creationid="miurahr" creationdate="20210509T055824Z">
+        <seg>場所を開く(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1834,6 +2302,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operation is cancelled.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060038Z" creationid="miurahr" creationdate="20210509T060038Z">
+        <seg>操作がキャンセルされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Others</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053403Z" creationid="miurahr" creationdate="20210509T045601Z">
@@ -1882,6 +2358,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pasted &lt;x1/&gt; item(s)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060105Z" creationid="miurahr" creationdate="20210509T060047Z">
+        <seg>&lt;x1/&gt;アイテムを貼り付けた</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Path</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053648Z" creationid="miurahr" creationdate="20210509T053648Z">
@@ -1890,10 +2374,26 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Path of notebook root folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055634Z" creationid="miurahr" creationdate="20210509T055634Z">
+        <seg>ノートブックのルートフォルダのパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please check if all the files are intact or reinstall the application.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053752Z" creationid="miurahr" creationdate="20210509T053744Z">
         <seg>すべてのファイルが正常かどうかを確認するか、アプリケーションを再インストールしてください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please check if the node exists on the disk.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060309Z" creationid="miurahr" creationdate="20210509T060309Z">
+        <seg>ノードがディスク上に存在するかどうかを確認してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +2410,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053000Z" creationid="miurahr" creationdate="20210509T045644Z">
         <seg>Hunspellの辞書をダウンロードして(%1)の下に置き、VNoteを再起動してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please first create a notebook to hold your data.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055501Z" creationid="miurahr" creationdate="20210509T055501Z">
+        <seg>まず、データを保持するノートブックを作成してください。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2082,10 +2590,50 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055951Z" creationid="miurahr" creationdate="20210509T055951Z">
+        <seg>再ロード(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054555Z" creationid="miurahr" creationdate="20210509T054555Z">
         <seg>読み取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recycle Bin</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055750Z" creationid="miurahr" creationdate="20210509T055750Z">
+        <seg>ごみ箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recycle bin of this notebook.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055742Z" creationid="miurahr" creationdate="20210509T055742Z">
+        <seg>このノートのごみ箱です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relo&amp;ad Index From Disk</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055959Z" creationid="miurahr" creationdate="20210509T055959Z">
+        <seg>ディスクからインデックスを再作成(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove these folders and notes from index?</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060153Z" creationid="miurahr" creationdate="20210509T060153Z">
+        <seg>これらのフォルダとメモをインデックスから削除しますか?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,6 +2726,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Root folder:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055616Z" creationid="miurahr" creationdate="20210509T055616Z">
+        <seg>ルートフォルダ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scaling width:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T051746Z" creationid="miurahr" creationdate="20210509T051746Z">
@@ -2242,6 +2798,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select Files To Import</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055504Z" creationid="miurahr" creationdate="20210509T055504Z">
+        <seg>インポートするファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select Image To Insert</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T051759Z" creationid="miurahr" creationdate="20210509T051759Z">
@@ -2266,6 +2830,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select one of all the notebooks as current notebook.&lt;br/&gt;Move mouse on one item to check its details.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055411Z" creationid="miurahr" creationdate="20210509T055411Z">
+        <seg>すべてのノートブックの1つを現在のノートブックとして選択します。&lt;br/&gt;1つの項目にマウスを移動して、その詳細を確認します。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select wkhtmltopdf Executable</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050016Z" creationid="miurahr" creationdate="20210509T050016Z">
@@ -2286,6 +2858,14 @@ Use the "Close" button if you just want to remove it from %2.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054144Z" creationid="miurahr" creationdate="20210509T054125Z">
         <seg>ショートカットヘルプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show External Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055439Z" creationid="miurahr" creationdate="20210509T055439Z">
+        <seg>外部ファイルを表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2926,30 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort Folders</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060227Z" creationid="miurahr" creationdate="20210509T060213Z">
+        <seg>フォルダの整列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort Notes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060232Z" creationid="miurahr" creationdate="20210509T060232Z">
+        <seg>ノートの整列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort nodes under %1 (%2) in the configuration file.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060240Z" creationid="miurahr" creationdate="20210509T060240Z">
+        <seg>設定ファイル内の%1(%2)以下のノードをソートします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Source</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045704Z" creationid="miurahr" creationdate="20210509T045704Z">
@@ -2366,6 +2970,38 @@ Use the "Close" button if you just want to remove it from %2.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045736Z" creationid="miurahr" creationdate="20210509T045736Z">
         <seg>ソース:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify backend of notebook.&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055738Z" creationid="miurahr" creationdate="20210509T055738Z">
+        <seg>ノートブックのバックエンドを指定してください。&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify configruation manager of notebook.&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055728Z" creationid="miurahr" creationdate="20210509T055728Z">
+        <seg>ノートブックの設定マネージャを指定してください。&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify the type of notebook.&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055629Z" creationid="miurahr" creationdate="20210509T055629Z">
+        <seg>ノートブックの種類を指定します。&lt;br/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Specify version control of notebook.&lt;br/&gt;</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055734Z" creationid="miurahr" creationdate="20210509T055734Z">
+        <seg>ノートブックのバージョン管理を指定します。&lt;br/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,10 +3110,26 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This title bar contains buttons and menu to manage notebooks and notes.</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055414Z" creationid="miurahr" creationdate="20210509T055414Z">
+        <seg>このタイトルバーには、ノートブックとノートを管理するためのボタンとメニューが含まれています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Title:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050454Z" creationid="miurahr" creationdate="20210509T050454Z">
         <seg>タイトル：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle Recycle Bin Node</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055426Z" creationid="miurahr" creationdate="20210509T055417Z">
+        <seg>ごみ箱ノードの切り替え</seg>
       </tuv>
     </tu>
     <tu>
@@ -2490,10 +3142,34 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type of notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055624Z" creationid="miurahr" creationdate="20210509T055624Z">
+        <seg>ノートブックの種類</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055605Z" creationid="miurahr" creationdate="20210509T055605Z">
+        <seg>種類:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unknown target format %1.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050057Z" creationid="miurahr" creationdate="20210509T050048Z">
         <seg>不明なターゲットフォーマット %1 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055350Z" creationid="miurahr" creationdate="20210509T055350Z">
+        <seg>上</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +3210,86 @@ Use the "Close" button if you just want to remove it from %2.</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T052545Z" creationid="miurahr" creationdate="20210509T045333Z">
         <seg>VNoteXノートブック設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Version control of notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055731Z" creationid="miurahr" creationdate="20210509T055731Z">
+        <seg>ノートブックのバージョン管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Version control:</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055710Z" creationid="miurahr" creationdate="20210509T055710Z">
+        <seg>バージョン管理:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055419Z" creationid="miurahr" creationdate="20210509T055416Z">
+        <seg>表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View By Configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055534Z" creationid="miurahr" creationdate="20210509T055526Z">
+        <seg>設定順に表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View By Created Time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055541Z" creationid="miurahr" creationdate="20210509T055541Z">
+        <seg>作成日時順の表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View By Created Time (Reversed)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055543Z" creationid="miurahr" creationdate="20210509T055543Z">
+        <seg>作成日時順の表示(逆順)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View By Modified Time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055549Z" creationid="miurahr" creationdate="20210509T055549Z">
+        <seg>変更日時順の表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View By Modified Time (Reversed)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055554Z" creationid="miurahr" creationdate="20210509T055554Z">
+        <seg>変更日時順の表示(逆順)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View By Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055530Z" creationid="miurahr" creationdate="20210509T055530Z">
+        <seg>名前順による表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View By Name (Reversed)</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055537Z" creationid="miurahr" creationdate="20210509T055537Z">
+        <seg>名前順による表示(逆順)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +3398,22 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[External] %1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055801Z" creationid="miurahr" creationdate="20210509T055801Z">
+        <seg>[外部] %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Invalid] %1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T055758Z" creationid="miurahr" creationdate="20210509T055758Z">
+        <seg>[無効] %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\1, \2 for back reference in regular expression</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T052849Z" creationid="miurahr" creationdate="20210509T050241Z">
@@ -2650,10 +3422,26 @@ Use the "Close" button if you just want to remove it from %2.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060251Z" creationid="miurahr" creationdate="20210509T060245Z">
+        <seg>フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>note</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055129Z" creationid="miurahr" creationdate="20210509T055129Z">
         <seg>ノート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>notebook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T060249Z" creationid="miurahr" creationdate="20210509T060245Z">
+        <seg>ノートブック</seg>
       </tuv>
     </tu>
     <tu>
