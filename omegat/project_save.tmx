@@ -536,6 +536,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061431Z" creationid="miurahr" creationdate="20210509T061431Z">
+        <seg>添付ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Save</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045620Z" creationid="miurahr" creationdate="20210509T045620Z">
@@ -612,6 +620,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055600Z" creationid="miurahr" creationdate="20210509T055600Z">
         <seg>基本情報</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061350Z" creationid="miurahr" creationdate="20210509T061350Z">
+        <seg>太字</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,6 +728,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Checked Todo List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061400Z" creationid="miurahr" creationdate="20210509T061400Z">
+        <seg>チェックされたToDoリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050330Z" creationid="miurahr" creationdate="20210509T050330Z">
@@ -764,6 +788,22 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054216Z" creationid="miurahr" creationdate="20210509T054216Z">
         <seg>ノートブック(%1)を閉じますか?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Code</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061402Z" creationid="miurahr" creationdate="20210509T061402Z">
+        <seg>コード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Code Block</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061404Z" creationid="miurahr" creationdate="20210509T061404Z">
+        <seg>コードブロック</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,6 +1200,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061446Z" creationid="miurahr" creationdate="20210509T061446Z">
+        <seg>無効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discard</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T061315Z" creationid="miurahr" creationdate="20210509T061315Z">
@@ -1308,6 +1356,14 @@
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055914Z" creationid="miurahr" creationdate="20210509T055914Z">
         <seg>このノートブックのごみ箱を空にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061443Z" creationid="miurahr" creationdate="20210509T061443Z">
+        <seg>有効</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +1914,14 @@ Backup file last modified time: %2</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Follow Configuration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061442Z" creationid="miurahr" creationdate="20210509T061442Z">
+        <seg>設定に従う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For advanced paste, try the "Rich Paste" and "Parse To Markdown And Paste" on the editor's context menu</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054308Z" creationid="miurahr" creationdate="20210509T054308Z">
@@ -1970,6 +2034,62 @@ Backup file last modified time: %2</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061324Z" creationid="miurahr" creationdate="20210509T061324Z">
+        <seg>見出し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heading 1</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061329Z" creationid="miurahr" creationdate="20210509T061329Z">
+        <seg>見出し1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heading 2</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061330Z" creationid="miurahr" creationdate="20210509T061330Z">
+        <seg>見出し2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heading 3</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061344Z" creationid="miurahr" creationdate="20210509T061331Z">
+        <seg>見出し3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heading 4</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061332Z" creationid="miurahr" creationdate="20210509T061332Z">
+        <seg>見出し4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heading 5</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061348Z" creationid="miurahr" creationdate="20210509T061332Z">
+        <seg>見出し5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heading 6</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061334Z" creationid="miurahr" creationdate="20210509T061334Z">
+        <seg>見出し6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054114Z" creationid="miurahr" creationdate="20210509T054114Z">
@@ -2022,6 +2142,14 @@ Backup file last modified time: %2</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T055218Z" creationid="miurahr" creationdate="20210509T055218Z">
         <seg>既存のデータをインポートする場合は、他の操作を試してください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061424Z" creationid="miurahr" creationdate="20210509T061424Z">
+        <seg>画像</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2474,14 @@ Backup file last modified time: %2</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061352Z" creationid="miurahr" creationdate="20210509T061352Z">
+        <seg>イタリック体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keyword:</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T060413Z" creationid="miurahr" creationdate="20210509T060413Z">
@@ -2406,6 +2542,14 @@ Backup file last modified time: %2</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T060738Z" creationid="miurahr" creationdate="20210509T060738Z">
         <seg>行番号:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Link</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061416Z" creationid="miurahr" creationdate="20210509T061416Z">
+        <seg>リンク</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2626,14 @@ Backup file last modified time: %2</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mark</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061429Z" creationid="miurahr" creationdate="20210509T061429Z">
+        <seg>マーク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Markdown</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T045559Z" creationid="miurahr" creationdate="20210509T045559Z">
@@ -2518,6 +2670,22 @@ Backup file last modified time: %2</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T061304Z" creationid="miurahr" creationdate="20210509T061304Z">
         <seg>一致が見つかりました: %1/%2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Math</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061413Z" creationid="miurahr" creationdate="20210509T061408Z">
+        <seg>数式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Math Block</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061410Z" creationid="miurahr" creationdate="20210509T061410Z">
+        <seg>数式ブロック</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,6 +3184,14 @@ Description: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ordered List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061357Z" creationid="miurahr" creationdate="20210509T061357Z">
+        <seg>順序付きリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Others</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053403Z" creationid="miurahr" creationdate="20210509T045601Z">
@@ -3316,6 +3492,14 @@ Description: %3</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T053913Z" creationid="miurahr" creationdate="20210509T053913Z">
         <seg>終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quote</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061420Z" creationid="miurahr" creationdate="20210509T061411Z">
+        <seg>引用</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,6 +3856,14 @@ Description: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Section Number</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061437Z" creationid="miurahr" creationdate="20210509T061437Z">
+        <seg>セクション番号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Section number mode</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T054930Z" creationid="miurahr" creationdate="20210509T054930Z">
@@ -3968,6 +4160,14 @@ Description: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061353Z" creationid="miurahr" creationdate="20210509T061353Z">
+        <seg>取り消し線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Style Override</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T060930Z" creationid="miurahr" creationdate="20210509T060930Z">
@@ -3996,6 +4196,14 @@ Description: %3</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T060901Z" creationid="miurahr" creationdate="20210509T060901Z">
         <seg>タブストップの幅:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061427Z" creationid="miurahr" creationdate="20210509T061427Z">
+        <seg>表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4144,6 +4352,14 @@ Description: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Todo List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061359Z" creationid="miurahr" creationdate="20210509T061359Z">
+        <seg>TODOリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Location List</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T060446Z" creationid="miurahr" creationdate="20210509T060446Z">
@@ -4188,6 +4404,14 @@ Description: %3</seg>
       </tuv>
       <tuv lang="ja" changeid="miurahr" changedate="20210509T050057Z" creationid="miurahr" creationdate="20210509T050048Z">
         <seg>不明なターゲットフォーマット %1 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unordered List</seg>
+      </tuv>
+      <tuv lang="ja" changeid="miurahr" changedate="20210509T061355Z" creationid="miurahr" creationdate="20210509T061355Z">
+        <seg>順序なしリスト</seg>
       </tuv>
     </tu>
     <tu>
